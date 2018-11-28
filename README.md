@@ -58,6 +58,10 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 
 <img src="Screenshots/androidDemo.gif">
 
+### iOS
+
+<img src="Screenshots/iosDemo.gif">
+
 # Limitations
 
 Only support Android and iOS for the moment. 
