@@ -13,7 +13,7 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
         {
             global::Xamarin.Forms.Forms.Init();
 
-            Xamarin.EnableKeyboardEffect.iOS.Effects.Init();//write here
+            Xamarin.EnableKeyboardEffect.iOS.Effects.Init();//need this
 
             LoadApplication(new App());
             return base.FinishedLaunching(app, options);
