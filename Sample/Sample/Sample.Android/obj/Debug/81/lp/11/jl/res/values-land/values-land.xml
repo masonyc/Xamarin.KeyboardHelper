@@ -1,1 +1,0 @@
-<resources><style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout"><item name="tabGravity">center</item><item name="tabMode">fixed</item></style></resources>
