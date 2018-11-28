@@ -3,7 +3,7 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 
 # Prerequisite
 
-- Need Xamarin.Forms version 3.2.0.871581 or above
+- Need Xamarin.Forms version 3 or above
 
 # Setup
 
