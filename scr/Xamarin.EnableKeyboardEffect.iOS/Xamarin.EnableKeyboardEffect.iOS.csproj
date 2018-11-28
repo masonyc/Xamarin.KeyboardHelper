@@ -56,7 +56,7 @@
     <Folder Include="Resources\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="initialize.cs" />
+    <Compile Include="Initialize.cs" />
     <Compile Include="KeyboardEnableEffect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
