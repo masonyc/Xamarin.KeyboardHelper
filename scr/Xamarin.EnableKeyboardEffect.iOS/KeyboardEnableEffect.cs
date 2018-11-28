@@ -15,11 +15,11 @@ namespace Xamarin.EnableKeyboardEffect.iOS
         {
             try
             {
-                if (!(Control is UITextField nativeTextField))
+                if (!(Control is UITextField nativeTextField) || EnableKeyboardEffect.GetEnableKeyboard(Element))
                 {
                     return;
                 }
-
+                
                 nativeTextField.InputView = new UIView();
                 nativeTextField.BecomeFirstResponder();
             }

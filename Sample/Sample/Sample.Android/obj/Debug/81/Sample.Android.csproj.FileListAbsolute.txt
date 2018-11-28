@@ -58,6 +58,8 @@ C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Andr
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\bin\Debug\System.ComponentModel.Composition.pdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\bin\Debug\Mono.Security.pdb
+C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\Sample.Android.pdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\Mono.Android.pdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\mscorlib.pdb
@@ -80,8 +82,6 @@ C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Andr
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\Mono.Security.pdb
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\bin\Debug\FormsViewGroup.dll.mdb
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\Sample.dll.mdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

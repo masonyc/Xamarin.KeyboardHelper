@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Xamarin.EnableKeyboardEffect</id>
+        <version>1.0.0</version>
+        <title>Xamarin.EnableKeyboardEffect</title>
+        <authors>masonyc</authors>
+        <owners>masonyc</owners>
+        <projectUrl>https://github.com/masonyc/Xamarin.EnableKeyboardEffect</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Toggle softkeyboard display for Anroid / iOS in Xamarin.Forms</description>
+        <summary></summary>
+        <releaseNotes>
+        </releaseNotes>
+        <tags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</tags>
+        <language>en-US</language>
+        <dependencies>
+            <group targetFramework="netstandard2.0">
+                <dependency id="Xamarin.Forms" version="3.2.0.871581" />
+            </group>
+            <group targetFramework="Xamarin.iOS10">
+                <dependency id="Xamarin.Forms" version="3.2.0.871581" />
+            </group>
+            <group targetFramework="MonoAndroid">
+                <dependency id="Xamarin.Forms" version="3.2.0.871581" />
+            </group>
+        </dependencies>
+    </metadata>
+    <files>
+        <!-- .netstandard 2.0 -->
+        <file src="../scr/Xamarin.EnableKeyboardEffect/bin/Release/netstandard2.0/Xamarin.EnableKeyboardEffect.dll" target="lib/netstandard2.0" />
+        <!-- Mono.Android -->
+        <file src="../scr/Xamarin.EnableKeyboardEffect/bin/Release/netstandard2.0/Xamarin.EnableKeyboardEffect.dll" target="lib/MonoAndroid" />
+        <file src="../scr/Xamarin.EnableKeyboardEffect.Droid/bin/Release/Xamarin.EnableKeyboardEffect.Droid.dll" target="lib/MonoAndroid" />
+	<!-- Xamarin.iOS10 -->
+        <file src="../scr/Xamarin.EnableKeyboardEffect/bin/Release/netstandard2.0/Xamarin.EnableKeyboardEffect.dll" target="lib/Xamarin.iOS10" />
+        <file src="../scr/Xamarin.EnableKeyboardEffect.iOS/bin/Release/Xamarin.EnableKeyboardEffect.iOS.dll" target="lib/Xamarin.iOS10" />
+    </files>
+</package>

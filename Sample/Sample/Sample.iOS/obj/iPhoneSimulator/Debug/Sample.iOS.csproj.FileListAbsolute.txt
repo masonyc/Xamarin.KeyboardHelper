@@ -48,6 +48,7 @@ C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\bin\iPhoneSimulator\Debug\Xamarin.EnableKeyboardEffect.iOS.dll.mdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\bin\iPhoneSimulator\Debug\Xamarin.EnableKeyboardEffect.pdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\bin\iPhoneSimulator\Debug\Sample.pdb
+C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\bin\iPhoneSimulator\Debug\Sample.dll.mdb
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
@@ -60,4 +61,3 @@ C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\obj\iPhoneSimulator\Debug\Sample.iOS.csproj.CopyComplete
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\obj\iPhoneSimulator\Debug\Sample.iOS.exe
 C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\obj\iPhoneSimulator\Debug\Sample.iOS.pdb
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\Sample\Sample\Sample.iOS\bin\iPhoneSimulator\Debug\Sample.dll.mdb

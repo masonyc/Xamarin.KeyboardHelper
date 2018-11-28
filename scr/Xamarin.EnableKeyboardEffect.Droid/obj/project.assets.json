@@ -14,7 +14,7 @@
           "lib/MonoAndroid80/Xamarin.Android.Arch.Core.Common.dll": {}
         },
         "build": {
-          "build/MonoAndroid80/Xamarin.Android.Arch.Core.Common.targets": {}
+          "build/MonoAndroid80/_._": {}
         }
       },
       "Xamarin.Android.Arch.Lifecycle.Common/1.0.3": {
@@ -29,7 +29,7 @@
           "lib/MonoAndroid80/Xamarin.Android.Arch.Lifecycle.Common.dll": {}
         },
         "build": {
-          "build/MonoAndroid80/Xamarin.Android.Arch.Lifecycle.Common.targets": {}
+          "build/MonoAndroid80/_._": {}
         }
       },
       "Xamarin.Android.Arch.Lifecycle.Runtime/1.0.3": {
@@ -46,7 +46,7 @@
           "lib/MonoAndroid80/Xamarin.Android.Arch.Lifecycle.Runtime.dll": {}
         },
         "build": {
-          "build/MonoAndroid80/Xamarin.Android.Arch.Lifecycle.Runtime.targets": {}
+          "build/MonoAndroid80/_._": {}
         }
       },
       "Xamarin.Android.Support.Animated.Vector.Drawable/27.0.2": {
@@ -61,7 +61,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.Animated.Vector.Drawable.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.Animated.Vector.Drawable.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Android.Support.Annotations/27.0.2": {
@@ -73,7 +73,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.Annotations.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.Annotations.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Android.Support.Compat/27.0.2": {
@@ -89,7 +89,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.Compat.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.Compat.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Android.Support.Core.UI/27.0.2": {
@@ -104,7 +104,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.Core.UI.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.Core.UI.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Android.Support.Core.Utils/27.0.2": {
@@ -119,7 +119,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.Core.Utils.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.Core.Utils.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Android.Support.Design/27.0.2": {
@@ -158,7 +158,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.Fragment.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.Fragment.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Android.Support.Media.Compat/27.0.2": {
@@ -173,7 +173,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.Media.Compat.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.Media.Compat.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Android.Support.Transition/27.0.2": {
@@ -232,7 +232,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.v7.AppCompat.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.v7.AppCompat.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Android.Support.v7.CardView/27.0.2": {
@@ -310,7 +310,7 @@
           "lib/MonoAndroid81/Xamarin.Android.Support.Vector.Drawable.dll": {}
         },
         "build": {
-          "build/MonoAndroid81/Xamarin.Android.Support.Vector.Drawable.targets": {}
+          "build/MonoAndroid81/_._": {}
         }
       },
       "Xamarin.Forms/3.2.0.871581": {
@@ -772,7 +772,6 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v8.1": [
-      "Xamarin.Android.Support.v7.AppCompat >= 27.0.2",
       "Xamarin.EnableKeyboardEffect >= 1.0.0"
     ]
   },
@@ -812,14 +811,7 @@
       }
     },
     "frameworks": {
-      "monoandroid81": {
-        "dependencies": {
-          "Xamarin.Android.Support.v7.AppCompat": {
-            "target": "Package",
-            "version": "[27.0.2, )"
-          }
-        }
-      }
+      "monoandroid81": {}
     }
   }
 }
