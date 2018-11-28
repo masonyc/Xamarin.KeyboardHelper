@@ -29,7 +29,7 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 ### Show soft keyboard
 
 ```csharp
-        <Entry Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True">
+        <Entry Text="Show Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
@@ -49,7 +49,7 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 ### Bind Boolean property to effect
 
 ```csharp
-        <Entry Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="{Binding VisibleBinding}">
+        <Entry Text="Toggle Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="{Binding VisibleBinding}">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
