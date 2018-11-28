@@ -1,9 +1,0 @@
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\bin\Debug\netstandard2.0\Xamarin.EnableKeyboardEffect.deps.json
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\bin\Debug\netstandard2.0\Xamarin.EnableKeyboardEffect.dll
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\bin\Debug\netstandard2.0\Xamarin.EnableKeyboardEffect.pdb
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\obj\Debug\netstandard2.0\Xamarin.EnableKeyboardEffect.csproj.CoreCompileInputs.cache
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\obj\Debug\netstandard2.0\Xamarin.EnableKeyboardEffect.AssemblyInfoInputs.cache
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\obj\Debug\netstandard2.0\Xamarin.EnableKeyboardEffect.AssemblyInfo.cs
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\obj\Debug\netstandard2.0\Xamarin.EnableKeyboardEffect.dll
-C:\Users\masonc\Documents\Xamarin.EnableKeyboardEffect\scr\Xamarin.EnableKeyboardEffect\obj\Debug\netstandard2.0\Xamarin.EnableKeyboardEffect.pdb
