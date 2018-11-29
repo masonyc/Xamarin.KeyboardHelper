@@ -1,13 +1,14 @@
-# Xamarin.EnableKeyboardEffect  <img src="https://ci.appveyor.com/api/projects/status/github/masonyc/Xamarin.EnableKeyboardEffect?svg=true" width="100">
+# Xamarin.EnableKeyboardEffect 
 
 This effect allows user to show/hide softkeyboard on Android/iOS platform in Xamarin.Forms
 
-# Prerequisite
+# Building Status
 
-- Need Xamarin.Forms version 3 or above
+<img src="https://ci.appveyor.com/api/projects/status/github/masonyc/Xamarin.EnableKeyboardEffect?svg=true" width="100">
 
 # Setup
 
+- Need Xamarin.Forms version 3 or above
 - `Xamarin.EnableKeyboardEffect` Available on NuGet: https://www.nuget.org/packages/Xamarin.EnableKeyboardEffect
 - Install into your platform-specific projects (iOS/Android), and any .NET Standard 2.0 projects required for your app.
 - add ```
