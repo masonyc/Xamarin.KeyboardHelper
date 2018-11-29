@@ -19,8 +19,10 @@ namespace Xamarin.EnableKeyboardEffect.iOS
                 {
                     return;
                 }
-                
                 nativeTextField.InputView = new UIView();
+
+                nativeTextField.InputAssistantItem.LeadingBarButtonGroups = null;
+                nativeTextField.InputAssistantItem.TrailingBarButtonGroups = null;
                 nativeTextField.BecomeFirstResponder();
             }
             catch (Exception ex)
