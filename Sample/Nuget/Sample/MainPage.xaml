@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Sample"
+             xmlns:effects="clr-namespace:Xamarin.EnableKeyboardEffect;assembly=Xamarin.EnableKeyboardEffect"
+             x:Class="Sample.MainPage">
+
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+        <Entry Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False">
+            <Entry.Effects>
+                <effects:KeyboardEnableEffect/>
+            </Entry.Effects>
+        </Entry>
+        <Entry Text="Show Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True">
+            <Entry.Effects>
+                <effects:KeyboardEnableEffect/>
+            </Entry.Effects>
+        </Entry>
+    </StackLayout>
+
+</ContentPage>

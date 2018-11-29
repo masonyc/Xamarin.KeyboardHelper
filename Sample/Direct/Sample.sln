@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Android", "Sample\Sample.Android\Sample.Android.csproj", "{7B6DEA22-B8F0-4C29-98A1-D9DFE91A0C11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Android", "Sample.Android\Sample.Android.csproj", "{7B6DEA22-B8F0-4C29-98A1-D9DFE91A0C11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.iOS", "Sample\Sample.iOS\Sample.iOS.csproj", "{FE5E351B-D5D7-4907-909E-2A865DB21595}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.iOS", "Sample.iOS\Sample.iOS.csproj", "{FE5E351B-D5D7-4907-909E-2A865DB21595}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample", "Sample\Sample\Sample.csproj", "{6A6BBA96-AFEB-4399-AA2E-2C8A9E1D7A90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample", "Sample\Sample.csproj", "{6A6BBA96-AFEB-4399-AA2E-2C8A9E1D7A90}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scr", "scr", "{3AA24539-7A94-43FA-9F49-CDCFF763AF26}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.EnableKeyboardEffect", "..\scr\Xamarin.EnableKeyboardEffect\Xamarin.EnableKeyboardEffect.csproj", "{3CB40FE3-E940-4E16-87CF-61CDC8F4AEAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.EnableKeyboardEffect", "..\..\scr\Xamarin.EnableKeyboardEffect\Xamarin.EnableKeyboardEffect.csproj", "{3CB40FE3-E940-4E16-87CF-61CDC8F4AEAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.EnableKeyboardEffect.Droid", "..\scr\Xamarin.EnableKeyboardEffect.Droid\Xamarin.EnableKeyboardEffect.Droid.csproj", "{F315E090-09C9-4054-851A-234B9F97B47C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.EnableKeyboardEffect.Droid", "..\..\scr\Xamarin.EnableKeyboardEffect.Droid\Xamarin.EnableKeyboardEffect.Droid.csproj", "{F315E090-09C9-4054-851A-234B9F97B47C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.EnableKeyboardEffect.iOS", "..\scr\Xamarin.EnableKeyboardEffect.iOS\Xamarin.EnableKeyboardEffect.iOS.csproj", "{E71F3053-056C-4381-9638-048ED73BDFF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.EnableKeyboardEffect.iOS", "..\..\scr\Xamarin.EnableKeyboardEffect.iOS\Xamarin.EnableKeyboardEffect.iOS.csproj", "{E71F3053-056C-4381-9638-048ED73BDFF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
