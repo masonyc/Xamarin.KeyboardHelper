@@ -7,6 +7,7 @@
         <authors>masonyc</authors>
         <owners>masonyc</owners>
 	<iconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.EnableKeyboardEffect/master/Screenshots/icon.png</iconUrl>
+        <licenseUrl>https://github.com/masonyc/Xamarin.EnableKeyboardEffect/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/masonyc/Xamarin.EnableKeyboardEffect</projectUrl>
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <description>Toggle softkeyboard display for Anroid / iOS in Xamarin.Forms</description>
