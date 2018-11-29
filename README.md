@@ -1,3 +1,5 @@
+<img src="Screenshots/icon.png" width="64px" >
+
 # Xamarin.EnableKeyboardEffect 
 
 This effect allows user to show/hide softkeyboard on Android/iOS platform in Xamarin.Forms
