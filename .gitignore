@@ -291,3 +291,4 @@ __pycache__/
 ../[Oo]bj/
 /scr/.vs/
 /sample/.vs/
+/scr/Xamarin.EnableKeyboardEffect.Droid/Resources/Resource.designer.cs
