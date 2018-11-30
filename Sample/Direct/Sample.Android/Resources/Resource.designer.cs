@@ -26,2101 +26,6 @@ namespace Sample.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_fade_in = global::Sample.Droid.Resource.Animation.abc_fade_in;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_fade_out = global::Sample.Droid.Resource.Animation.abc_fade_out;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::Sample.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_popup_enter = global::Sample.Droid.Resource.Animation.abc_popup_enter;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_popup_exit = global::Sample.Droid.Resource.Animation.abc_popup_exit;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Sample.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_slide_in_bottom = global::Sample.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_slide_in_top = global::Sample.Droid.Resource.Animation.abc_slide_in_top;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_slide_out_bottom = global::Sample.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.abc_slide_out_top = global::Sample.Droid.Resource.Animation.abc_slide_out_top;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::Sample.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::Sample.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.design_snackbar_in = global::Sample.Droid.Resource.Animation.design_snackbar_in;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animation.design_snackbar_out = global::Sample.Droid.Resource.Animation.design_snackbar_out;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Animator.design_appbar_state_list_animator = global::Sample.Droid.Resource.Animator.design_appbar_state_list_animator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarDivider = global::Sample.Droid.Resource.Attribute.actionBarDivider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarItemBackground = global::Sample.Droid.Resource.Attribute.actionBarItemBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarPopupTheme = global::Sample.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarSize = global::Sample.Droid.Resource.Attribute.actionBarSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarSplitStyle = global::Sample.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarStyle = global::Sample.Droid.Resource.Attribute.actionBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarTabBarStyle = global::Sample.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarTabStyle = global::Sample.Droid.Resource.Attribute.actionBarTabStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarTabTextStyle = global::Sample.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarTheme = global::Sample.Droid.Resource.Attribute.actionBarTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionBarWidgetTheme = global::Sample.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionButtonStyle = global::Sample.Droid.Resource.Attribute.actionButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionDropDownStyle = global::Sample.Droid.Resource.Attribute.actionDropDownStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionLayout = global::Sample.Droid.Resource.Attribute.actionLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionMenuTextAppearance = global::Sample.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionMenuTextColor = global::Sample.Droid.Resource.Attribute.actionMenuTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeBackground = global::Sample.Droid.Resource.Attribute.actionModeBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::Sample.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeCloseDrawable = global::Sample.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeCopyDrawable = global::Sample.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeCutDrawable = global::Sample.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeFindDrawable = global::Sample.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModePasteDrawable = global::Sample.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModePopupWindowStyle = global::Sample.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::Sample.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeShareDrawable = global::Sample.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeSplitBackground = global::Sample.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeStyle = global::Sample.Droid.Resource.Attribute.actionModeStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::Sample.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionOverflowButtonStyle = global::Sample.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionOverflowMenuStyle = global::Sample.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionProviderClass = global::Sample.Droid.Resource.Attribute.actionProviderClass;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.actionViewClass = global::Sample.Droid.Resource.Attribute.actionViewClass;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.activityChooserViewStyle = global::Sample.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::Sample.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.alertDialogCenterButtons = global::Sample.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.alertDialogStyle = global::Sample.Droid.Resource.Attribute.alertDialogStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.alertDialogTheme = global::Sample.Droid.Resource.Attribute.alertDialogTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.allowStacking = global::Sample.Droid.Resource.Attribute.allowStacking;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.alpha = global::Sample.Droid.Resource.Attribute.alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.arrowHeadLength = global::Sample.Droid.Resource.Attribute.arrowHeadLength;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.arrowShaftLength = global::Sample.Droid.Resource.Attribute.arrowShaftLength;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::Sample.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.background = global::Sample.Droid.Resource.Attribute.background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.backgroundSplit = global::Sample.Droid.Resource.Attribute.backgroundSplit;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.backgroundStacked = global::Sample.Droid.Resource.Attribute.backgroundStacked;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.backgroundTint = global::Sample.Droid.Resource.Attribute.backgroundTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.backgroundTintMode = global::Sample.Droid.Resource.Attribute.backgroundTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.barLength = global::Sample.Droid.Resource.Attribute.barLength;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.behavior_autoHide = global::Sample.Droid.Resource.Attribute.behavior_autoHide;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.behavior_hideable = global::Sample.Droid.Resource.Attribute.behavior_hideable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.behavior_overlapTop = global::Sample.Droid.Resource.Attribute.behavior_overlapTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.behavior_peekHeight = global::Sample.Droid.Resource.Attribute.behavior_peekHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.behavior_skipCollapsed = global::Sample.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.borderWidth = global::Sample.Droid.Resource.Attribute.borderWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.borderlessButtonStyle = global::Sample.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.bottomSheetDialogTheme = global::Sample.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.bottomSheetStyle = global::Sample.Droid.Resource.Attribute.bottomSheetStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonBarButtonStyle = global::Sample.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::Sample.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::Sample.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::Sample.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonBarStyle = global::Sample.Droid.Resource.Attribute.buttonBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonGravity = global::Sample.Droid.Resource.Attribute.buttonGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonPanelSideLayout = global::Sample.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonStyle = global::Sample.Droid.Resource.Attribute.buttonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonStyleSmall = global::Sample.Droid.Resource.Attribute.buttonStyleSmall;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonTint = global::Sample.Droid.Resource.Attribute.buttonTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.buttonTintMode = global::Sample.Droid.Resource.Attribute.buttonTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.cardBackgroundColor = global::Sample.Droid.Resource.Attribute.cardBackgroundColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.cardCornerRadius = global::Sample.Droid.Resource.Attribute.cardCornerRadius;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.cardElevation = global::Sample.Droid.Resource.Attribute.cardElevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.cardMaxElevation = global::Sample.Droid.Resource.Attribute.cardMaxElevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.cardPreventCornerOverlap = global::Sample.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.cardUseCompatPadding = global::Sample.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.checkboxStyle = global::Sample.Droid.Resource.Attribute.checkboxStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.checkedTextViewStyle = global::Sample.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.closeIcon = global::Sample.Droid.Resource.Attribute.closeIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.closeItemLayout = global::Sample.Droid.Resource.Attribute.closeItemLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.collapseContentDescription = global::Sample.Droid.Resource.Attribute.collapseContentDescription;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.collapseIcon = global::Sample.Droid.Resource.Attribute.collapseIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.collapsedTitleGravity = global::Sample.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::Sample.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.color = global::Sample.Droid.Resource.Attribute.color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorAccent = global::Sample.Droid.Resource.Attribute.colorAccent;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorBackgroundFloating = global::Sample.Droid.Resource.Attribute.colorBackgroundFloating;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorButtonNormal = global::Sample.Droid.Resource.Attribute.colorButtonNormal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorControlActivated = global::Sample.Droid.Resource.Attribute.colorControlActivated;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorControlHighlight = global::Sample.Droid.Resource.Attribute.colorControlHighlight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorControlNormal = global::Sample.Droid.Resource.Attribute.colorControlNormal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorPrimary = global::Sample.Droid.Resource.Attribute.colorPrimary;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorPrimaryDark = global::Sample.Droid.Resource.Attribute.colorPrimaryDark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.colorSwitchThumbNormal = global::Sample.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.commitIcon = global::Sample.Droid.Resource.Attribute.commitIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentInsetEnd = global::Sample.Droid.Resource.Attribute.contentInsetEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentInsetEndWithActions = global::Sample.Droid.Resource.Attribute.contentInsetEndWithActions;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentInsetLeft = global::Sample.Droid.Resource.Attribute.contentInsetLeft;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentInsetRight = global::Sample.Droid.Resource.Attribute.contentInsetRight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentInsetStart = global::Sample.Droid.Resource.Attribute.contentInsetStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::Sample.Droid.Resource.Attribute.contentInsetStartWithNavigation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentPadding = global::Sample.Droid.Resource.Attribute.contentPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentPaddingBottom = global::Sample.Droid.Resource.Attribute.contentPaddingBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentPaddingLeft = global::Sample.Droid.Resource.Attribute.contentPaddingLeft;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentPaddingRight = global::Sample.Droid.Resource.Attribute.contentPaddingRight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentPaddingTop = global::Sample.Droid.Resource.Attribute.contentPaddingTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.contentScrim = global::Sample.Droid.Resource.Attribute.contentScrim;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.controlBackground = global::Sample.Droid.Resource.Attribute.controlBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.counterEnabled = global::Sample.Droid.Resource.Attribute.counterEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.counterMaxLength = global::Sample.Droid.Resource.Attribute.counterMaxLength;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.counterOverflowTextAppearance = global::Sample.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.counterTextAppearance = global::Sample.Droid.Resource.Attribute.counterTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.customNavigationLayout = global::Sample.Droid.Resource.Attribute.customNavigationLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.defaultQueryHint = global::Sample.Droid.Resource.Attribute.defaultQueryHint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.dialogPreferredPadding = global::Sample.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.dialogTheme = global::Sample.Droid.Resource.Attribute.dialogTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.displayOptions = global::Sample.Droid.Resource.Attribute.displayOptions;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.divider = global::Sample.Droid.Resource.Attribute.divider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.dividerHorizontal = global::Sample.Droid.Resource.Attribute.dividerHorizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.dividerPadding = global::Sample.Droid.Resource.Attribute.dividerPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.dividerVertical = global::Sample.Droid.Resource.Attribute.dividerVertical;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.drawableSize = global::Sample.Droid.Resource.Attribute.drawableSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.drawerArrowStyle = global::Sample.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.dropDownListViewStyle = global::Sample.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::Sample.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.editTextBackground = global::Sample.Droid.Resource.Attribute.editTextBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.editTextColor = global::Sample.Droid.Resource.Attribute.editTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.editTextStyle = global::Sample.Droid.Resource.Attribute.editTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.elevation = global::Sample.Droid.Resource.Attribute.elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.errorEnabled = global::Sample.Droid.Resource.Attribute.errorEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.errorTextAppearance = global::Sample.Droid.Resource.Attribute.errorTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Sample.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expanded = global::Sample.Droid.Resource.Attribute.expanded;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expandedTitleGravity = global::Sample.Droid.Resource.Attribute.expandedTitleGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expandedTitleMargin = global::Sample.Droid.Resource.Attribute.expandedTitleMargin;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expandedTitleMarginBottom = global::Sample.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expandedTitleMarginEnd = global::Sample.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expandedTitleMarginStart = global::Sample.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expandedTitleMarginTop = global::Sample.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.expandedTitleTextAppearance = global::Sample.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.externalRouteEnabledDrawable = global::Sample.Droid.Resource.Attribute.externalRouteEnabledDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.fabSize = global::Sample.Droid.Resource.Attribute.fabSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.foregroundInsidePadding = global::Sample.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.gapBetweenBars = global::Sample.Droid.Resource.Attribute.gapBetweenBars;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.goIcon = global::Sample.Droid.Resource.Attribute.goIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.headerLayout = global::Sample.Droid.Resource.Attribute.headerLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.height = global::Sample.Droid.Resource.Attribute.height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.hideOnContentScroll = global::Sample.Droid.Resource.Attribute.hideOnContentScroll;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.hintAnimationEnabled = global::Sample.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.hintEnabled = global::Sample.Droid.Resource.Attribute.hintEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.hintTextAppearance = global::Sample.Droid.Resource.Attribute.hintTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.homeAsUpIndicator = global::Sample.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.homeLayout = global::Sample.Droid.Resource.Attribute.homeLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.icon = global::Sample.Droid.Resource.Attribute.icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.iconifiedByDefault = global::Sample.Droid.Resource.Attribute.iconifiedByDefault;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.imageButtonStyle = global::Sample.Droid.Resource.Attribute.imageButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.indeterminateProgressStyle = global::Sample.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.initialActivityCount = global::Sample.Droid.Resource.Attribute.initialActivityCount;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.insetForeground = global::Sample.Droid.Resource.Attribute.insetForeground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.isLightTheme = global::Sample.Droid.Resource.Attribute.isLightTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.itemBackground = global::Sample.Droid.Resource.Attribute.itemBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.itemIconTint = global::Sample.Droid.Resource.Attribute.itemIconTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.itemPadding = global::Sample.Droid.Resource.Attribute.itemPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.itemTextAppearance = global::Sample.Droid.Resource.Attribute.itemTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.itemTextColor = global::Sample.Droid.Resource.Attribute.itemTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.keylines = global::Sample.Droid.Resource.Attribute.keylines;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout = global::Sample.Droid.Resource.Attribute.layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layoutManager = global::Sample.Droid.Resource.Attribute.layoutManager;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_anchor = global::Sample.Droid.Resource.Attribute.layout_anchor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_anchorGravity = global::Sample.Droid.Resource.Attribute.layout_anchorGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_behavior = global::Sample.Droid.Resource.Attribute.layout_behavior;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_collapseMode = global::Sample.Droid.Resource.Attribute.layout_collapseMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::Sample.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::Sample.Droid.Resource.Attribute.layout_dodgeInsetEdges;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_insetEdge = global::Sample.Droid.Resource.Attribute.layout_insetEdge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_keyline = global::Sample.Droid.Resource.Attribute.layout_keyline;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_scrollFlags = global::Sample.Droid.Resource.Attribute.layout_scrollFlags;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.layout_scrollInterpolator = global::Sample.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::Sample.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listDividerAlertDialog = global::Sample.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listItemLayout = global::Sample.Droid.Resource.Attribute.listItemLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listLayout = global::Sample.Droid.Resource.Attribute.listLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listMenuViewStyle = global::Sample.Droid.Resource.Attribute.listMenuViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listPopupWindowStyle = global::Sample.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listPreferredItemHeight = global::Sample.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::Sample.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::Sample.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::Sample.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::Sample.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.logo = global::Sample.Droid.Resource.Attribute.logo;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.logoDescription = global::Sample.Droid.Resource.Attribute.logoDescription;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.maxActionInlineWidth = global::Sample.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.maxButtonHeight = global::Sample.Droid.Resource.Attribute.maxButtonHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.measureWithLargestChild = global::Sample.Droid.Resource.Attribute.measureWithLargestChild;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable = global::Sample.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteButtonStyle = global::Sample.Droid.Resource.Attribute.mediaRouteButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteCloseDrawable = global::Sample.Droid.Resource.Attribute.mediaRouteCloseDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::Sample.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable = global::Sample.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRoutePauseDrawable = global::Sample.Droid.Resource.Attribute.mediaRoutePauseDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRoutePlayDrawable = global::Sample.Droid.Resource.Attribute.mediaRoutePlayDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::Sample.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::Sample.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteStopDrawable = global::Sample.Droid.Resource.Attribute.mediaRouteStopDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteTheme = global::Sample.Droid.Resource.Attribute.mediaRouteTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.mediaRouteTvIconDrawable = global::Sample.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.menu = global::Sample.Droid.Resource.Attribute.menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.multiChoiceItemLayout = global::Sample.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.navigationContentDescription = global::Sample.Droid.Resource.Attribute.navigationContentDescription;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.navigationIcon = global::Sample.Droid.Resource.Attribute.navigationIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.navigationMode = global::Sample.Droid.Resource.Attribute.navigationMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.overlapAnchor = global::Sample.Droid.Resource.Attribute.overlapAnchor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.paddingBottomNoButtons = global::Sample.Droid.Resource.Attribute.paddingBottomNoButtons;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.paddingEnd = global::Sample.Droid.Resource.Attribute.paddingEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.paddingStart = global::Sample.Droid.Resource.Attribute.paddingStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.paddingTopNoTitle = global::Sample.Droid.Resource.Attribute.paddingTopNoTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.panelBackground = global::Sample.Droid.Resource.Attribute.panelBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.panelMenuListTheme = global::Sample.Droid.Resource.Attribute.panelMenuListTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.panelMenuListWidth = global::Sample.Droid.Resource.Attribute.panelMenuListWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.passwordToggleContentDescription = global::Sample.Droid.Resource.Attribute.passwordToggleContentDescription;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.passwordToggleDrawable = global::Sample.Droid.Resource.Attribute.passwordToggleDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.passwordToggleEnabled = global::Sample.Droid.Resource.Attribute.passwordToggleEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.passwordToggleTint = global::Sample.Droid.Resource.Attribute.passwordToggleTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.passwordToggleTintMode = global::Sample.Droid.Resource.Attribute.passwordToggleTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.popupMenuStyle = global::Sample.Droid.Resource.Attribute.popupMenuStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.popupTheme = global::Sample.Droid.Resource.Attribute.popupTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.popupWindowStyle = global::Sample.Droid.Resource.Attribute.popupWindowStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.preserveIconSpacing = global::Sample.Droid.Resource.Attribute.preserveIconSpacing;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.pressedTranslationZ = global::Sample.Droid.Resource.Attribute.pressedTranslationZ;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.progressBarPadding = global::Sample.Droid.Resource.Attribute.progressBarPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.progressBarStyle = global::Sample.Droid.Resource.Attribute.progressBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.queryBackground = global::Sample.Droid.Resource.Attribute.queryBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.queryHint = global::Sample.Droid.Resource.Attribute.queryHint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.radioButtonStyle = global::Sample.Droid.Resource.Attribute.radioButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.ratingBarStyle = global::Sample.Droid.Resource.Attribute.ratingBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.ratingBarStyleIndicator = global::Sample.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.ratingBarStyleSmall = global::Sample.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.reverseLayout = global::Sample.Droid.Resource.Attribute.reverseLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.rippleColor = global::Sample.Droid.Resource.Attribute.rippleColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.scrimAnimationDuration = global::Sample.Droid.Resource.Attribute.scrimAnimationDuration;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::Sample.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.searchHintIcon = global::Sample.Droid.Resource.Attribute.searchHintIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.searchIcon = global::Sample.Droid.Resource.Attribute.searchIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.searchViewStyle = global::Sample.Droid.Resource.Attribute.searchViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.seekBarStyle = global::Sample.Droid.Resource.Attribute.seekBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.selectableItemBackground = global::Sample.Droid.Resource.Attribute.selectableItemBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::Sample.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.showAsAction = global::Sample.Droid.Resource.Attribute.showAsAction;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.showDividers = global::Sample.Droid.Resource.Attribute.showDividers;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.showText = global::Sample.Droid.Resource.Attribute.showText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.showTitle = global::Sample.Droid.Resource.Attribute.showTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.singleChoiceItemLayout = global::Sample.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.spanCount = global::Sample.Droid.Resource.Attribute.spanCount;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.spinBars = global::Sample.Droid.Resource.Attribute.spinBars;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::Sample.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.spinnerStyle = global::Sample.Droid.Resource.Attribute.spinnerStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.splitTrack = global::Sample.Droid.Resource.Attribute.splitTrack;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.srcCompat = global::Sample.Droid.Resource.Attribute.srcCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.stackFromEnd = global::Sample.Droid.Resource.Attribute.stackFromEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.state_above_anchor = global::Sample.Droid.Resource.Attribute.state_above_anchor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.state_collapsed = global::Sample.Droid.Resource.Attribute.state_collapsed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.state_collapsible = global::Sample.Droid.Resource.Attribute.state_collapsible;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.statusBarBackground = global::Sample.Droid.Resource.Attribute.statusBarBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.statusBarScrim = global::Sample.Droid.Resource.Attribute.statusBarScrim;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.subMenuArrow = global::Sample.Droid.Resource.Attribute.subMenuArrow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.submitBackground = global::Sample.Droid.Resource.Attribute.submitBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.subtitle = global::Sample.Droid.Resource.Attribute.subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.subtitleTextAppearance = global::Sample.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.subtitleTextColor = global::Sample.Droid.Resource.Attribute.subtitleTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.subtitleTextStyle = global::Sample.Droid.Resource.Attribute.subtitleTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.suggestionRowLayout = global::Sample.Droid.Resource.Attribute.suggestionRowLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.switchMinWidth = global::Sample.Droid.Resource.Attribute.switchMinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.switchPadding = global::Sample.Droid.Resource.Attribute.switchPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.switchStyle = global::Sample.Droid.Resource.Attribute.switchStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.switchTextAppearance = global::Sample.Droid.Resource.Attribute.switchTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabBackground = global::Sample.Droid.Resource.Attribute.tabBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabContentStart = global::Sample.Droid.Resource.Attribute.tabContentStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabGravity = global::Sample.Droid.Resource.Attribute.tabGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabIndicatorColor = global::Sample.Droid.Resource.Attribute.tabIndicatorColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabIndicatorHeight = global::Sample.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabMaxWidth = global::Sample.Droid.Resource.Attribute.tabMaxWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabMinWidth = global::Sample.Droid.Resource.Attribute.tabMinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabMode = global::Sample.Droid.Resource.Attribute.tabMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabPadding = global::Sample.Droid.Resource.Attribute.tabPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabPaddingBottom = global::Sample.Droid.Resource.Attribute.tabPaddingBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabPaddingEnd = global::Sample.Droid.Resource.Attribute.tabPaddingEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabPaddingStart = global::Sample.Droid.Resource.Attribute.tabPaddingStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabPaddingTop = global::Sample.Droid.Resource.Attribute.tabPaddingTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabSelectedTextColor = global::Sample.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabTextAppearance = global::Sample.Droid.Resource.Attribute.tabTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tabTextColor = global::Sample.Droid.Resource.Attribute.tabTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAllCaps = global::Sample.Droid.Resource.Attribute.textAllCaps;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::Sample.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAppearanceListItem = global::Sample.Droid.Resource.Attribute.textAppearanceListItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::Sample.Droid.Resource.Attribute.textAppearanceListItemSecondary;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAppearanceListItemSmall = global::Sample.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::Sample.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Sample.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::Sample.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::Sample.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textColorAlertDialogListItem = global::Sample.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textColorError = global::Sample.Droid.Resource.Attribute.textColorError;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.textColorSearchUrl = global::Sample.Droid.Resource.Attribute.textColorSearchUrl;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.theme = global::Sample.Droid.Resource.Attribute.theme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.thickness = global::Sample.Droid.Resource.Attribute.thickness;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.thumbTextPadding = global::Sample.Droid.Resource.Attribute.thumbTextPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.thumbTint = global::Sample.Droid.Resource.Attribute.thumbTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.thumbTintMode = global::Sample.Droid.Resource.Attribute.thumbTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tickMark = global::Sample.Droid.Resource.Attribute.tickMark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tickMarkTint = global::Sample.Droid.Resource.Attribute.tickMarkTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tickMarkTintMode = global::Sample.Droid.Resource.Attribute.tickMarkTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tint = global::Sample.Droid.Resource.Attribute.tint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.tintMode = global::Sample.Droid.Resource.Attribute.tintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.title = global::Sample.Droid.Resource.Attribute.title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleEnabled = global::Sample.Droid.Resource.Attribute.titleEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleMargin = global::Sample.Droid.Resource.Attribute.titleMargin;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleMarginBottom = global::Sample.Droid.Resource.Attribute.titleMarginBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleMarginEnd = global::Sample.Droid.Resource.Attribute.titleMarginEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleMarginStart = global::Sample.Droid.Resource.Attribute.titleMarginStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleMarginTop = global::Sample.Droid.Resource.Attribute.titleMarginTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleMargins = global::Sample.Droid.Resource.Attribute.titleMargins;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleTextAppearance = global::Sample.Droid.Resource.Attribute.titleTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleTextColor = global::Sample.Droid.Resource.Attribute.titleTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.titleTextStyle = global::Sample.Droid.Resource.Attribute.titleTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.toolbarId = global::Sample.Droid.Resource.Attribute.toolbarId;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::Sample.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.toolbarStyle = global::Sample.Droid.Resource.Attribute.toolbarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.track = global::Sample.Droid.Resource.Attribute.track;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.trackTint = global::Sample.Droid.Resource.Attribute.trackTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.trackTintMode = global::Sample.Droid.Resource.Attribute.trackTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.useCompatPadding = global::Sample.Droid.Resource.Attribute.useCompatPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.voiceIcon = global::Sample.Droid.Resource.Attribute.voiceIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowActionBar = global::Sample.Droid.Resource.Attribute.windowActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowActionBarOverlay = global::Sample.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowActionModeOverlay = global::Sample.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowFixedHeightMajor = global::Sample.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowFixedHeightMinor = global::Sample.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowFixedWidthMajor = global::Sample.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowFixedWidthMinor = global::Sample.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowMinWidthMajor = global::Sample.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowMinWidthMinor = global::Sample.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Attribute.windowNoTitle = global::Sample.Droid.Resource.Attribute.windowNoTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::Sample.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::Sample.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Sample.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::Sample.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::Sample.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::Sample.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_btn_colored_text_material = global::Sample.Droid.Resource.Color.abc_btn_colored_text_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_color_highlight_material = global::Sample.Droid.Resource.Color.abc_color_highlight_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_hint_foreground_material_dark = global::Sample.Droid.Resource.Color.abc_hint_foreground_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_hint_foreground_material_light = global::Sample.Droid.Resource.Color.abc_hint_foreground_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_input_method_navigation_guard = global::Sample.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::Sample.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::Sample.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_primary_text_material_dark = global::Sample.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_primary_text_material_light = global::Sample.Droid.Resource.Color.abc_primary_text_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_search_url_text = global::Sample.Droid.Resource.Color.abc_search_url_text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_search_url_text_normal = global::Sample.Droid.Resource.Color.abc_search_url_text_normal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_search_url_text_pressed = global::Sample.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_search_url_text_selected = global::Sample.Droid.Resource.Color.abc_search_url_text_selected;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_secondary_text_material_dark = global::Sample.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_secondary_text_material_light = global::Sample.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_tint_btn_checkable = global::Sample.Droid.Resource.Color.abc_tint_btn_checkable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_tint_default = global::Sample.Droid.Resource.Color.abc_tint_default;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_tint_edittext = global::Sample.Droid.Resource.Color.abc_tint_edittext;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_tint_seek_thumb = global::Sample.Droid.Resource.Color.abc_tint_seek_thumb;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_tint_spinner = global::Sample.Droid.Resource.Color.abc_tint_spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.abc_tint_switch_track = global::Sample.Droid.Resource.Color.abc_tint_switch_track;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.accent_material_dark = global::Sample.Droid.Resource.Color.accent_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.accent_material_light = global::Sample.Droid.Resource.Color.accent_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.background_floating_material_dark = global::Sample.Droid.Resource.Color.background_floating_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.background_floating_material_light = global::Sample.Droid.Resource.Color.background_floating_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.background_material_dark = global::Sample.Droid.Resource.Color.background_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.background_material_light = global::Sample.Droid.Resource.Color.background_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::Sample.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.bright_foreground_disabled_material_light = global::Sample.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::Sample.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.bright_foreground_inverse_material_light = global::Sample.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.bright_foreground_material_dark = global::Sample.Droid.Resource.Color.bright_foreground_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.bright_foreground_material_light = global::Sample.Droid.Resource.Color.bright_foreground_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.button_material_dark = global::Sample.Droid.Resource.Color.button_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.button_material_light = global::Sample.Droid.Resource.Color.button_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.cardview_dark_background = global::Sample.Droid.Resource.Color.cardview_dark_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.cardview_light_background = global::Sample.Droid.Resource.Color.cardview_light_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.cardview_shadow_end_color = global::Sample.Droid.Resource.Color.cardview_shadow_end_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.cardview_shadow_start_color = global::Sample.Droid.Resource.Color.cardview_shadow_start_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::Sample.Droid.Resource.Color.design_bottom_navigation_shadow_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_error = global::Sample.Droid.Resource.Color.design_error;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_fab_shadow_end_color = global::Sample.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_fab_shadow_mid_color = global::Sample.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_fab_shadow_start_color = global::Sample.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::Sample.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::Sample.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::Sample.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::Sample.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_snackbar_background_color = global::Sample.Droid.Resource.Color.design_snackbar_background_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.design_tint_password_toggle = global::Sample.Droid.Resource.Color.design_tint_password_toggle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::Sample.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.dim_foreground_disabled_material_light = global::Sample.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.dim_foreground_material_dark = global::Sample.Droid.Resource.Color.dim_foreground_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.dim_foreground_material_light = global::Sample.Droid.Resource.Color.dim_foreground_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.foreground_material_dark = global::Sample.Droid.Resource.Color.foreground_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.foreground_material_light = global::Sample.Droid.Resource.Color.foreground_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.highlighted_text_material_dark = global::Sample.Droid.Resource.Color.highlighted_text_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.highlighted_text_material_light = global::Sample.Droid.Resource.Color.highlighted_text_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_blue_grey_800 = global::Sample.Droid.Resource.Color.material_blue_grey_800;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_blue_grey_900 = global::Sample.Droid.Resource.Color.material_blue_grey_900;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_blue_grey_950 = global::Sample.Droid.Resource.Color.material_blue_grey_950;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_deep_teal_200 = global::Sample.Droid.Resource.Color.material_deep_teal_200;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_deep_teal_500 = global::Sample.Droid.Resource.Color.material_deep_teal_500;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_grey_100 = global::Sample.Droid.Resource.Color.material_grey_100;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_grey_300 = global::Sample.Droid.Resource.Color.material_grey_300;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_grey_50 = global::Sample.Droid.Resource.Color.material_grey_50;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_grey_600 = global::Sample.Droid.Resource.Color.material_grey_600;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_grey_800 = global::Sample.Droid.Resource.Color.material_grey_800;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_grey_850 = global::Sample.Droid.Resource.Color.material_grey_850;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.material_grey_900 = global::Sample.Droid.Resource.Color.material_grey_900;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.notification_action_color_filter = global::Sample.Droid.Resource.Color.notification_action_color_filter;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.notification_icon_bg_color = global::Sample.Droid.Resource.Color.notification_icon_bg_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.notification_material_background_media_default_color = global::Sample.Droid.Resource.Color.notification_material_background_media_default_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.primary_dark_material_dark = global::Sample.Droid.Resource.Color.primary_dark_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.primary_dark_material_light = global::Sample.Droid.Resource.Color.primary_dark_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.primary_material_dark = global::Sample.Droid.Resource.Color.primary_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.primary_material_light = global::Sample.Droid.Resource.Color.primary_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.primary_text_default_material_dark = global::Sample.Droid.Resource.Color.primary_text_default_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.primary_text_default_material_light = global::Sample.Droid.Resource.Color.primary_text_default_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.primary_text_disabled_material_dark = global::Sample.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.primary_text_disabled_material_light = global::Sample.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.ripple_material_dark = global::Sample.Droid.Resource.Color.ripple_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.ripple_material_light = global::Sample.Droid.Resource.Color.ripple_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.secondary_text_default_material_dark = global::Sample.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.secondary_text_default_material_light = global::Sample.Droid.Resource.Color.secondary_text_default_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.secondary_text_disabled_material_dark = global::Sample.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.secondary_text_disabled_material_light = global::Sample.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::Sample.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.switch_thumb_disabled_material_light = global::Sample.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.switch_thumb_material_dark = global::Sample.Droid.Resource.Color.switch_thumb_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.switch_thumb_material_light = global::Sample.Droid.Resource.Color.switch_thumb_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.switch_thumb_normal_material_dark = global::Sample.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Color.switch_thumb_normal_material_light = global::Sample.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_elevation_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_progress_bar_size = global::Sample.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::Sample.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Sample.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Sample.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_button_min_height_material = global::Sample.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_button_min_width_material = global::Sample.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Sample.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Sample.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::Sample.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::Sample.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::Sample.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::Sample.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Sample.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::Sample.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_control_corner_material = global::Sample.Droid.Resource.Dimension.abc_control_corner_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_control_inset_material = global::Sample.Droid.Resource.Dimension.abc_control_inset_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_control_padding_material = global::Sample.Droid.Resource.Dimension.abc_control_padding_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::Sample.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::Sample.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::Sample.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::Sample.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Sample.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Sample.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_min_width_major = global::Sample.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::Sample.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_padding_material = global::Sample.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::Sample.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::Sample.Droid.Resource.Dimension.abc_dialog_title_divider_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::Sample.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::Sample.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::Sample.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Sample.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Sample.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Sample.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Sample.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::Sample.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_floating_window_z = global::Sample.Droid.Resource.Dimension.abc_floating_window_z;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Sample.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_panel_menu_list_width = global::Sample.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_progress_bar_height_material = global::Sample.Droid.Resource.Dimension.abc_progress_bar_height_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_search_view_preferred_height = global::Sample.Droid.Resource.Dimension.abc_search_view_preferred_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_search_view_preferred_width = global::Sample.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::Sample.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Sample.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::Sample.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_switch_padding = global::Sample.Droid.Resource.Dimension.abc_switch_padding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_body_1_material = global::Sample.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_body_2_material = global::Sample.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_button_material = global::Sample.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_caption_material = global::Sample.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_display_1_material = global::Sample.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_display_2_material = global::Sample.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_display_3_material = global::Sample.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_display_4_material = global::Sample.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_headline_material = global::Sample.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_large_material = global::Sample.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_medium_material = global::Sample.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::Sample.Droid.Resource.Dimension.abc_text_size_menu_header_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_menu_material = global::Sample.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_small_material = global::Sample.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_subhead_material = global::Sample.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Sample.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_title_material = global::Sample.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::Sample.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::Sample.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.cardview_default_elevation = global::Sample.Droid.Resource.Dimension.cardview_default_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.cardview_default_radius = global::Sample.Droid.Resource.Dimension.cardview_default_radius;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_appbar_elevation = global::Sample.Droid.Resource.Dimension.design_appbar_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_height = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_margin = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_margin;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::Sample.Droid.Resource.Dimension.design_bottom_navigation_text_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Sample.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Sample.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_fab_border_width = global::Sample.Droid.Resource.Dimension.design_fab_border_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_fab_elevation = global::Sample.Droid.Resource.Dimension.design_fab_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_fab_image_size = global::Sample.Droid.Resource.Dimension.design_fab_image_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_fab_size_mini = global::Sample.Droid.Resource.Dimension.design_fab_size_mini;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_fab_size_normal = global::Sample.Droid.Resource.Dimension.design_fab_size_normal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::Sample.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_navigation_elevation = global::Sample.Droid.Resource.Dimension.design_navigation_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_navigation_icon_padding = global::Sample.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_navigation_icon_size = global::Sample.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_navigation_max_width = global::Sample.Droid.Resource.Dimension.design_navigation_max_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_navigation_padding_bottom = global::Sample.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::Sample.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::Sample.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::Sample.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_elevation = global::Sample.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Sample.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_max_width = global::Sample.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_min_width = global::Sample.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::Sample.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::Sample.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Sample.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_snackbar_text_size = global::Sample.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_tab_max_width = global::Sample.Droid.Resource.Dimension.design_tab_max_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::Sample.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_tab_text_size = global::Sample.Droid.Resource.Dimension.design_tab_text_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.design_tab_text_size_2line = global::Sample.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.disabled_alpha_material_dark = global::Sample.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.disabled_alpha_material_light = global::Sample.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.highlight_alpha_material_colored = global::Sample.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.highlight_alpha_material_dark = global::Sample.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.highlight_alpha_material_light = global::Sample.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.hint_alpha_material_dark = global::Sample.Droid.Resource.Dimension.hint_alpha_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.hint_alpha_material_light = global::Sample.Droid.Resource.Dimension.hint_alpha_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::Sample.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::Sample.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Sample.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Sample.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Sample.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height = global::Sample.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::Sample.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height = global::Sample.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::Sample.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.mr_dialog_fixed_width_major = global::Sample.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.mr_dialog_fixed_width_minor = global::Sample.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_action_icon_size = global::Sample.Droid.Resource.Dimension.notification_action_icon_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_action_text_size = global::Sample.Droid.Resource.Dimension.notification_action_text_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_big_circle_margin = global::Sample.Droid.Resource.Dimension.notification_big_circle_margin;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_content_margin_start = global::Sample.Droid.Resource.Dimension.notification_content_margin_start;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_large_icon_height = global::Sample.Droid.Resource.Dimension.notification_large_icon_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_large_icon_width = global::Sample.Droid.Resource.Dimension.notification_large_icon_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_main_column_padding_top = global::Sample.Droid.Resource.Dimension.notification_main_column_padding_top;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_media_narrow_margin = global::Sample.Droid.Resource.Dimension.notification_media_narrow_margin;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_right_icon_size = global::Sample.Droid.Resource.Dimension.notification_right_icon_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_right_side_padding_top = global::Sample.Droid.Resource.Dimension.notification_right_side_padding_top;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_small_icon_background_padding = global::Sample.Droid.Resource.Dimension.notification_small_icon_background_padding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::Sample.Droid.Resource.Dimension.notification_small_icon_size_as_large;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_subtext_size = global::Sample.Droid.Resource.Dimension.notification_subtext_size;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_top_pad = global::Sample.Droid.Resource.Dimension.notification_top_pad;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Dimension.notification_top_pad_large_text = global::Sample.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::Sample.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_borderless_material = global::Sample.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_check_material = global::Sample.Droid.Resource.Drawable.abc_btn_check_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Sample.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Sample.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_colored_material = global::Sample.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::Sample.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_radio_material = global::Sample.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Sample.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Sample.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Sample.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Sample.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::Sample.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_cab_background_top_material = global::Sample.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_control_background_material = global::Sample.Droid.Resource.Drawable.abc_control_background_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_dialog_material_background = global::Sample.Droid.Resource.Drawable.abc_dialog_material_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_edit_text_material = global::Sample.Droid.Resource.Drawable.abc_edit_text_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_ab_back_material = global::Sample.Droid.Resource.Drawable.abc_ic_ab_back_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Sample.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_clear_material = global::Sample.Droid.Resource.Drawable.abc_ic_clear_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::Sample.Droid.Resource.Drawable.abc_ic_go_search_api_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Sample.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::Sample.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Sample.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_search_api_material = global::Sample.Droid.Resource.Drawable.abc_ic_search_api_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::Sample.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::Sample.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::Sample.Droid.Resource.Drawable.abc_ic_star_black_48dp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::Sample.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::Sample.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::Sample.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::Sample.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_item_background_holo_dark = global::Sample.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_item_background_holo_light = global::Sample.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_focused_holo = global::Sample.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_longpressed_holo = global::Sample.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::Sample.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::Sample.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Sample.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Sample.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Sample.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Sample.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::Sample.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_list_selector_holo_light = global::Sample.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Sample.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::Sample.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::Sample.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ratingbar_material = global::Sample.Droid.Resource.Drawable.abc_ratingbar_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_ratingbar_small_material = global::Sample.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Sample.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Sample.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::Sample.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::Sample.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_seekbar_track_material = global::Sample.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Sample.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::Sample.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_switch_thumb_material = global::Sample.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_tab_indicator_material = global::Sample.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_text_cursor_material = global::Sample.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Sample.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Sample.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Sample.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Sample.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Sample.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Sample.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Sample.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_textfield_search_material = global::Sample.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.abc_vector_test = global::Sample.Droid.Resource.Drawable.abc_vector_test;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.avd_hide_password = global::Sample.Droid.Resource.Drawable.avd_hide_password;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.avd_hide_password_1 = global::Sample.Droid.Resource.Drawable.avd_hide_password_1;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.avd_hide_password_2 = global::Sample.Droid.Resource.Drawable.avd_hide_password_2;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.avd_hide_password_3 = global::Sample.Droid.Resource.Drawable.avd_hide_password_3;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.avd_show_password = global::Sample.Droid.Resource.Drawable.avd_show_password;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.avd_show_password_1 = global::Sample.Droid.Resource.Drawable.avd_show_password_1;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.avd_show_password_2 = global::Sample.Droid.Resource.Drawable.avd_show_password_2;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.avd_show_password_3 = global::Sample.Droid.Resource.Drawable.avd_show_password_3;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::Sample.Droid.Resource.Drawable.design_bottom_navigation_item_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.design_fab_background = global::Sample.Droid.Resource.Drawable.design_fab_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.design_ic_visibility = global::Sample.Droid.Resource.Drawable.design_ic_visibility;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.design_ic_visibility_off = global::Sample.Droid.Resource.Drawable.design_ic_visibility_off;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.design_password_eye = global::Sample.Droid.Resource.Drawable.design_password_eye;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.design_snackbar_background = global::Sample.Droid.Resource.Drawable.design_snackbar_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_audiotrack_dark = global::Sample.Droid.Resource.Drawable.ic_audiotrack_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_audiotrack_light = global::Sample.Droid.Resource.Drawable.ic_audiotrack_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_dialog_close_dark = global::Sample.Droid.Resource.Drawable.ic_dialog_close_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_dialog_close_light = global::Sample.Droid.Resource.Drawable.ic_dialog_close_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_00 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_00;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_01 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_01;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_02 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_02;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_03 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_03;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_04 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_04;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_05 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_05;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_06 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_06;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_07 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_07;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_08 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_08;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_09 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_09;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_10 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_10;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_11 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_11;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_12 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_12;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_13 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_13;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_14 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_14;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_collapse_15 = global::Sample.Droid.Resource.Drawable.ic_group_collapse_15;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_00 = global::Sample.Droid.Resource.Drawable.ic_group_expand_00;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_01 = global::Sample.Droid.Resource.Drawable.ic_group_expand_01;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_02 = global::Sample.Droid.Resource.Drawable.ic_group_expand_02;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_03 = global::Sample.Droid.Resource.Drawable.ic_group_expand_03;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_04 = global::Sample.Droid.Resource.Drawable.ic_group_expand_04;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_05 = global::Sample.Droid.Resource.Drawable.ic_group_expand_05;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_06 = global::Sample.Droid.Resource.Drawable.ic_group_expand_06;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_07 = global::Sample.Droid.Resource.Drawable.ic_group_expand_07;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_08 = global::Sample.Droid.Resource.Drawable.ic_group_expand_08;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_09 = global::Sample.Droid.Resource.Drawable.ic_group_expand_09;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_10 = global::Sample.Droid.Resource.Drawable.ic_group_expand_10;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_11 = global::Sample.Droid.Resource.Drawable.ic_group_expand_11;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_12 = global::Sample.Droid.Resource.Drawable.ic_group_expand_12;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_13 = global::Sample.Droid.Resource.Drawable.ic_group_expand_13;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_14 = global::Sample.Droid.Resource.Drawable.ic_group_expand_14;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_group_expand_15 = global::Sample.Droid.Resource.Drawable.ic_group_expand_15;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_media_pause_dark = global::Sample.Droid.Resource.Drawable.ic_media_pause_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_media_pause_light = global::Sample.Droid.Resource.Drawable.ic_media_pause_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_media_play_dark = global::Sample.Droid.Resource.Drawable.ic_media_play_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_media_play_light = global::Sample.Droid.Resource.Drawable.ic_media_play_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_media_stop_dark = global::Sample.Droid.Resource.Drawable.ic_media_stop_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_media_stop_light = global::Sample.Droid.Resource.Drawable.ic_media_stop_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_00_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_00_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_01_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_01_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_02_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_02_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_03_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_03_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_04_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_04_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_05_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_05_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_06_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_06_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_07_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_07_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_08_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_08_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_09_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_09_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_10_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_10_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_11_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_11_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_12_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_12_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_13_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_13_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_14_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_14_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_15_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_15_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_16_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_16_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_17_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_17_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_18_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_18_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_19_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_19_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_20_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_20_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_21_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_21_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_22_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connected_22_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_00_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_01_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_02_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_03_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_04_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_05_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_06_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_07_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_08_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_09_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_10_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_11_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_12_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_13_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_14_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_15_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_16_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_17_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_18_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_19_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_20_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_21_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_connecting_22_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_disabled_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_disabled_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_disabled_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_disconnected_dark = global::Sample.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_disconnected_light = global::Sample.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_mr_button_grey = global::Sample.Droid.Resource.Drawable.ic_mr_button_grey;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_vol_type_speaker_dark = global::Sample.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark = global::Sample.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_vol_type_speaker_group_light = global::Sample.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_vol_type_speaker_light = global::Sample.Droid.Resource.Drawable.ic_vol_type_speaker_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_vol_type_tv_dark = global::Sample.Droid.Resource.Drawable.ic_vol_type_tv_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.ic_vol_type_tv_light = global::Sample.Droid.Resource.Drawable.ic_vol_type_tv_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_button_connected_dark = global::Sample.Droid.Resource.Drawable.mr_button_connected_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_button_connected_light = global::Sample.Droid.Resource.Drawable.mr_button_connected_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_button_connecting_dark = global::Sample.Droid.Resource.Drawable.mr_button_connecting_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_button_connecting_light = global::Sample.Droid.Resource.Drawable.mr_button_connecting_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_button_dark = global::Sample.Droid.Resource.Drawable.mr_button_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_button_light = global::Sample.Droid.Resource.Drawable.mr_button_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_dialog_close_dark = global::Sample.Droid.Resource.Drawable.mr_dialog_close_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_dialog_close_light = global::Sample.Droid.Resource.Drawable.mr_dialog_close_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_dialog_material_background_dark = global::Sample.Droid.Resource.Drawable.mr_dialog_material_background_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_dialog_material_background_light = global::Sample.Droid.Resource.Drawable.mr_dialog_material_background_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_group_collapse = global::Sample.Droid.Resource.Drawable.mr_group_collapse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_group_expand = global::Sample.Droid.Resource.Drawable.mr_group_expand;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_media_pause_dark = global::Sample.Droid.Resource.Drawable.mr_media_pause_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_media_pause_light = global::Sample.Droid.Resource.Drawable.mr_media_pause_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_media_play_dark = global::Sample.Droid.Resource.Drawable.mr_media_play_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_media_play_light = global::Sample.Droid.Resource.Drawable.mr_media_play_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_media_stop_dark = global::Sample.Droid.Resource.Drawable.mr_media_stop_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_media_stop_light = global::Sample.Droid.Resource.Drawable.mr_media_stop_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark = global::Sample.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.mr_vol_type_audiotrack_light = global::Sample.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.navigation_empty_icon = global::Sample.Droid.Resource.Drawable.navigation_empty_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_action_background = global::Sample.Droid.Resource.Drawable.notification_action_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_bg = global::Sample.Droid.Resource.Drawable.notification_bg;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_bg_low = global::Sample.Droid.Resource.Drawable.notification_bg_low;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_bg_low_normal = global::Sample.Droid.Resource.Drawable.notification_bg_low_normal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_bg_low_pressed = global::Sample.Droid.Resource.Drawable.notification_bg_low_pressed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_bg_normal = global::Sample.Droid.Resource.Drawable.notification_bg_normal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_bg_normal_pressed = global::Sample.Droid.Resource.Drawable.notification_bg_normal_pressed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_icon_background = global::Sample.Droid.Resource.Drawable.notification_icon_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_template_icon_bg = global::Sample.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_template_icon_low_bg = global::Sample.Droid.Resource.Drawable.notification_template_icon_low_bg;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notification_tile_bg = global::Sample.Droid.Resource.Drawable.notification_tile_bg;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::Sample.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action0 = global::Sample.Droid.Resource.Id.action0;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_bar = global::Sample.Droid.Resource.Id.action_bar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_bar_activity_content = global::Sample.Droid.Resource.Id.action_bar_activity_content;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_bar_container = global::Sample.Droid.Resource.Id.action_bar_container;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_bar_root = global::Sample.Droid.Resource.Id.action_bar_root;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_bar_spinner = global::Sample.Droid.Resource.Id.action_bar_spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_bar_subtitle = global::Sample.Droid.Resource.Id.action_bar_subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_bar_title = global::Sample.Droid.Resource.Id.action_bar_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_container = global::Sample.Droid.Resource.Id.action_container;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_context_bar = global::Sample.Droid.Resource.Id.action_context_bar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_divider = global::Sample.Droid.Resource.Id.action_divider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_image = global::Sample.Droid.Resource.Id.action_image;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_menu_divider = global::Sample.Droid.Resource.Id.action_menu_divider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_menu_presenter = global::Sample.Droid.Resource.Id.action_menu_presenter;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_mode_bar = global::Sample.Droid.Resource.Id.action_mode_bar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_mode_bar_stub = global::Sample.Droid.Resource.Id.action_mode_bar_stub;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_mode_close_button = global::Sample.Droid.Resource.Id.action_mode_close_button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.action_text = global::Sample.Droid.Resource.Id.action_text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.actions = global::Sample.Droid.Resource.Id.actions;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.activity_chooser_view_content = global::Sample.Droid.Resource.Id.activity_chooser_view_content;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.add = global::Sample.Droid.Resource.Id.add;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.alertTitle = global::Sample.Droid.Resource.Id.alertTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.all = global::Sample.Droid.Resource.Id.all;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.always = global::Sample.Droid.Resource.Id.always;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.auto = global::Sample.Droid.Resource.Id.auto;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.beginning = global::Sample.Droid.Resource.Id.beginning;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.bottom = global::Sample.Droid.Resource.Id.bottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.buttonPanel = global::Sample.Droid.Resource.Id.buttonPanel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.cancel_action = global::Sample.Droid.Resource.Id.cancel_action;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.center = global::Sample.Droid.Resource.Id.center;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.center_horizontal = global::Sample.Droid.Resource.Id.center_horizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.center_vertical = global::Sample.Droid.Resource.Id.center_vertical;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.checkbox = global::Sample.Droid.Resource.Id.checkbox;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.chronometer = global::Sample.Droid.Resource.Id.chronometer;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.clip_horizontal = global::Sample.Droid.Resource.Id.clip_horizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.clip_vertical = global::Sample.Droid.Resource.Id.clip_vertical;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.collapseActionView = global::Sample.Droid.Resource.Id.collapseActionView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.container = global::Sample.Droid.Resource.Id.container;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.contentPanel = global::Sample.Droid.Resource.Id.contentPanel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.coordinator = global::Sample.Droid.Resource.Id.coordinator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.custom = global::Sample.Droid.Resource.Id.custom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.customPanel = global::Sample.Droid.Resource.Id.customPanel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.decor_content_parent = global::Sample.Droid.Resource.Id.decor_content_parent;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.default_activity_button = global::Sample.Droid.Resource.Id.default_activity_button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.design_bottom_sheet = global::Sample.Droid.Resource.Id.design_bottom_sheet;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.design_menu_item_action_area = global::Sample.Droid.Resource.Id.design_menu_item_action_area;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.design_menu_item_action_area_stub = global::Sample.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.design_menu_item_text = global::Sample.Droid.Resource.Id.design_menu_item_text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.design_navigation_view = global::Sample.Droid.Resource.Id.design_navigation_view;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.disableHome = global::Sample.Droid.Resource.Id.disableHome;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.edit_query = global::Sample.Droid.Resource.Id.edit_query;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.end = global::Sample.Droid.Resource.Id.end;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.end_padder = global::Sample.Droid.Resource.Id.end_padder;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.enterAlways = global::Sample.Droid.Resource.Id.enterAlways;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.enterAlwaysCollapsed = global::Sample.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.exitUntilCollapsed = global::Sample.Droid.Resource.Id.exitUntilCollapsed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.expand_activities_button = global::Sample.Droid.Resource.Id.expand_activities_button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.expanded_menu = global::Sample.Droid.Resource.Id.expanded_menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.fill = global::Sample.Droid.Resource.Id.fill;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.fill_horizontal = global::Sample.Droid.Resource.Id.fill_horizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.fill_vertical = global::Sample.Droid.Resource.Id.fill_vertical;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.@fixed = global::Sample.Droid.Resource.Id.@fixed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.home = global::Sample.Droid.Resource.Id.home;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.homeAsUp = global::Sample.Droid.Resource.Id.homeAsUp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.icon = global::Sample.Droid.Resource.Id.icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.icon_group = global::Sample.Droid.Resource.Id.icon_group;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.ifRoom = global::Sample.Droid.Resource.Id.ifRoom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.image = global::Sample.Droid.Resource.Id.image;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.info = global::Sample.Droid.Resource.Id.info;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.item_touch_helper_previous_elevation = global::Sample.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.largeLabel = global::Sample.Droid.Resource.Id.largeLabel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.left = global::Sample.Droid.Resource.Id.left;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.line1 = global::Sample.Droid.Resource.Id.line1;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.line3 = global::Sample.Droid.Resource.Id.line3;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.listMode = global::Sample.Droid.Resource.Id.listMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.list_item = global::Sample.Droid.Resource.Id.list_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.masked = global::Sample.Droid.Resource.Id.masked;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.media_actions = global::Sample.Droid.Resource.Id.media_actions;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.middle = global::Sample.Droid.Resource.Id.middle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mini = global::Sample.Droid.Resource.Id.mini;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_art = global::Sample.Droid.Resource.Id.mr_art;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_chooser_list = global::Sample.Droid.Resource.Id.mr_chooser_list;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_chooser_route_desc = global::Sample.Droid.Resource.Id.mr_chooser_route_desc;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_chooser_route_icon = global::Sample.Droid.Resource.Id.mr_chooser_route_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_chooser_route_name = global::Sample.Droid.Resource.Id.mr_chooser_route_name;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_chooser_title = global::Sample.Droid.Resource.Id.mr_chooser_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_close = global::Sample.Droid.Resource.Id.mr_close;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_control_divider = global::Sample.Droid.Resource.Id.mr_control_divider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_control_playback_ctrl = global::Sample.Droid.Resource.Id.mr_control_playback_ctrl;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_control_subtitle = global::Sample.Droid.Resource.Id.mr_control_subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_control_title = global::Sample.Droid.Resource.Id.mr_control_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_control_title_container = global::Sample.Droid.Resource.Id.mr_control_title_container;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_custom_control = global::Sample.Droid.Resource.Id.mr_custom_control;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_default_control = global::Sample.Droid.Resource.Id.mr_default_control;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_dialog_area = global::Sample.Droid.Resource.Id.mr_dialog_area;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_expandable_area = global::Sample.Droid.Resource.Id.mr_expandable_area;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_group_expand_collapse = global::Sample.Droid.Resource.Id.mr_group_expand_collapse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_media_main_control = global::Sample.Droid.Resource.Id.mr_media_main_control;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_name = global::Sample.Droid.Resource.Id.mr_name;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_playback_control = global::Sample.Droid.Resource.Id.mr_playback_control;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_title_bar = global::Sample.Droid.Resource.Id.mr_title_bar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_volume_control = global::Sample.Droid.Resource.Id.mr_volume_control;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_volume_group_list = global::Sample.Droid.Resource.Id.mr_volume_group_list;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_volume_item_icon = global::Sample.Droid.Resource.Id.mr_volume_item_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.mr_volume_slider = global::Sample.Droid.Resource.Id.mr_volume_slider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.multiply = global::Sample.Droid.Resource.Id.multiply;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.navigation_header_container = global::Sample.Droid.Resource.Id.navigation_header_container;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.never = global::Sample.Droid.Resource.Id.never;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.none = global::Sample.Droid.Resource.Id.none;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.normal = global::Sample.Droid.Resource.Id.normal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.notification_background = global::Sample.Droid.Resource.Id.notification_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.notification_main_column = global::Sample.Droid.Resource.Id.notification_main_column;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.notification_main_column_container = global::Sample.Droid.Resource.Id.notification_main_column_container;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.parallax = global::Sample.Droid.Resource.Id.parallax;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.parentPanel = global::Sample.Droid.Resource.Id.parentPanel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.pin = global::Sample.Droid.Resource.Id.pin;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.progress_circular = global::Sample.Droid.Resource.Id.progress_circular;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.progress_horizontal = global::Sample.Droid.Resource.Id.progress_horizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.radio = global::Sample.Droid.Resource.Id.radio;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.right = global::Sample.Droid.Resource.Id.right;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.right_icon = global::Sample.Droid.Resource.Id.right_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.right_side = global::Sample.Droid.Resource.Id.right_side;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.screen = global::Sample.Droid.Resource.Id.screen;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.scroll = global::Sample.Droid.Resource.Id.scroll;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.scrollIndicatorDown = global::Sample.Droid.Resource.Id.scrollIndicatorDown;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.scrollIndicatorUp = global::Sample.Droid.Resource.Id.scrollIndicatorUp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.scrollView = global::Sample.Droid.Resource.Id.scrollView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.scrollable = global::Sample.Droid.Resource.Id.scrollable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_badge = global::Sample.Droid.Resource.Id.search_badge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_bar = global::Sample.Droid.Resource.Id.search_bar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_button = global::Sample.Droid.Resource.Id.search_button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_close_btn = global::Sample.Droid.Resource.Id.search_close_btn;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_edit_frame = global::Sample.Droid.Resource.Id.search_edit_frame;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_go_btn = global::Sample.Droid.Resource.Id.search_go_btn;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_mag_icon = global::Sample.Droid.Resource.Id.search_mag_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_plate = global::Sample.Droid.Resource.Id.search_plate;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_src_text = global::Sample.Droid.Resource.Id.search_src_text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.search_voice_btn = global::Sample.Droid.Resource.Id.search_voice_btn;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.select_dialog_listview = global::Sample.Droid.Resource.Id.select_dialog_listview;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.shortcut = global::Sample.Droid.Resource.Id.shortcut;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.showCustom = global::Sample.Droid.Resource.Id.showCustom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.showHome = global::Sample.Droid.Resource.Id.showHome;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.showTitle = global::Sample.Droid.Resource.Id.showTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.smallLabel = global::Sample.Droid.Resource.Id.smallLabel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.snackbar_action = global::Sample.Droid.Resource.Id.snackbar_action;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.snackbar_text = global::Sample.Droid.Resource.Id.snackbar_text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.snap = global::Sample.Droid.Resource.Id.snap;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.spacer = global::Sample.Droid.Resource.Id.spacer;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.split_action_bar = global::Sample.Droid.Resource.Id.split_action_bar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.src_atop = global::Sample.Droid.Resource.Id.src_atop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.src_in = global::Sample.Droid.Resource.Id.src_in;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.src_over = global::Sample.Droid.Resource.Id.src_over;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.start = global::Sample.Droid.Resource.Id.start;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.status_bar_latest_event_content = global::Sample.Droid.Resource.Id.status_bar_latest_event_content;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.submenuarrow = global::Sample.Droid.Resource.Id.submenuarrow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.submit_area = global::Sample.Droid.Resource.Id.submit_area;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.tabMode = global::Sample.Droid.Resource.Id.tabMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.text = global::Sample.Droid.Resource.Id.text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.text2 = global::Sample.Droid.Resource.Id.text2;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.textSpacerNoButtons = global::Sample.Droid.Resource.Id.textSpacerNoButtons;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.textSpacerNoTitle = global::Sample.Droid.Resource.Id.textSpacerNoTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.text_input_password_toggle = global::Sample.Droid.Resource.Id.text_input_password_toggle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.textinput_counter = global::Sample.Droid.Resource.Id.textinput_counter;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.textinput_error = global::Sample.Droid.Resource.Id.textinput_error;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.time = global::Sample.Droid.Resource.Id.time;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.title = global::Sample.Droid.Resource.Id.title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.titleDividerNoCustom = global::Sample.Droid.Resource.Id.titleDividerNoCustom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.title_template = global::Sample.Droid.Resource.Id.title_template;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.top = global::Sample.Droid.Resource.Id.top;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.topPanel = global::Sample.Droid.Resource.Id.topPanel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.touch_outside = global::Sample.Droid.Resource.Id.touch_outside;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.transition_current_scene = global::Sample.Droid.Resource.Id.transition_current_scene;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.transition_scene_layoutid_cache = global::Sample.Droid.Resource.Id.transition_scene_layoutid_cache;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.up = global::Sample.Droid.Resource.Id.up;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.useLogo = global::Sample.Droid.Resource.Id.useLogo;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.view_offset_helper = global::Sample.Droid.Resource.Id.view_offset_helper;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.visible = global::Sample.Droid.Resource.Id.visible;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.volume_item_container = global::Sample.Droid.Resource.Id.volume_item_container;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.withText = global::Sample.Droid.Resource.Id.withText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Id.wrap_content = global::Sample.Droid.Resource.Id.wrap_content;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.abc_config_activityDefaultDur = global::Sample.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.abc_config_activityShortDur = global::Sample.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::Sample.Droid.Resource.Integer.app_bar_elevation_anim_duration;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.bottom_sheet_slide_duration = global::Sample.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.cancel_button_image_alpha = global::Sample.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.design_snackbar_text_max_lines = global::Sample.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.hide_password_duration = global::Sample.Droid.Resource.Integer.hide_password_duration;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::Sample.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::Sample.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::Sample.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.show_password_duration = global::Sample.Droid.Resource.Integer.show_password_duration;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::Sample.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Interpolator.mr_fast_out_slow_in = global::Sample.Droid.Resource.Interpolator.mr_fast_out_slow_in;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Interpolator.mr_linear_out_slow_in = global::Sample.Droid.Resource.Interpolator.mr_linear_out_slow_in;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_action_bar_title_item = global::Sample.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_action_bar_up_container = global::Sample.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_action_menu_item_layout = global::Sample.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_action_menu_layout = global::Sample.Droid.Resource.Layout.abc_action_menu_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_action_mode_bar = global::Sample.Droid.Resource.Layout.abc_action_mode_bar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_action_mode_close_item_material = global::Sample.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_activity_chooser_view = global::Sample.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::Sample.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::Sample.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_alert_dialog_material = global::Sample.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_alert_dialog_title_material = global::Sample.Droid.Resource.Layout.abc_alert_dialog_title_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_dialog_title_material = global::Sample.Droid.Resource.Layout.abc_dialog_title_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_expanded_menu_layout = global::Sample.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::Sample.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_list_menu_item_icon = global::Sample.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_list_menu_item_layout = global::Sample.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_list_menu_item_radio = global::Sample.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::Sample.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_popup_menu_item_layout = global::Sample.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_screen_content_include = global::Sample.Droid.Resource.Layout.abc_screen_content_include;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_screen_simple = global::Sample.Droid.Resource.Layout.abc_screen_simple;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Sample.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_screen_toolbar = global::Sample.Droid.Resource.Layout.abc_screen_toolbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Sample.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_search_view = global::Sample.Droid.Resource.Layout.abc_search_view;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.abc_select_dialog_material = global::Sample.Droid.Resource.Layout.abc_select_dialog_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_bottom_navigation_item = global::Sample.Droid.Resource.Layout.design_bottom_navigation_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_bottom_sheet_dialog = global::Sample.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_layout_snackbar = global::Sample.Droid.Resource.Layout.design_layout_snackbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_layout_snackbar_include = global::Sample.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_layout_tab_icon = global::Sample.Droid.Resource.Layout.design_layout_tab_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_layout_tab_text = global::Sample.Droid.Resource.Layout.design_layout_tab_text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_menu_item_action_area = global::Sample.Droid.Resource.Layout.design_menu_item_action_area;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_navigation_item = global::Sample.Droid.Resource.Layout.design_navigation_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_navigation_item_header = global::Sample.Droid.Resource.Layout.design_navigation_item_header;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_navigation_item_separator = global::Sample.Droid.Resource.Layout.design_navigation_item_separator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_navigation_item_subheader = global::Sample.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_navigation_menu = global::Sample.Droid.Resource.Layout.design_navigation_menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_navigation_menu_item = global::Sample.Droid.Resource.Layout.design_navigation_menu_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.design_text_input_password_icon = global::Sample.Droid.Resource.Layout.design_text_input_password_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.mr_chooser_dialog = global::Sample.Droid.Resource.Layout.mr_chooser_dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.mr_chooser_list_item = global::Sample.Droid.Resource.Layout.mr_chooser_list_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.mr_controller_material_dialog_b = global::Sample.Droid.Resource.Layout.mr_controller_material_dialog_b;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.mr_controller_volume_item = global::Sample.Droid.Resource.Layout.mr_controller_volume_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.mr_playback_control = global::Sample.Droid.Resource.Layout.mr_playback_control;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.mr_volume_control = global::Sample.Droid.Resource.Layout.mr_volume_control;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_action = global::Sample.Droid.Resource.Layout.notification_action;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_action_tombstone = global::Sample.Droid.Resource.Layout.notification_action_tombstone;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_media_action = global::Sample.Droid.Resource.Layout.notification_media_action;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_media_cancel_action = global::Sample.Droid.Resource.Layout.notification_media_cancel_action;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_big_media = global::Sample.Droid.Resource.Layout.notification_template_big_media;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_big_media_custom = global::Sample.Droid.Resource.Layout.notification_template_big_media_custom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_big_media_narrow = global::Sample.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::Sample.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_custom_big = global::Sample.Droid.Resource.Layout.notification_template_custom_big;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_icon_group = global::Sample.Droid.Resource.Layout.notification_template_icon_group;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_lines_media = global::Sample.Droid.Resource.Layout.notification_template_lines_media;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_media = global::Sample.Droid.Resource.Layout.notification_template_media;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_media_custom = global::Sample.Droid.Resource.Layout.notification_template_media_custom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_part_chronometer = global::Sample.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.notification_template_part_time = global::Sample.Droid.Resource.Layout.notification_template_part_time;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.select_dialog_item_material = global::Sample.Droid.Resource.Layout.select_dialog_item_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.select_dialog_multichoice_material = global::Sample.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.select_dialog_singlechoice_material = global::Sample.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::Sample.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_action_bar_home_description = global::Sample.Droid.Resource.String.abc_action_bar_home_description;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_action_bar_up_description = global::Sample.Droid.Resource.String.abc_action_bar_up_description;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_action_menu_overflow_description = global::Sample.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_action_mode_done = global::Sample.Droid.Resource.String.abc_action_mode_done;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_activity_chooser_view_see_all = global::Sample.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_activitychooserview_choose_application = global::Sample.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_capital_off = global::Sample.Droid.Resource.String.abc_capital_off;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_capital_on = global::Sample.Droid.Resource.String.abc_capital_on;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_body_1_material = global::Sample.Droid.Resource.String.abc_font_family_body_1_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_body_2_material = global::Sample.Droid.Resource.String.abc_font_family_body_2_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_button_material = global::Sample.Droid.Resource.String.abc_font_family_button_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_caption_material = global::Sample.Droid.Resource.String.abc_font_family_caption_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_display_1_material = global::Sample.Droid.Resource.String.abc_font_family_display_1_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_display_2_material = global::Sample.Droid.Resource.String.abc_font_family_display_2_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_display_3_material = global::Sample.Droid.Resource.String.abc_font_family_display_3_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_display_4_material = global::Sample.Droid.Resource.String.abc_font_family_display_4_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_headline_material = global::Sample.Droid.Resource.String.abc_font_family_headline_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_menu_material = global::Sample.Droid.Resource.String.abc_font_family_menu_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_subhead_material = global::Sample.Droid.Resource.String.abc_font_family_subhead_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_font_family_title_material = global::Sample.Droid.Resource.String.abc_font_family_title_material;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_search_hint = global::Sample.Droid.Resource.String.abc_search_hint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_searchview_description_clear = global::Sample.Droid.Resource.String.abc_searchview_description_clear;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_searchview_description_query = global::Sample.Droid.Resource.String.abc_searchview_description_query;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_searchview_description_search = global::Sample.Droid.Resource.String.abc_searchview_description_search;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_searchview_description_submit = global::Sample.Droid.Resource.String.abc_searchview_description_submit;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_searchview_description_voice = global::Sample.Droid.Resource.String.abc_searchview_description_voice;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_shareactionprovider_share_with = global::Sample.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::Sample.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.abc_toolbar_collapse_description = global::Sample.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.app_name = global::Sample.Droid.Resource.String.app_name;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.appbar_scrolling_view_behavior = global::Sample.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.bottom_sheet_behavior = global::Sample.Droid.Resource.String.bottom_sheet_behavior;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.character_counter_pattern = global::Sample.Droid.Resource.String.character_counter_pattern;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.hello = global::Sample.Droid.Resource.String.hello;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_button_content_description = global::Sample.Droid.Resource.String.mr_button_content_description;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_cast_button_connected = global::Sample.Droid.Resource.String.mr_cast_button_connected;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_cast_button_connecting = global::Sample.Droid.Resource.String.mr_cast_button_connecting;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_cast_button_disconnected = global::Sample.Droid.Resource.String.mr_cast_button_disconnected;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_chooser_searching = global::Sample.Droid.Resource.String.mr_chooser_searching;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_chooser_title = global::Sample.Droid.Resource.String.mr_chooser_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_album_art = global::Sample.Droid.Resource.String.mr_controller_album_art;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_casting_screen = global::Sample.Droid.Resource.String.mr_controller_casting_screen;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_close_description = global::Sample.Droid.Resource.String.mr_controller_close_description;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_collapse_group = global::Sample.Droid.Resource.String.mr_controller_collapse_group;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_disconnect = global::Sample.Droid.Resource.String.mr_controller_disconnect;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_expand_group = global::Sample.Droid.Resource.String.mr_controller_expand_group;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_no_info_available = global::Sample.Droid.Resource.String.mr_controller_no_info_available;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_no_media_selected = global::Sample.Droid.Resource.String.mr_controller_no_media_selected;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_pause = global::Sample.Droid.Resource.String.mr_controller_pause;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_play = global::Sample.Droid.Resource.String.mr_controller_play;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_stop = global::Sample.Droid.Resource.String.mr_controller_stop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_stop_casting = global::Sample.Droid.Resource.String.mr_controller_stop_casting;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_controller_volume_slider = global::Sample.Droid.Resource.String.mr_controller_volume_slider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_system_route_name = global::Sample.Droid.Resource.String.mr_system_route_name;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.mr_user_route_category_name = global::Sample.Droid.Resource.String.mr_user_route_category_name;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.password_toggle_content_description = global::Sample.Droid.Resource.String.password_toggle_content_description;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.path_password_eye = global::Sample.Droid.Resource.String.path_password_eye;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.path_password_eye_mask_strike_through = global::Sample.Droid.Resource.String.path_password_eye_mask_strike_through;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.path_password_eye_mask_visible = global::Sample.Droid.Resource.String.path_password_eye_mask_visible;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.path_password_strike_through = global::Sample.Droid.Resource.String.path_password_strike_through;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.search_menu_title = global::Sample.Droid.Resource.String.search_menu_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.String.status_bar_notification_info_overflow = global::Sample.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.AlertDialog_AppCompat = global::Sample.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::Sample.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Animation_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::Sample.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::Sample.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::Sample.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Sample.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Sample.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_CardView = global::Sample.Droid.Resource.Style.Base_CardView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Sample.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Sample.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::Sample.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::Sample.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::Sample.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::Sample.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Sample.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::Sample.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Sample.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_Design_AppBarLayout = global::Sample.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::Sample.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.CardView = global::Sample.Droid.Resource.Style.CardView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.CardView_Dark = global::Sample.Droid.Resource.Style.CardView_Dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.CardView_Light = global::Sample.Droid.Resource.Style.CardView_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_AppCompat = global::Sample.Droid.Resource.Style.Platform_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_AppCompat_Light = global::Sample.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_V11_AppCompat = global::Sample.Droid.Resource.Style.Platform_V11_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_V11_AppCompat_Light = global::Sample.Droid.Resource.Style.Platform_V11_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_V14_AppCompat = global::Sample.Droid.Resource.Style.Platform_V14_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_V14_AppCompat_Light = global::Sample.Droid.Resource.Style.Platform_V14_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_V21_AppCompat = global::Sample.Droid.Resource.Style.Platform_V21_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::Sample.Droid.Resource.Style.Platform_V21_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_V25_AppCompat = global::Sample.Droid.Resource.Style.Platform_V25_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::Sample.Droid.Resource.Style.Platform_V25_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Sample.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Sample.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Sample.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Sample.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Sample.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Design_Counter = global::Sample.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Sample.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Design_Error = global::Sample.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Design_Hint = global::Sample.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Sample.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Design_Tab = global::Sample.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::Sample.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::Sample.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_MediaRouter_Title = global::Sample.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat = global::Sample.Droid.Resource.Style.Theme_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::Sample.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_DayNight = global::Sample.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Dialog = global::Sample.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Sample.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Sample.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Sample.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Light = global::Sample.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Sample.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Sample.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Sample.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::Sample.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_Design = global::Sample.Droid.Resource.Style.Theme_Design;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::Sample.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_Design_Light = global::Sample.Droid.Resource.Style.Theme_Design_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Sample.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::Sample.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_Design_NoActionBar = global::Sample.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_MediaRouter = global::Sample.Droid.Resource.Style.Theme_MediaRouter;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_MediaRouter_Light = global::Sample.Droid.Resource.Style.Theme_MediaRouter_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::Sample.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel = global::Sample.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_AppCompat = global::Sample.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::Sample.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light = global::Sample.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Sample.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Sample.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Button = global::Sample.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::Sample.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Sample.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Sample.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::Sample.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::Sample.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Sample.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Sample.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Sample.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_EditText = global::Sample.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::Sample.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::Sample.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Sample.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ListView = global::Sample.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Sample.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::Sample.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::Sample.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Sample.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::Sample.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Sample.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_SearchView = global::Sample.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Sample.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Spinner = global::Sample.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Sample.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_AppBarLayout = global::Sample.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::Sample.Droid.Resource.Style.Widget_Design_BottomNavigationView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::Sample.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::Sample.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_CoordinatorLayout = global::Sample.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::Sample.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_NavigationView = global::Sample.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Sample.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_Snackbar = global::Sample.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_TabLayout = global::Sample.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_Design_TextInputLayout = global::Sample.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::Sample.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::Sample.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar = global::Sample.Droid.Resource.Styleable.ActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_background = global::Sample.Droid.Resource.Styleable.ActionBar_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::Sample.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::Sample.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::Sample.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Sample.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::Sample.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::Sample.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::Sample.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Sample.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::Sample.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_displayOptions = global::Sample.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_divider = global::Sample.Droid.Resource.Styleable.ActionBar_divider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_elevation = global::Sample.Droid.Resource.Styleable.ActionBar_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_height = global::Sample.Droid.Resource.Styleable.ActionBar_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::Sample.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Sample.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_homeLayout = global::Sample.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_icon = global::Sample.Droid.Resource.Styleable.ActionBar_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Sample.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_itemPadding = global::Sample.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_logo = global::Sample.Droid.Resource.Styleable.ActionBar_logo;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_navigationMode = global::Sample.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_popupTheme = global::Sample.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::Sample.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::Sample.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_subtitle = global::Sample.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::Sample.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_title = global::Sample.Droid.Resource.Styleable.ActionBar_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::Sample.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBarLayout = global::Sample.Droid.Resource.Styleable.ActionBarLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Sample.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMenuItemView = global::Sample.Droid.Resource.Styleable.ActionMenuItemView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Sample.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMenuView = global::Sample.Droid.Resource.Styleable.ActionMenuView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMode = global::Sample.Droid.Resource.Styleable.ActionMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMode_background = global::Sample.Droid.Resource.Styleable.ActionMode_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::Sample.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::Sample.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMode_height = global::Sample.Droid.Resource.Styleable.ActionMode_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::Sample.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::Sample.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActivityChooserView = global::Sample.Droid.Resource.Styleable.ActivityChooserView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Sample.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Sample.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AlertDialog = global::Sample.Droid.Resource.Styleable.AlertDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AlertDialog_android_layout = global::Sample.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Sample.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::Sample.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AlertDialog_listLayout = global::Sample.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Sample.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AlertDialog_showTitle = global::Sample.Droid.Resource.Styleable.AlertDialog_showTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Sample.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayout = global::Sample.Droid.Resource.Styleable.AppBarLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayout_android_background = global::Sample.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayout_elevation = global::Sample.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayout_expanded = global::Sample.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayoutStates = global::Sample.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayout_Layout = global::Sample.Droid.Resource.Styleable.AppBarLayout_Layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Sample.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Sample.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatImageView = global::Sample.Droid.Resource.Styleable.AppCompatImageView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatImageView_android_src = global::Sample.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::Sample.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatImageView_tint = global::Sample.Droid.Resource.Styleable.AppCompatImageView_tint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::Sample.Droid.Resource.Styleable.AppCompatImageView_tintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatSeekBar = global::Sample.Droid.Resource.Styleable.AppCompatSeekBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Sample.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextHelper = global::Sample.Droid.Resource.Styleable.AppCompatTextHelper;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextView = global::Sample.Droid.Resource.Styleable.AppCompatTextView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Sample.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::Sample.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme = global::Sample.Droid.Resource.Styleable.AppCompatTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Sample.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Sample.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Sample.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::Sample.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Sample.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::Sample.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Sample.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::Sample.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Sample.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::Sample.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::Sample.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Sample.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::Sample.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Sample.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Sample.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Sample.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Sample.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Sample.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Sample.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomNavigationView = global::Sample.Droid.Resource.Styleable.BottomNavigationView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomNavigationView_elevation = global::Sample.Droid.Resource.Styleable.BottomNavigationView_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::Sample.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::Sample.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::Sample.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomNavigationView_menu = global::Sample.Droid.Resource.Styleable.BottomNavigationView_menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ButtonBarLayout = global::Sample.Droid.Resource.Styleable.ButtonBarLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::Sample.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView = global::Sample.Droid.Resource.Styleable.CardView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_android_minHeight = global::Sample.Droid.Resource.Styleable.CardView_android_minHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_android_minWidth = global::Sample.Droid.Resource.Styleable.CardView_android_minWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::Sample.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_cardCornerRadius = global::Sample.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_cardElevation = global::Sample.Droid.Resource.Styleable.CardView_cardElevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_cardMaxElevation = global::Sample.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Sample.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::Sample.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_contentPadding = global::Sample.Droid.Resource.Styleable.CardView_contentPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::Sample.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::Sample.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_contentPaddingRight = global::Sample.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CardView_contentPaddingTop = global::Sample.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ColorStateListItem = global::Sample.Droid.Resource.Styleable.ColorStateListItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ColorStateListItem_alpha = global::Sample.Droid.Resource.Styleable.ColorStateListItem_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::Sample.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ColorStateListItem_android_color = global::Sample.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CompoundButton = global::Sample.Droid.Resource.Styleable.CompoundButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CompoundButton_android_button = global::Sample.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CompoundButton_buttonTint = global::Sample.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::Sample.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout = global::Sample.Droid.Resource.Styleable.CoordinatorLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DesignTheme = global::Sample.Droid.Resource.Styleable.DesignTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Sample.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Sample.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DesignTheme_textColorError = global::Sample.Droid.Resource.Styleable.DesignTheme_textColorError;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle_color = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::Sample.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton = global::Sample.Droid.Resource.Styleable.FloatingActionButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::Sample.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Sample.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::Sample.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_elevation = global::Sample.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::Sample.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Sample.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::Sample.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Sample.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Sample.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Sample.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ForegroundLinearLayout = global::Sample.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Sample.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Sample.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Sample.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ListPopupWindow = global::Sample.Droid.Resource.Styleable.ListPopupWindow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Sample.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Sample.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MediaRouteButton = global::Sample.Droid.Resource.Styleable.MediaRouteButton;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MediaRouteButton_android_minHeight = global::Sample.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MediaRouteButton_android_minWidth = global::Sample.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::Sample.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuGroup = global::Sample.Droid.Resource.Styleable.MenuGroup;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Sample.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuGroup_android_enabled = global::Sample.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuGroup_android_id = global::Sample.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::Sample.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::Sample.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuGroup_android_visible = global::Sample.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem = global::Sample.Droid.Resource.Styleable.MenuItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_actionLayout = global::Sample.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::Sample.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_actionViewClass = global::Sample.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Sample.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_checkable = global::Sample.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_checked = global::Sample.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_enabled = global::Sample.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_icon = global::Sample.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_id = global::Sample.Droid.Resource.Styleable.MenuItem_android_id;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::Sample.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::Sample.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_onClick = global::Sample.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::Sample.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_title = global::Sample.Droid.Resource.Styleable.MenuItem_android_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::Sample.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_android_visible = global::Sample.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuItem_showAsAction = global::Sample.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView = global::Sample.Droid.Resource.Styleable.MenuView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_android_headerBackground = global::Sample.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::Sample.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_android_itemBackground = global::Sample.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Sample.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::Sample.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::Sample.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Sample.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::Sample.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.MenuView_subMenuArrow = global::Sample.Droid.Resource.Styleable.MenuView_subMenuArrow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView = global::Sample.Droid.Resource.Styleable.NavigationView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_android_background = global::Sample.Droid.Resource.Styleable.NavigationView_android_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Sample.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::Sample.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_elevation = global::Sample.Droid.Resource.Styleable.NavigationView_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_headerLayout = global::Sample.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_itemBackground = global::Sample.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_itemIconTint = global::Sample.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::Sample.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_itemTextColor = global::Sample.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.NavigationView_menu = global::Sample.Droid.Resource.Styleable.NavigationView_menu;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.PopupWindow = global::Sample.Droid.Resource.Styleable.PopupWindow;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Sample.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::Sample.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::Sample.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.PopupWindowBackgroundState = global::Sample.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Sample.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecycleListView = global::Sample.Droid.Resource.Styleable.RecycleListView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Sample.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Sample.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecyclerView = global::Sample.Droid.Resource.Styleable.RecyclerView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Sample.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecyclerView_android_orientation = global::Sample.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecyclerView_layoutManager = global::Sample.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::Sample.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecyclerView_spanCount = global::Sample.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::Sample.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::Sample.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Sample.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::Sample.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Sample.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView = global::Sample.Droid.Resource.Styleable.SearchView;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_android_focusable = global::Sample.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_android_imeOptions = global::Sample.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_android_inputType = global::Sample.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_android_maxWidth = global::Sample.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_closeIcon = global::Sample.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_commitIcon = global::Sample.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::Sample.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_goIcon = global::Sample.Droid.Resource.Styleable.SearchView_goIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::Sample.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_layout = global::Sample.Droid.Resource.Styleable.SearchView_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_queryBackground = global::Sample.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_queryHint = global::Sample.Droid.Resource.Styleable.SearchView_queryHint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_searchHintIcon = global::Sample.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_searchIcon = global::Sample.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_submitBackground = global::Sample.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::Sample.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SearchView_voiceIcon = global::Sample.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SnackbarLayout = global::Sample.Droid.Resource.Styleable.SnackbarLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Sample.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SnackbarLayout_elevation = global::Sample.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Sample.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Spinner = global::Sample.Droid.Resource.Styleable.Spinner;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::Sample.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Spinner_android_entries = global::Sample.Droid.Resource.Styleable.Spinner_android_entries;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Spinner_android_popupBackground = global::Sample.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Spinner_android_prompt = global::Sample.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Spinner_popupTheme = global::Sample.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat = global::Sample.Droid.Resource.Styleable.SwitchCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::Sample.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::Sample.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::Sample.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_showText = global::Sample.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::Sample.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::Sample.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::Sample.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Sample.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Sample.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::Sample.Droid.Resource.Styleable.SwitchCompat_thumbTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::Sample.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_track = global::Sample.Droid.Resource.Styleable.SwitchCompat_track;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_trackTint = global::Sample.Droid.Resource.Styleable.SwitchCompat_trackTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::Sample.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabItem = global::Sample.Droid.Resource.Styleable.TabItem;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabItem_android_icon = global::Sample.Droid.Resource.Styleable.TabItem_android_icon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabItem_android_layout = global::Sample.Droid.Resource.Styleable.TabItem_android_layout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabItem_android_text = global::Sample.Droid.Resource.Styleable.TabItem_android_text;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout = global::Sample.Droid.Resource.Styleable.TabLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabBackground = global::Sample.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabContentStart = global::Sample.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabGravity = global::Sample.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::Sample.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::Sample.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabMode = global::Sample.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabPadding = global::Sample.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::Sample.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::Sample.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::Sample.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::Sample.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Sample.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::Sample.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TabLayout_tabTextColor = global::Sample.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance = global::Sample.Droid.Resource.Styleable.TextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::Sample.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::Sample.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::Sample.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::Sample.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_textColor = global::Sample.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::Sample.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_textSize = global::Sample.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::Sample.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_android_typeface = global::Sample.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::Sample.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout = global::Sample.Droid.Resource.Styleable.TextInputLayout;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_android_hint = global::Sample.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::Sample.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::Sample.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::Sample.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Sample.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Sample.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::Sample.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Sample.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Sample.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::Sample.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Sample.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar = global::Sample.Droid.Resource.Styleable.Toolbar;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_android_gravity = global::Sample.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_android_minHeight = global::Sample.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_buttonGravity = global::Sample.Droid.Resource.Styleable.Toolbar_buttonGravity;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::Sample.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_collapseIcon = global::Sample.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::Sample.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Sample.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::Sample.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::Sample.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::Sample.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Sample.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_logo = global::Sample.Droid.Resource.Styleable.Toolbar_logo;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_logoDescription = global::Sample.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::Sample.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::Sample.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_navigationIcon = global::Sample.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_popupTheme = global::Sample.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_subtitle = global::Sample.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Sample.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::Sample.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_title = global::Sample.Droid.Resource.Styleable.Toolbar_title;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_titleMargin = global::Sample.Droid.Resource.Styleable.Toolbar_titleMargin;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::Sample.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::Sample.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::Sample.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::Sample.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_titleMargins = global::Sample.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::Sample.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.Toolbar_titleTextColor = global::Sample.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.View = global::Sample.Droid.Resource.Styleable.View;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.View_android_focusable = global::Sample.Droid.Resource.Styleable.View_android_focusable;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.View_android_theme = global::Sample.Droid.Resource.Styleable.View_android_theme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.View_paddingEnd = global::Sample.Droid.Resource.Styleable.View_paddingEnd;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.View_paddingStart = global::Sample.Droid.Resource.Styleable.View_paddingStart;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.View_theme = global::Sample.Droid.Resource.Styleable.View_theme;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ViewBackgroundHelper = global::Sample.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::Sample.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ViewStubCompat = global::Sample.Droid.Resource.Styleable.ViewStubCompat;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ViewStubCompat_android_id = global::Sample.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Sample.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::Xamarin.EnableKeyboardEffect.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::Sample.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Sample.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -3680,497 +1585,497 @@ namespace Sample.Droid
 		public partial class Dimension
 		{
 			
-			// aapt resource value: 0x7f09001b
-			public const int abc_action_bar_content_inset_material = 2131296283;
+			// aapt resource value: 0x7f08001b
+			public const int abc_action_bar_content_inset_material = 2131230747;
 			
-			// aapt resource value: 0x7f09001c
-			public const int abc_action_bar_content_inset_with_nav = 2131296284;
+			// aapt resource value: 0x7f08001c
+			public const int abc_action_bar_content_inset_with_nav = 2131230748;
 			
-			// aapt resource value: 0x7f090010
-			public const int abc_action_bar_default_height_material = 2131296272;
+			// aapt resource value: 0x7f080010
+			public const int abc_action_bar_default_height_material = 2131230736;
 			
-			// aapt resource value: 0x7f09001d
-			public const int abc_action_bar_default_padding_end_material = 2131296285;
+			// aapt resource value: 0x7f08001d
+			public const int abc_action_bar_default_padding_end_material = 2131230749;
 			
-			// aapt resource value: 0x7f09001e
-			public const int abc_action_bar_default_padding_start_material = 2131296286;
+			// aapt resource value: 0x7f08001e
+			public const int abc_action_bar_default_padding_start_material = 2131230750;
 			
-			// aapt resource value: 0x7f090020
-			public const int abc_action_bar_elevation_material = 2131296288;
+			// aapt resource value: 0x7f080020
+			public const int abc_action_bar_elevation_material = 2131230752;
 			
-			// aapt resource value: 0x7f090021
-			public const int abc_action_bar_icon_vertical_padding_material = 2131296289;
+			// aapt resource value: 0x7f080021
+			public const int abc_action_bar_icon_vertical_padding_material = 2131230753;
 			
-			// aapt resource value: 0x7f090022
-			public const int abc_action_bar_overflow_padding_end_material = 2131296290;
+			// aapt resource value: 0x7f080022
+			public const int abc_action_bar_overflow_padding_end_material = 2131230754;
 			
-			// aapt resource value: 0x7f090023
-			public const int abc_action_bar_overflow_padding_start_material = 2131296291;
+			// aapt resource value: 0x7f080023
+			public const int abc_action_bar_overflow_padding_start_material = 2131230755;
 			
-			// aapt resource value: 0x7f090011
-			public const int abc_action_bar_progress_bar_size = 2131296273;
+			// aapt resource value: 0x7f080011
+			public const int abc_action_bar_progress_bar_size = 2131230737;
 			
-			// aapt resource value: 0x7f090024
-			public const int abc_action_bar_stacked_max_height = 2131296292;
+			// aapt resource value: 0x7f080024
+			public const int abc_action_bar_stacked_max_height = 2131230756;
 			
-			// aapt resource value: 0x7f090025
-			public const int abc_action_bar_stacked_tab_max_width = 2131296293;
+			// aapt resource value: 0x7f080025
+			public const int abc_action_bar_stacked_tab_max_width = 2131230757;
 			
-			// aapt resource value: 0x7f090026
-			public const int abc_action_bar_subtitle_bottom_margin_material = 2131296294;
+			// aapt resource value: 0x7f080026
+			public const int abc_action_bar_subtitle_bottom_margin_material = 2131230758;
 			
-			// aapt resource value: 0x7f090027
-			public const int abc_action_bar_subtitle_top_margin_material = 2131296295;
+			// aapt resource value: 0x7f080027
+			public const int abc_action_bar_subtitle_top_margin_material = 2131230759;
 			
-			// aapt resource value: 0x7f090028
-			public const int abc_action_button_min_height_material = 2131296296;
+			// aapt resource value: 0x7f080028
+			public const int abc_action_button_min_height_material = 2131230760;
 			
-			// aapt resource value: 0x7f090029
-			public const int abc_action_button_min_width_material = 2131296297;
+			// aapt resource value: 0x7f080029
+			public const int abc_action_button_min_width_material = 2131230761;
 			
-			// aapt resource value: 0x7f09002a
-			public const int abc_action_button_min_width_overflow_material = 2131296298;
+			// aapt resource value: 0x7f08002a
+			public const int abc_action_button_min_width_overflow_material = 2131230762;
 			
-			// aapt resource value: 0x7f09000f
-			public const int abc_alert_dialog_button_bar_height = 2131296271;
+			// aapt resource value: 0x7f08000f
+			public const int abc_alert_dialog_button_bar_height = 2131230735;
 			
-			// aapt resource value: 0x7f09002b
-			public const int abc_button_inset_horizontal_material = 2131296299;
+			// aapt resource value: 0x7f08002b
+			public const int abc_button_inset_horizontal_material = 2131230763;
 			
-			// aapt resource value: 0x7f09002c
-			public const int abc_button_inset_vertical_material = 2131296300;
+			// aapt resource value: 0x7f08002c
+			public const int abc_button_inset_vertical_material = 2131230764;
 			
-			// aapt resource value: 0x7f09002d
-			public const int abc_button_padding_horizontal_material = 2131296301;
+			// aapt resource value: 0x7f08002d
+			public const int abc_button_padding_horizontal_material = 2131230765;
 			
-			// aapt resource value: 0x7f09002e
-			public const int abc_button_padding_vertical_material = 2131296302;
+			// aapt resource value: 0x7f08002e
+			public const int abc_button_padding_vertical_material = 2131230766;
 			
-			// aapt resource value: 0x7f09002f
-			public const int abc_cascading_menus_min_smallest_width = 2131296303;
+			// aapt resource value: 0x7f08002f
+			public const int abc_cascading_menus_min_smallest_width = 2131230767;
 			
-			// aapt resource value: 0x7f090014
-			public const int abc_config_prefDialogWidth = 2131296276;
+			// aapt resource value: 0x7f080014
+			public const int abc_config_prefDialogWidth = 2131230740;
 			
-			// aapt resource value: 0x7f090030
-			public const int abc_control_corner_material = 2131296304;
+			// aapt resource value: 0x7f080030
+			public const int abc_control_corner_material = 2131230768;
 			
-			// aapt resource value: 0x7f090031
-			public const int abc_control_inset_material = 2131296305;
+			// aapt resource value: 0x7f080031
+			public const int abc_control_inset_material = 2131230769;
 			
-			// aapt resource value: 0x7f090032
-			public const int abc_control_padding_material = 2131296306;
+			// aapt resource value: 0x7f080032
+			public const int abc_control_padding_material = 2131230770;
 			
-			// aapt resource value: 0x7f090015
-			public const int abc_dialog_fixed_height_major = 2131296277;
+			// aapt resource value: 0x7f080015
+			public const int abc_dialog_fixed_height_major = 2131230741;
 			
-			// aapt resource value: 0x7f090016
-			public const int abc_dialog_fixed_height_minor = 2131296278;
+			// aapt resource value: 0x7f080016
+			public const int abc_dialog_fixed_height_minor = 2131230742;
 			
-			// aapt resource value: 0x7f090017
-			public const int abc_dialog_fixed_width_major = 2131296279;
+			// aapt resource value: 0x7f080017
+			public const int abc_dialog_fixed_width_major = 2131230743;
 			
-			// aapt resource value: 0x7f090018
-			public const int abc_dialog_fixed_width_minor = 2131296280;
+			// aapt resource value: 0x7f080018
+			public const int abc_dialog_fixed_width_minor = 2131230744;
 			
-			// aapt resource value: 0x7f090033
-			public const int abc_dialog_list_padding_bottom_no_buttons = 2131296307;
+			// aapt resource value: 0x7f080033
+			public const int abc_dialog_list_padding_bottom_no_buttons = 2131230771;
 			
-			// aapt resource value: 0x7f090034
-			public const int abc_dialog_list_padding_top_no_title = 2131296308;
+			// aapt resource value: 0x7f080034
+			public const int abc_dialog_list_padding_top_no_title = 2131230772;
 			
-			// aapt resource value: 0x7f090019
-			public const int abc_dialog_min_width_major = 2131296281;
+			// aapt resource value: 0x7f080019
+			public const int abc_dialog_min_width_major = 2131230745;
 			
-			// aapt resource value: 0x7f09001a
-			public const int abc_dialog_min_width_minor = 2131296282;
+			// aapt resource value: 0x7f08001a
+			public const int abc_dialog_min_width_minor = 2131230746;
 			
-			// aapt resource value: 0x7f090035
-			public const int abc_dialog_padding_material = 2131296309;
+			// aapt resource value: 0x7f080035
+			public const int abc_dialog_padding_material = 2131230773;
 			
-			// aapt resource value: 0x7f090036
-			public const int abc_dialog_padding_top_material = 2131296310;
+			// aapt resource value: 0x7f080036
+			public const int abc_dialog_padding_top_material = 2131230774;
 			
-			// aapt resource value: 0x7f090037
-			public const int abc_dialog_title_divider_material = 2131296311;
+			// aapt resource value: 0x7f080037
+			public const int abc_dialog_title_divider_material = 2131230775;
 			
-			// aapt resource value: 0x7f090038
-			public const int abc_disabled_alpha_material_dark = 2131296312;
+			// aapt resource value: 0x7f080038
+			public const int abc_disabled_alpha_material_dark = 2131230776;
 			
-			// aapt resource value: 0x7f090039
-			public const int abc_disabled_alpha_material_light = 2131296313;
+			// aapt resource value: 0x7f080039
+			public const int abc_disabled_alpha_material_light = 2131230777;
 			
-			// aapt resource value: 0x7f09003a
-			public const int abc_dropdownitem_icon_width = 2131296314;
+			// aapt resource value: 0x7f08003a
+			public const int abc_dropdownitem_icon_width = 2131230778;
 			
-			// aapt resource value: 0x7f09003b
-			public const int abc_dropdownitem_text_padding_left = 2131296315;
+			// aapt resource value: 0x7f08003b
+			public const int abc_dropdownitem_text_padding_left = 2131230779;
 			
-			// aapt resource value: 0x7f09003c
-			public const int abc_dropdownitem_text_padding_right = 2131296316;
+			// aapt resource value: 0x7f08003c
+			public const int abc_dropdownitem_text_padding_right = 2131230780;
 			
-			// aapt resource value: 0x7f09003d
-			public const int abc_edit_text_inset_bottom_material = 2131296317;
+			// aapt resource value: 0x7f08003d
+			public const int abc_edit_text_inset_bottom_material = 2131230781;
 			
-			// aapt resource value: 0x7f09003e
-			public const int abc_edit_text_inset_horizontal_material = 2131296318;
+			// aapt resource value: 0x7f08003e
+			public const int abc_edit_text_inset_horizontal_material = 2131230782;
 			
-			// aapt resource value: 0x7f09003f
-			public const int abc_edit_text_inset_top_material = 2131296319;
+			// aapt resource value: 0x7f08003f
+			public const int abc_edit_text_inset_top_material = 2131230783;
 			
-			// aapt resource value: 0x7f090040
-			public const int abc_floating_window_z = 2131296320;
+			// aapt resource value: 0x7f080040
+			public const int abc_floating_window_z = 2131230784;
 			
-			// aapt resource value: 0x7f090041
-			public const int abc_list_item_padding_horizontal_material = 2131296321;
+			// aapt resource value: 0x7f080041
+			public const int abc_list_item_padding_horizontal_material = 2131230785;
 			
-			// aapt resource value: 0x7f090042
-			public const int abc_panel_menu_list_width = 2131296322;
+			// aapt resource value: 0x7f080042
+			public const int abc_panel_menu_list_width = 2131230786;
 			
-			// aapt resource value: 0x7f090043
-			public const int abc_progress_bar_height_material = 2131296323;
+			// aapt resource value: 0x7f080043
+			public const int abc_progress_bar_height_material = 2131230787;
 			
-			// aapt resource value: 0x7f090044
-			public const int abc_search_view_preferred_height = 2131296324;
+			// aapt resource value: 0x7f080044
+			public const int abc_search_view_preferred_height = 2131230788;
 			
-			// aapt resource value: 0x7f090045
-			public const int abc_search_view_preferred_width = 2131296325;
+			// aapt resource value: 0x7f080045
+			public const int abc_search_view_preferred_width = 2131230789;
 			
-			// aapt resource value: 0x7f090046
-			public const int abc_seekbar_track_background_height_material = 2131296326;
+			// aapt resource value: 0x7f080046
+			public const int abc_seekbar_track_background_height_material = 2131230790;
 			
-			// aapt resource value: 0x7f090047
-			public const int abc_seekbar_track_progress_height_material = 2131296327;
+			// aapt resource value: 0x7f080047
+			public const int abc_seekbar_track_progress_height_material = 2131230791;
 			
-			// aapt resource value: 0x7f090048
-			public const int abc_select_dialog_padding_start_material = 2131296328;
+			// aapt resource value: 0x7f080048
+			public const int abc_select_dialog_padding_start_material = 2131230792;
 			
-			// aapt resource value: 0x7f09001f
-			public const int abc_switch_padding = 2131296287;
+			// aapt resource value: 0x7f08001f
+			public const int abc_switch_padding = 2131230751;
 			
-			// aapt resource value: 0x7f090049
-			public const int abc_text_size_body_1_material = 2131296329;
+			// aapt resource value: 0x7f080049
+			public const int abc_text_size_body_1_material = 2131230793;
 			
-			// aapt resource value: 0x7f09004a
-			public const int abc_text_size_body_2_material = 2131296330;
+			// aapt resource value: 0x7f08004a
+			public const int abc_text_size_body_2_material = 2131230794;
 			
-			// aapt resource value: 0x7f09004b
-			public const int abc_text_size_button_material = 2131296331;
+			// aapt resource value: 0x7f08004b
+			public const int abc_text_size_button_material = 2131230795;
 			
-			// aapt resource value: 0x7f09004c
-			public const int abc_text_size_caption_material = 2131296332;
+			// aapt resource value: 0x7f08004c
+			public const int abc_text_size_caption_material = 2131230796;
 			
-			// aapt resource value: 0x7f09004d
-			public const int abc_text_size_display_1_material = 2131296333;
+			// aapt resource value: 0x7f08004d
+			public const int abc_text_size_display_1_material = 2131230797;
 			
-			// aapt resource value: 0x7f09004e
-			public const int abc_text_size_display_2_material = 2131296334;
+			// aapt resource value: 0x7f08004e
+			public const int abc_text_size_display_2_material = 2131230798;
 			
-			// aapt resource value: 0x7f09004f
-			public const int abc_text_size_display_3_material = 2131296335;
+			// aapt resource value: 0x7f08004f
+			public const int abc_text_size_display_3_material = 2131230799;
 			
-			// aapt resource value: 0x7f090050
-			public const int abc_text_size_display_4_material = 2131296336;
+			// aapt resource value: 0x7f080050
+			public const int abc_text_size_display_4_material = 2131230800;
 			
-			// aapt resource value: 0x7f090051
-			public const int abc_text_size_headline_material = 2131296337;
+			// aapt resource value: 0x7f080051
+			public const int abc_text_size_headline_material = 2131230801;
 			
-			// aapt resource value: 0x7f090052
-			public const int abc_text_size_large_material = 2131296338;
+			// aapt resource value: 0x7f080052
+			public const int abc_text_size_large_material = 2131230802;
 			
-			// aapt resource value: 0x7f090053
-			public const int abc_text_size_medium_material = 2131296339;
+			// aapt resource value: 0x7f080053
+			public const int abc_text_size_medium_material = 2131230803;
 			
-			// aapt resource value: 0x7f090054
-			public const int abc_text_size_menu_header_material = 2131296340;
+			// aapt resource value: 0x7f080054
+			public const int abc_text_size_menu_header_material = 2131230804;
 			
-			// aapt resource value: 0x7f090055
-			public const int abc_text_size_menu_material = 2131296341;
+			// aapt resource value: 0x7f080055
+			public const int abc_text_size_menu_material = 2131230805;
 			
-			// aapt resource value: 0x7f090056
-			public const int abc_text_size_small_material = 2131296342;
+			// aapt resource value: 0x7f080056
+			public const int abc_text_size_small_material = 2131230806;
 			
-			// aapt resource value: 0x7f090057
-			public const int abc_text_size_subhead_material = 2131296343;
+			// aapt resource value: 0x7f080057
+			public const int abc_text_size_subhead_material = 2131230807;
 			
-			// aapt resource value: 0x7f090012
-			public const int abc_text_size_subtitle_material_toolbar = 2131296274;
+			// aapt resource value: 0x7f080012
+			public const int abc_text_size_subtitle_material_toolbar = 2131230738;
 			
-			// aapt resource value: 0x7f090058
-			public const int abc_text_size_title_material = 2131296344;
+			// aapt resource value: 0x7f080058
+			public const int abc_text_size_title_material = 2131230808;
 			
-			// aapt resource value: 0x7f090013
-			public const int abc_text_size_title_material_toolbar = 2131296275;
+			// aapt resource value: 0x7f080013
+			public const int abc_text_size_title_material_toolbar = 2131230739;
 			
-			// aapt resource value: 0x7f09000c
-			public const int cardview_compat_inset_shadow = 2131296268;
+			// aapt resource value: 0x7f08000c
+			public const int cardview_compat_inset_shadow = 2131230732;
 			
-			// aapt resource value: 0x7f09000d
-			public const int cardview_default_elevation = 2131296269;
+			// aapt resource value: 0x7f08000d
+			public const int cardview_default_elevation = 2131230733;
 			
-			// aapt resource value: 0x7f09000e
-			public const int cardview_default_radius = 2131296270;
+			// aapt resource value: 0x7f08000e
+			public const int cardview_default_radius = 2131230734;
 			
-			// aapt resource value: 0x7f090094
-			public const int compat_button_inset_horizontal_material = 2131296404;
+			// aapt resource value: 0x7f080094
+			public const int compat_button_inset_horizontal_material = 2131230868;
 			
-			// aapt resource value: 0x7f090095
-			public const int compat_button_inset_vertical_material = 2131296405;
+			// aapt resource value: 0x7f080095
+			public const int compat_button_inset_vertical_material = 2131230869;
 			
-			// aapt resource value: 0x7f090096
-			public const int compat_button_padding_horizontal_material = 2131296406;
+			// aapt resource value: 0x7f080096
+			public const int compat_button_padding_horizontal_material = 2131230870;
 			
-			// aapt resource value: 0x7f090097
-			public const int compat_button_padding_vertical_material = 2131296407;
+			// aapt resource value: 0x7f080097
+			public const int compat_button_padding_vertical_material = 2131230871;
 			
-			// aapt resource value: 0x7f090098
-			public const int compat_control_corner_material = 2131296408;
+			// aapt resource value: 0x7f080098
+			public const int compat_control_corner_material = 2131230872;
 			
-			// aapt resource value: 0x7f090072
-			public const int design_appbar_elevation = 2131296370;
+			// aapt resource value: 0x7f080072
+			public const int design_appbar_elevation = 2131230834;
 			
-			// aapt resource value: 0x7f090073
-			public const int design_bottom_navigation_active_item_max_width = 2131296371;
+			// aapt resource value: 0x7f080073
+			public const int design_bottom_navigation_active_item_max_width = 2131230835;
 			
-			// aapt resource value: 0x7f090074
-			public const int design_bottom_navigation_active_text_size = 2131296372;
+			// aapt resource value: 0x7f080074
+			public const int design_bottom_navigation_active_text_size = 2131230836;
 			
-			// aapt resource value: 0x7f090075
-			public const int design_bottom_navigation_elevation = 2131296373;
+			// aapt resource value: 0x7f080075
+			public const int design_bottom_navigation_elevation = 2131230837;
 			
-			// aapt resource value: 0x7f090076
-			public const int design_bottom_navigation_height = 2131296374;
+			// aapt resource value: 0x7f080076
+			public const int design_bottom_navigation_height = 2131230838;
 			
-			// aapt resource value: 0x7f090077
-			public const int design_bottom_navigation_item_max_width = 2131296375;
+			// aapt resource value: 0x7f080077
+			public const int design_bottom_navigation_item_max_width = 2131230839;
 			
-			// aapt resource value: 0x7f090078
-			public const int design_bottom_navigation_item_min_width = 2131296376;
+			// aapt resource value: 0x7f080078
+			public const int design_bottom_navigation_item_min_width = 2131230840;
 			
-			// aapt resource value: 0x7f090079
-			public const int design_bottom_navigation_margin = 2131296377;
+			// aapt resource value: 0x7f080079
+			public const int design_bottom_navigation_margin = 2131230841;
 			
-			// aapt resource value: 0x7f09007a
-			public const int design_bottom_navigation_shadow_height = 2131296378;
+			// aapt resource value: 0x7f08007a
+			public const int design_bottom_navigation_shadow_height = 2131230842;
 			
-			// aapt resource value: 0x7f09007b
-			public const int design_bottom_navigation_text_size = 2131296379;
+			// aapt resource value: 0x7f08007b
+			public const int design_bottom_navigation_text_size = 2131230843;
 			
-			// aapt resource value: 0x7f09007c
-			public const int design_bottom_sheet_modal_elevation = 2131296380;
+			// aapt resource value: 0x7f08007c
+			public const int design_bottom_sheet_modal_elevation = 2131230844;
 			
-			// aapt resource value: 0x7f09007d
-			public const int design_bottom_sheet_peek_height_min = 2131296381;
+			// aapt resource value: 0x7f08007d
+			public const int design_bottom_sheet_peek_height_min = 2131230845;
 			
-			// aapt resource value: 0x7f09007e
-			public const int design_fab_border_width = 2131296382;
+			// aapt resource value: 0x7f08007e
+			public const int design_fab_border_width = 2131230846;
 			
-			// aapt resource value: 0x7f09007f
-			public const int design_fab_elevation = 2131296383;
+			// aapt resource value: 0x7f08007f
+			public const int design_fab_elevation = 2131230847;
 			
-			// aapt resource value: 0x7f090080
-			public const int design_fab_image_size = 2131296384;
+			// aapt resource value: 0x7f080080
+			public const int design_fab_image_size = 2131230848;
 			
-			// aapt resource value: 0x7f090081
-			public const int design_fab_size_mini = 2131296385;
+			// aapt resource value: 0x7f080081
+			public const int design_fab_size_mini = 2131230849;
 			
-			// aapt resource value: 0x7f090082
-			public const int design_fab_size_normal = 2131296386;
+			// aapt resource value: 0x7f080082
+			public const int design_fab_size_normal = 2131230850;
 			
-			// aapt resource value: 0x7f090083
-			public const int design_fab_translation_z_pressed = 2131296387;
+			// aapt resource value: 0x7f080083
+			public const int design_fab_translation_z_pressed = 2131230851;
 			
-			// aapt resource value: 0x7f090084
-			public const int design_navigation_elevation = 2131296388;
+			// aapt resource value: 0x7f080084
+			public const int design_navigation_elevation = 2131230852;
 			
-			// aapt resource value: 0x7f090085
-			public const int design_navigation_icon_padding = 2131296389;
+			// aapt resource value: 0x7f080085
+			public const int design_navigation_icon_padding = 2131230853;
 			
-			// aapt resource value: 0x7f090086
-			public const int design_navigation_icon_size = 2131296390;
+			// aapt resource value: 0x7f080086
+			public const int design_navigation_icon_size = 2131230854;
 			
-			// aapt resource value: 0x7f09006a
-			public const int design_navigation_max_width = 2131296362;
+			// aapt resource value: 0x7f08006a
+			public const int design_navigation_max_width = 2131230826;
 			
-			// aapt resource value: 0x7f090087
-			public const int design_navigation_padding_bottom = 2131296391;
+			// aapt resource value: 0x7f080087
+			public const int design_navigation_padding_bottom = 2131230855;
 			
-			// aapt resource value: 0x7f090088
-			public const int design_navigation_separator_vertical_padding = 2131296392;
+			// aapt resource value: 0x7f080088
+			public const int design_navigation_separator_vertical_padding = 2131230856;
 			
-			// aapt resource value: 0x7f09006b
-			public const int design_snackbar_action_inline_max_width = 2131296363;
+			// aapt resource value: 0x7f08006b
+			public const int design_snackbar_action_inline_max_width = 2131230827;
 			
-			// aapt resource value: 0x7f09006c
-			public const int design_snackbar_background_corner_radius = 2131296364;
+			// aapt resource value: 0x7f08006c
+			public const int design_snackbar_background_corner_radius = 2131230828;
 			
-			// aapt resource value: 0x7f090089
-			public const int design_snackbar_elevation = 2131296393;
+			// aapt resource value: 0x7f080089
+			public const int design_snackbar_elevation = 2131230857;
 			
-			// aapt resource value: 0x7f09006d
-			public const int design_snackbar_extra_spacing_horizontal = 2131296365;
+			// aapt resource value: 0x7f08006d
+			public const int design_snackbar_extra_spacing_horizontal = 2131230829;
 			
-			// aapt resource value: 0x7f09006e
-			public const int design_snackbar_max_width = 2131296366;
+			// aapt resource value: 0x7f08006e
+			public const int design_snackbar_max_width = 2131230830;
 			
-			// aapt resource value: 0x7f09006f
-			public const int design_snackbar_min_width = 2131296367;
+			// aapt resource value: 0x7f08006f
+			public const int design_snackbar_min_width = 2131230831;
 			
-			// aapt resource value: 0x7f09008a
-			public const int design_snackbar_padding_horizontal = 2131296394;
+			// aapt resource value: 0x7f08008a
+			public const int design_snackbar_padding_horizontal = 2131230858;
 			
-			// aapt resource value: 0x7f09008b
-			public const int design_snackbar_padding_vertical = 2131296395;
+			// aapt resource value: 0x7f08008b
+			public const int design_snackbar_padding_vertical = 2131230859;
 			
-			// aapt resource value: 0x7f090070
-			public const int design_snackbar_padding_vertical_2lines = 2131296368;
+			// aapt resource value: 0x7f080070
+			public const int design_snackbar_padding_vertical_2lines = 2131230832;
 			
-			// aapt resource value: 0x7f09008c
-			public const int design_snackbar_text_size = 2131296396;
+			// aapt resource value: 0x7f08008c
+			public const int design_snackbar_text_size = 2131230860;
 			
-			// aapt resource value: 0x7f09008d
-			public const int design_tab_max_width = 2131296397;
+			// aapt resource value: 0x7f08008d
+			public const int design_tab_max_width = 2131230861;
 			
-			// aapt resource value: 0x7f090071
-			public const int design_tab_scrollable_min_width = 2131296369;
+			// aapt resource value: 0x7f080071
+			public const int design_tab_scrollable_min_width = 2131230833;
 			
-			// aapt resource value: 0x7f09008e
-			public const int design_tab_text_size = 2131296398;
+			// aapt resource value: 0x7f08008e
+			public const int design_tab_text_size = 2131230862;
 			
-			// aapt resource value: 0x7f09008f
-			public const int design_tab_text_size_2line = 2131296399;
+			// aapt resource value: 0x7f08008f
+			public const int design_tab_text_size_2line = 2131230863;
 			
-			// aapt resource value: 0x7f090059
-			public const int disabled_alpha_material_dark = 2131296345;
+			// aapt resource value: 0x7f080059
+			public const int disabled_alpha_material_dark = 2131230809;
 			
-			// aapt resource value: 0x7f09005a
-			public const int disabled_alpha_material_light = 2131296346;
+			// aapt resource value: 0x7f08005a
+			public const int disabled_alpha_material_light = 2131230810;
 			
-			// aapt resource value: 0x7f090000
-			public const int fastscroll_default_thickness = 2131296256;
+			// aapt resource value: 0x7f080000
+			public const int fastscroll_default_thickness = 2131230720;
 			
-			// aapt resource value: 0x7f090001
-			public const int fastscroll_margin = 2131296257;
+			// aapt resource value: 0x7f080001
+			public const int fastscroll_margin = 2131230721;
 			
-			// aapt resource value: 0x7f090002
-			public const int fastscroll_minimum_range = 2131296258;
+			// aapt resource value: 0x7f080002
+			public const int fastscroll_minimum_range = 2131230722;
 			
-			// aapt resource value: 0x7f09005b
-			public const int highlight_alpha_material_colored = 2131296347;
+			// aapt resource value: 0x7f08005b
+			public const int highlight_alpha_material_colored = 2131230811;
 			
-			// aapt resource value: 0x7f09005c
-			public const int highlight_alpha_material_dark = 2131296348;
+			// aapt resource value: 0x7f08005c
+			public const int highlight_alpha_material_dark = 2131230812;
 			
-			// aapt resource value: 0x7f09005d
-			public const int highlight_alpha_material_light = 2131296349;
+			// aapt resource value: 0x7f08005d
+			public const int highlight_alpha_material_light = 2131230813;
 			
-			// aapt resource value: 0x7f09005e
-			public const int hint_alpha_material_dark = 2131296350;
+			// aapt resource value: 0x7f08005e
+			public const int hint_alpha_material_dark = 2131230814;
 			
-			// aapt resource value: 0x7f09005f
-			public const int hint_alpha_material_light = 2131296351;
+			// aapt resource value: 0x7f08005f
+			public const int hint_alpha_material_light = 2131230815;
 			
-			// aapt resource value: 0x7f090060
-			public const int hint_pressed_alpha_material_dark = 2131296352;
+			// aapt resource value: 0x7f080060
+			public const int hint_pressed_alpha_material_dark = 2131230816;
 			
-			// aapt resource value: 0x7f090061
-			public const int hint_pressed_alpha_material_light = 2131296353;
+			// aapt resource value: 0x7f080061
+			public const int hint_pressed_alpha_material_light = 2131230817;
 			
-			// aapt resource value: 0x7f090003
-			public const int item_touch_helper_max_drag_scroll_per_frame = 2131296259;
+			// aapt resource value: 0x7f080003
+			public const int item_touch_helper_max_drag_scroll_per_frame = 2131230723;
 			
-			// aapt resource value: 0x7f090004
-			public const int item_touch_helper_swipe_escape_max_velocity = 2131296260;
+			// aapt resource value: 0x7f080004
+			public const int item_touch_helper_swipe_escape_max_velocity = 2131230724;
 			
-			// aapt resource value: 0x7f090005
-			public const int item_touch_helper_swipe_escape_velocity = 2131296261;
+			// aapt resource value: 0x7f080005
+			public const int item_touch_helper_swipe_escape_velocity = 2131230725;
 			
-			// aapt resource value: 0x7f090006
-			public const int mr_controller_volume_group_list_item_height = 2131296262;
+			// aapt resource value: 0x7f080006
+			public const int mr_controller_volume_group_list_item_height = 2131230726;
 			
-			// aapt resource value: 0x7f090007
-			public const int mr_controller_volume_group_list_item_icon_size = 2131296263;
+			// aapt resource value: 0x7f080007
+			public const int mr_controller_volume_group_list_item_icon_size = 2131230727;
 			
-			// aapt resource value: 0x7f090008
-			public const int mr_controller_volume_group_list_max_height = 2131296264;
+			// aapt resource value: 0x7f080008
+			public const int mr_controller_volume_group_list_max_height = 2131230728;
 			
-			// aapt resource value: 0x7f09000b
-			public const int mr_controller_volume_group_list_padding_top = 2131296267;
+			// aapt resource value: 0x7f08000b
+			public const int mr_controller_volume_group_list_padding_top = 2131230731;
 			
-			// aapt resource value: 0x7f090009
-			public const int mr_dialog_fixed_width_major = 2131296265;
+			// aapt resource value: 0x7f080009
+			public const int mr_dialog_fixed_width_major = 2131230729;
 			
-			// aapt resource value: 0x7f09000a
-			public const int mr_dialog_fixed_width_minor = 2131296266;
+			// aapt resource value: 0x7f08000a
+			public const int mr_dialog_fixed_width_minor = 2131230730;
 			
-			// aapt resource value: 0x7f090099
-			public const int notification_action_icon_size = 2131296409;
+			// aapt resource value: 0x7f080099
+			public const int notification_action_icon_size = 2131230873;
 			
-			// aapt resource value: 0x7f09009a
-			public const int notification_action_text_size = 2131296410;
+			// aapt resource value: 0x7f08009a
+			public const int notification_action_text_size = 2131230874;
 			
-			// aapt resource value: 0x7f09009b
-			public const int notification_big_circle_margin = 2131296411;
+			// aapt resource value: 0x7f08009b
+			public const int notification_big_circle_margin = 2131230875;
 			
-			// aapt resource value: 0x7f090091
-			public const int notification_content_margin_start = 2131296401;
+			// aapt resource value: 0x7f080091
+			public const int notification_content_margin_start = 2131230865;
 			
-			// aapt resource value: 0x7f09009c
-			public const int notification_large_icon_height = 2131296412;
+			// aapt resource value: 0x7f08009c
+			public const int notification_large_icon_height = 2131230876;
 			
-			// aapt resource value: 0x7f09009d
-			public const int notification_large_icon_width = 2131296413;
+			// aapt resource value: 0x7f08009d
+			public const int notification_large_icon_width = 2131230877;
 			
-			// aapt resource value: 0x7f090092
-			public const int notification_main_column_padding_top = 2131296402;
+			// aapt resource value: 0x7f080092
+			public const int notification_main_column_padding_top = 2131230866;
 			
-			// aapt resource value: 0x7f090093
-			public const int notification_media_narrow_margin = 2131296403;
+			// aapt resource value: 0x7f080093
+			public const int notification_media_narrow_margin = 2131230867;
 			
-			// aapt resource value: 0x7f09009e
-			public const int notification_right_icon_size = 2131296414;
+			// aapt resource value: 0x7f08009e
+			public const int notification_right_icon_size = 2131230878;
 			
-			// aapt resource value: 0x7f090090
-			public const int notification_right_side_padding_top = 2131296400;
+			// aapt resource value: 0x7f080090
+			public const int notification_right_side_padding_top = 2131230864;
 			
-			// aapt resource value: 0x7f09009f
-			public const int notification_small_icon_background_padding = 2131296415;
+			// aapt resource value: 0x7f08009f
+			public const int notification_small_icon_background_padding = 2131230879;
 			
-			// aapt resource value: 0x7f0900a0
-			public const int notification_small_icon_size_as_large = 2131296416;
+			// aapt resource value: 0x7f0800a0
+			public const int notification_small_icon_size_as_large = 2131230880;
 			
-			// aapt resource value: 0x7f0900a1
-			public const int notification_subtext_size = 2131296417;
+			// aapt resource value: 0x7f0800a1
+			public const int notification_subtext_size = 2131230881;
 			
-			// aapt resource value: 0x7f0900a2
-			public const int notification_top_pad = 2131296418;
+			// aapt resource value: 0x7f0800a2
+			public const int notification_top_pad = 2131230882;
 			
-			// aapt resource value: 0x7f0900a3
-			public const int notification_top_pad_large_text = 2131296419;
+			// aapt resource value: 0x7f0800a3
+			public const int notification_top_pad_large_text = 2131230883;
 			
-			// aapt resource value: 0x7f090062
-			public const int tooltip_corner_radius = 2131296354;
+			// aapt resource value: 0x7f080062
+			public const int tooltip_corner_radius = 2131230818;
 			
-			// aapt resource value: 0x7f090063
-			public const int tooltip_horizontal_padding = 2131296355;
+			// aapt resource value: 0x7f080063
+			public const int tooltip_horizontal_padding = 2131230819;
 			
-			// aapt resource value: 0x7f090064
-			public const int tooltip_margin = 2131296356;
+			// aapt resource value: 0x7f080064
+			public const int tooltip_margin = 2131230820;
 			
-			// aapt resource value: 0x7f090065
-			public const int tooltip_precise_anchor_extra_offset = 2131296357;
+			// aapt resource value: 0x7f080065
+			public const int tooltip_precise_anchor_extra_offset = 2131230821;
 			
-			// aapt resource value: 0x7f090066
-			public const int tooltip_precise_anchor_threshold = 2131296358;
+			// aapt resource value: 0x7f080066
+			public const int tooltip_precise_anchor_threshold = 2131230822;
 			
-			// aapt resource value: 0x7f090067
-			public const int tooltip_vertical_padding = 2131296359;
+			// aapt resource value: 0x7f080067
+			public const int tooltip_vertical_padding = 2131230823;
 			
-			// aapt resource value: 0x7f090068
-			public const int tooltip_y_offset_non_touch = 2131296360;
+			// aapt resource value: 0x7f080068
+			public const int tooltip_y_offset_non_touch = 2131230824;
 			
-			// aapt resource value: 0x7f090069
-			public const int tooltip_y_offset_touch = 2131296361;
+			// aapt resource value: 0x7f080069
+			public const int tooltip_y_offset_touch = 2131230825;
 			
 			static Dimension()
 			{
@@ -5125,614 +3030,614 @@ namespace Sample.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0a0032
-			public const int ALT = 2131361842;
+			// aapt resource value: 0x7f090032
+			public const int ALT = 2131296306;
 			
-			// aapt resource value: 0x7f0a0033
-			public const int CTRL = 2131361843;
+			// aapt resource value: 0x7f090033
+			public const int CTRL = 2131296307;
 			
-			// aapt resource value: 0x7f0a0034
-			public const int FUNCTION = 2131361844;
+			// aapt resource value: 0x7f090034
+			public const int FUNCTION = 2131296308;
 			
-			// aapt resource value: 0x7f0a0035
-			public const int META = 2131361845;
+			// aapt resource value: 0x7f090035
+			public const int META = 2131296309;
 			
-			// aapt resource value: 0x7f0a0036
-			public const int SHIFT = 2131361846;
+			// aapt resource value: 0x7f090036
+			public const int SHIFT = 2131296310;
 			
-			// aapt resource value: 0x7f0a0037
-			public const int SYM = 2131361847;
+			// aapt resource value: 0x7f090037
+			public const int SYM = 2131296311;
 			
-			// aapt resource value: 0x7f0a00b6
-			public const int action0 = 2131361974;
+			// aapt resource value: 0x7f0900b6
+			public const int action0 = 2131296438;
 			
-			// aapt resource value: 0x7f0a007c
-			public const int action_bar = 2131361916;
+			// aapt resource value: 0x7f09007c
+			public const int action_bar = 2131296380;
 			
-			// aapt resource value: 0x7f0a0001
-			public const int action_bar_activity_content = 2131361793;
+			// aapt resource value: 0x7f090001
+			public const int action_bar_activity_content = 2131296257;
 			
-			// aapt resource value: 0x7f0a007b
-			public const int action_bar_container = 2131361915;
+			// aapt resource value: 0x7f09007b
+			public const int action_bar_container = 2131296379;
 			
-			// aapt resource value: 0x7f0a0077
-			public const int action_bar_root = 2131361911;
+			// aapt resource value: 0x7f090077
+			public const int action_bar_root = 2131296375;
 			
-			// aapt resource value: 0x7f0a0002
-			public const int action_bar_spinner = 2131361794;
+			// aapt resource value: 0x7f090002
+			public const int action_bar_spinner = 2131296258;
 			
-			// aapt resource value: 0x7f0a005b
-			public const int action_bar_subtitle = 2131361883;
+			// aapt resource value: 0x7f09005b
+			public const int action_bar_subtitle = 2131296347;
 			
-			// aapt resource value: 0x7f0a005a
-			public const int action_bar_title = 2131361882;
+			// aapt resource value: 0x7f09005a
+			public const int action_bar_title = 2131296346;
 			
-			// aapt resource value: 0x7f0a00b3
-			public const int action_container = 2131361971;
+			// aapt resource value: 0x7f0900b3
+			public const int action_container = 2131296435;
 			
-			// aapt resource value: 0x7f0a007d
-			public const int action_context_bar = 2131361917;
+			// aapt resource value: 0x7f09007d
+			public const int action_context_bar = 2131296381;
 			
-			// aapt resource value: 0x7f0a00ba
-			public const int action_divider = 2131361978;
+			// aapt resource value: 0x7f0900ba
+			public const int action_divider = 2131296442;
 			
-			// aapt resource value: 0x7f0a00b4
-			public const int action_image = 2131361972;
+			// aapt resource value: 0x7f0900b4
+			public const int action_image = 2131296436;
 			
-			// aapt resource value: 0x7f0a0003
-			public const int action_menu_divider = 2131361795;
+			// aapt resource value: 0x7f090003
+			public const int action_menu_divider = 2131296259;
 			
-			// aapt resource value: 0x7f0a0004
-			public const int action_menu_presenter = 2131361796;
+			// aapt resource value: 0x7f090004
+			public const int action_menu_presenter = 2131296260;
 			
-			// aapt resource value: 0x7f0a0079
-			public const int action_mode_bar = 2131361913;
+			// aapt resource value: 0x7f090079
+			public const int action_mode_bar = 2131296377;
 			
-			// aapt resource value: 0x7f0a0078
-			public const int action_mode_bar_stub = 2131361912;
+			// aapt resource value: 0x7f090078
+			public const int action_mode_bar_stub = 2131296376;
 			
-			// aapt resource value: 0x7f0a005c
-			public const int action_mode_close_button = 2131361884;
+			// aapt resource value: 0x7f09005c
+			public const int action_mode_close_button = 2131296348;
 			
-			// aapt resource value: 0x7f0a00b5
-			public const int action_text = 2131361973;
+			// aapt resource value: 0x7f0900b5
+			public const int action_text = 2131296437;
 			
-			// aapt resource value: 0x7f0a00c3
-			public const int actions = 2131361987;
+			// aapt resource value: 0x7f0900c3
+			public const int actions = 2131296451;
 			
-			// aapt resource value: 0x7f0a005d
-			public const int activity_chooser_view_content = 2131361885;
+			// aapt resource value: 0x7f09005d
+			public const int activity_chooser_view_content = 2131296349;
 			
-			// aapt resource value: 0x7f0a0027
-			public const int add = 2131361831;
+			// aapt resource value: 0x7f090027
+			public const int add = 2131296295;
 			
-			// aapt resource value: 0x7f0a0070
-			public const int alertTitle = 2131361904;
+			// aapt resource value: 0x7f090070
+			public const int alertTitle = 2131296368;
 			
-			// aapt resource value: 0x7f0a0052
-			public const int all = 2131361874;
+			// aapt resource value: 0x7f090052
+			public const int all = 2131296338;
 			
-			// aapt resource value: 0x7f0a0038
-			public const int always = 2131361848;
+			// aapt resource value: 0x7f090038
+			public const int always = 2131296312;
 			
-			// aapt resource value: 0x7f0a0056
-			public const int async = 2131361878;
+			// aapt resource value: 0x7f090056
+			public const int async = 2131296342;
 			
-			// aapt resource value: 0x7f0a0044
-			public const int auto = 2131361860;
+			// aapt resource value: 0x7f090044
+			public const int auto = 2131296324;
 			
-			// aapt resource value: 0x7f0a002f
-			public const int beginning = 2131361839;
+			// aapt resource value: 0x7f09002f
+			public const int beginning = 2131296303;
 			
-			// aapt resource value: 0x7f0a0057
-			public const int blocking = 2131361879;
+			// aapt resource value: 0x7f090057
+			public const int blocking = 2131296343;
 			
-			// aapt resource value: 0x7f0a003d
-			public const int bottom = 2131361853;
+			// aapt resource value: 0x7f09003d
+			public const int bottom = 2131296317;
 			
-			// aapt resource value: 0x7f0a0063
-			public const int buttonPanel = 2131361891;
+			// aapt resource value: 0x7f090063
+			public const int buttonPanel = 2131296355;
 			
-			// aapt resource value: 0x7f0a00b7
-			public const int cancel_action = 2131361975;
+			// aapt resource value: 0x7f0900b7
+			public const int cancel_action = 2131296439;
 			
-			// aapt resource value: 0x7f0a0045
-			public const int center = 2131361861;
+			// aapt resource value: 0x7f090045
+			public const int center = 2131296325;
 			
-			// aapt resource value: 0x7f0a0046
-			public const int center_horizontal = 2131361862;
+			// aapt resource value: 0x7f090046
+			public const int center_horizontal = 2131296326;
 			
-			// aapt resource value: 0x7f0a0047
-			public const int center_vertical = 2131361863;
+			// aapt resource value: 0x7f090047
+			public const int center_vertical = 2131296327;
 			
-			// aapt resource value: 0x7f0a0073
-			public const int checkbox = 2131361907;
+			// aapt resource value: 0x7f090073
+			public const int checkbox = 2131296371;
 			
-			// aapt resource value: 0x7f0a00bf
-			public const int chronometer = 2131361983;
+			// aapt resource value: 0x7f0900bf
+			public const int chronometer = 2131296447;
 			
-			// aapt resource value: 0x7f0a004e
-			public const int clip_horizontal = 2131361870;
+			// aapt resource value: 0x7f09004e
+			public const int clip_horizontal = 2131296334;
 			
-			// aapt resource value: 0x7f0a004f
-			public const int clip_vertical = 2131361871;
+			// aapt resource value: 0x7f09004f
+			public const int clip_vertical = 2131296335;
 			
-			// aapt resource value: 0x7f0a0039
-			public const int collapseActionView = 2131361849;
+			// aapt resource value: 0x7f090039
+			public const int collapseActionView = 2131296313;
 			
-			// aapt resource value: 0x7f0a008d
-			public const int container = 2131361933;
+			// aapt resource value: 0x7f09008d
+			public const int container = 2131296397;
 			
-			// aapt resource value: 0x7f0a0066
-			public const int contentPanel = 2131361894;
+			// aapt resource value: 0x7f090066
+			public const int contentPanel = 2131296358;
 			
-			// aapt resource value: 0x7f0a008e
-			public const int coordinator = 2131361934;
+			// aapt resource value: 0x7f09008e
+			public const int coordinator = 2131296398;
 			
-			// aapt resource value: 0x7f0a006d
-			public const int custom = 2131361901;
+			// aapt resource value: 0x7f09006d
+			public const int custom = 2131296365;
 			
-			// aapt resource value: 0x7f0a006c
-			public const int customPanel = 2131361900;
+			// aapt resource value: 0x7f09006c
+			public const int customPanel = 2131296364;
 			
-			// aapt resource value: 0x7f0a007a
-			public const int decor_content_parent = 2131361914;
+			// aapt resource value: 0x7f09007a
+			public const int decor_content_parent = 2131296378;
 			
-			// aapt resource value: 0x7f0a0060
-			public const int default_activity_button = 2131361888;
+			// aapt resource value: 0x7f090060
+			public const int default_activity_button = 2131296352;
 			
-			// aapt resource value: 0x7f0a0090
-			public const int design_bottom_sheet = 2131361936;
+			// aapt resource value: 0x7f090090
+			public const int design_bottom_sheet = 2131296400;
 			
-			// aapt resource value: 0x7f0a0097
-			public const int design_menu_item_action_area = 2131361943;
+			// aapt resource value: 0x7f090097
+			public const int design_menu_item_action_area = 2131296407;
 			
-			// aapt resource value: 0x7f0a0096
-			public const int design_menu_item_action_area_stub = 2131361942;
+			// aapt resource value: 0x7f090096
+			public const int design_menu_item_action_area_stub = 2131296406;
 			
-			// aapt resource value: 0x7f0a0095
-			public const int design_menu_item_text = 2131361941;
+			// aapt resource value: 0x7f090095
+			public const int design_menu_item_text = 2131296405;
 			
-			// aapt resource value: 0x7f0a0094
-			public const int design_navigation_view = 2131361940;
+			// aapt resource value: 0x7f090094
+			public const int design_navigation_view = 2131296404;
 			
-			// aapt resource value: 0x7f0a0020
-			public const int disableHome = 2131361824;
+			// aapt resource value: 0x7f090020
+			public const int disableHome = 2131296288;
 			
-			// aapt resource value: 0x7f0a007e
-			public const int edit_query = 2131361918;
+			// aapt resource value: 0x7f09007e
+			public const int edit_query = 2131296382;
 			
-			// aapt resource value: 0x7f0a0030
-			public const int end = 2131361840;
+			// aapt resource value: 0x7f090030
+			public const int end = 2131296304;
 			
-			// aapt resource value: 0x7f0a00c5
-			public const int end_padder = 2131361989;
+			// aapt resource value: 0x7f0900c5
+			public const int end_padder = 2131296453;
 			
-			// aapt resource value: 0x7f0a003f
-			public const int enterAlways = 2131361855;
+			// aapt resource value: 0x7f09003f
+			public const int enterAlways = 2131296319;
 			
-			// aapt resource value: 0x7f0a0040
-			public const int enterAlwaysCollapsed = 2131361856;
+			// aapt resource value: 0x7f090040
+			public const int enterAlwaysCollapsed = 2131296320;
 			
-			// aapt resource value: 0x7f0a0041
-			public const int exitUntilCollapsed = 2131361857;
+			// aapt resource value: 0x7f090041
+			public const int exitUntilCollapsed = 2131296321;
 			
-			// aapt resource value: 0x7f0a005e
-			public const int expand_activities_button = 2131361886;
+			// aapt resource value: 0x7f09005e
+			public const int expand_activities_button = 2131296350;
 			
-			// aapt resource value: 0x7f0a0072
-			public const int expanded_menu = 2131361906;
+			// aapt resource value: 0x7f090072
+			public const int expanded_menu = 2131296370;
 			
-			// aapt resource value: 0x7f0a0050
-			public const int fill = 2131361872;
+			// aapt resource value: 0x7f090050
+			public const int fill = 2131296336;
 			
-			// aapt resource value: 0x7f0a0051
-			public const int fill_horizontal = 2131361873;
+			// aapt resource value: 0x7f090051
+			public const int fill_horizontal = 2131296337;
 			
-			// aapt resource value: 0x7f0a0048
-			public const int fill_vertical = 2131361864;
+			// aapt resource value: 0x7f090048
+			public const int fill_vertical = 2131296328;
 			
-			// aapt resource value: 0x7f0a0054
-			public const int @fixed = 2131361876;
+			// aapt resource value: 0x7f090054
+			public const int @fixed = 2131296340;
 			
-			// aapt resource value: 0x7f0a0058
-			public const int forever = 2131361880;
+			// aapt resource value: 0x7f090058
+			public const int forever = 2131296344;
 			
-			// aapt resource value: 0x7f0a000a
-			public const int ghost_view = 2131361802;
+			// aapt resource value: 0x7f09000a
+			public const int ghost_view = 2131296266;
 			
-			// aapt resource value: 0x7f0a0005
-			public const int home = 2131361797;
+			// aapt resource value: 0x7f090005
+			public const int home = 2131296261;
 			
-			// aapt resource value: 0x7f0a0021
-			public const int homeAsUp = 2131361825;
+			// aapt resource value: 0x7f090021
+			public const int homeAsUp = 2131296289;
 			
-			// aapt resource value: 0x7f0a0062
-			public const int icon = 2131361890;
+			// aapt resource value: 0x7f090062
+			public const int icon = 2131296354;
 			
-			// aapt resource value: 0x7f0a00c4
-			public const int icon_group = 2131361988;
+			// aapt resource value: 0x7f0900c4
+			public const int icon_group = 2131296452;
 			
-			// aapt resource value: 0x7f0a003a
-			public const int ifRoom = 2131361850;
+			// aapt resource value: 0x7f09003a
+			public const int ifRoom = 2131296314;
 			
-			// aapt resource value: 0x7f0a005f
-			public const int image = 2131361887;
+			// aapt resource value: 0x7f09005f
+			public const int image = 2131296351;
 			
-			// aapt resource value: 0x7f0a00c0
-			public const int info = 2131361984;
+			// aapt resource value: 0x7f0900c0
+			public const int info = 2131296448;
 			
-			// aapt resource value: 0x7f0a0059
-			public const int italic = 2131361881;
+			// aapt resource value: 0x7f090059
+			public const int italic = 2131296345;
 			
-			// aapt resource value: 0x7f0a0000
-			public const int item_touch_helper_previous_elevation = 2131361792;
+			// aapt resource value: 0x7f090000
+			public const int item_touch_helper_previous_elevation = 2131296256;
 			
-			// aapt resource value: 0x7f0a008c
-			public const int largeLabel = 2131361932;
+			// aapt resource value: 0x7f09008c
+			public const int largeLabel = 2131296396;
 			
-			// aapt resource value: 0x7f0a0049
-			public const int left = 2131361865;
+			// aapt resource value: 0x7f090049
+			public const int left = 2131296329;
 			
-			// aapt resource value: 0x7f0a0017
-			public const int line1 = 2131361815;
+			// aapt resource value: 0x7f090017
+			public const int line1 = 2131296279;
 			
-			// aapt resource value: 0x7f0a0018
-			public const int line3 = 2131361816;
+			// aapt resource value: 0x7f090018
+			public const int line3 = 2131296280;
 			
-			// aapt resource value: 0x7f0a001d
-			public const int listMode = 2131361821;
+			// aapt resource value: 0x7f09001d
+			public const int listMode = 2131296285;
 			
-			// aapt resource value: 0x7f0a0061
-			public const int list_item = 2131361889;
+			// aapt resource value: 0x7f090061
+			public const int list_item = 2131296353;
 			
-			// aapt resource value: 0x7f0a00ca
-			public const int masked = 2131361994;
+			// aapt resource value: 0x7f0900ca
+			public const int masked = 2131296458;
 			
-			// aapt resource value: 0x7f0a00b9
-			public const int media_actions = 2131361977;
+			// aapt resource value: 0x7f0900b9
+			public const int media_actions = 2131296441;
 			
-			// aapt resource value: 0x7f0a00c8
-			public const int message = 2131361992;
+			// aapt resource value: 0x7f0900c8
+			public const int message = 2131296456;
 			
-			// aapt resource value: 0x7f0a0031
-			public const int middle = 2131361841;
+			// aapt resource value: 0x7f090031
+			public const int middle = 2131296305;
 			
-			// aapt resource value: 0x7f0a0053
-			public const int mini = 2131361875;
+			// aapt resource value: 0x7f090053
+			public const int mini = 2131296339;
 			
-			// aapt resource value: 0x7f0a00a5
-			public const int mr_art = 2131361957;
+			// aapt resource value: 0x7f0900a5
+			public const int mr_art = 2131296421;
 			
-			// aapt resource value: 0x7f0a009a
-			public const int mr_chooser_list = 2131361946;
+			// aapt resource value: 0x7f09009a
+			public const int mr_chooser_list = 2131296410;
 			
-			// aapt resource value: 0x7f0a009d
-			public const int mr_chooser_route_desc = 2131361949;
+			// aapt resource value: 0x7f09009d
+			public const int mr_chooser_route_desc = 2131296413;
 			
-			// aapt resource value: 0x7f0a009b
-			public const int mr_chooser_route_icon = 2131361947;
+			// aapt resource value: 0x7f09009b
+			public const int mr_chooser_route_icon = 2131296411;
 			
-			// aapt resource value: 0x7f0a009c
-			public const int mr_chooser_route_name = 2131361948;
+			// aapt resource value: 0x7f09009c
+			public const int mr_chooser_route_name = 2131296412;
 			
-			// aapt resource value: 0x7f0a0099
-			public const int mr_chooser_title = 2131361945;
+			// aapt resource value: 0x7f090099
+			public const int mr_chooser_title = 2131296409;
 			
-			// aapt resource value: 0x7f0a00a2
-			public const int mr_close = 2131361954;
+			// aapt resource value: 0x7f0900a2
+			public const int mr_close = 2131296418;
 			
-			// aapt resource value: 0x7f0a00a8
-			public const int mr_control_divider = 2131361960;
+			// aapt resource value: 0x7f0900a8
+			public const int mr_control_divider = 2131296424;
 			
-			// aapt resource value: 0x7f0a00ae
-			public const int mr_control_playback_ctrl = 2131361966;
+			// aapt resource value: 0x7f0900ae
+			public const int mr_control_playback_ctrl = 2131296430;
 			
-			// aapt resource value: 0x7f0a00b1
-			public const int mr_control_subtitle = 2131361969;
+			// aapt resource value: 0x7f0900b1
+			public const int mr_control_subtitle = 2131296433;
 			
-			// aapt resource value: 0x7f0a00b0
-			public const int mr_control_title = 2131361968;
+			// aapt resource value: 0x7f0900b0
+			public const int mr_control_title = 2131296432;
 			
-			// aapt resource value: 0x7f0a00af
-			public const int mr_control_title_container = 2131361967;
+			// aapt resource value: 0x7f0900af
+			public const int mr_control_title_container = 2131296431;
 			
-			// aapt resource value: 0x7f0a00a3
-			public const int mr_custom_control = 2131361955;
+			// aapt resource value: 0x7f0900a3
+			public const int mr_custom_control = 2131296419;
 			
-			// aapt resource value: 0x7f0a00a4
-			public const int mr_default_control = 2131361956;
+			// aapt resource value: 0x7f0900a4
+			public const int mr_default_control = 2131296420;
 			
-			// aapt resource value: 0x7f0a009f
-			public const int mr_dialog_area = 2131361951;
+			// aapt resource value: 0x7f09009f
+			public const int mr_dialog_area = 2131296415;
 			
-			// aapt resource value: 0x7f0a009e
-			public const int mr_expandable_area = 2131361950;
+			// aapt resource value: 0x7f09009e
+			public const int mr_expandable_area = 2131296414;
 			
-			// aapt resource value: 0x7f0a00b2
-			public const int mr_group_expand_collapse = 2131361970;
+			// aapt resource value: 0x7f0900b2
+			public const int mr_group_expand_collapse = 2131296434;
 			
-			// aapt resource value: 0x7f0a00a6
-			public const int mr_media_main_control = 2131361958;
+			// aapt resource value: 0x7f0900a6
+			public const int mr_media_main_control = 2131296422;
 			
-			// aapt resource value: 0x7f0a00a1
-			public const int mr_name = 2131361953;
+			// aapt resource value: 0x7f0900a1
+			public const int mr_name = 2131296417;
 			
-			// aapt resource value: 0x7f0a00a7
-			public const int mr_playback_control = 2131361959;
+			// aapt resource value: 0x7f0900a7
+			public const int mr_playback_control = 2131296423;
 			
-			// aapt resource value: 0x7f0a00a0
-			public const int mr_title_bar = 2131361952;
+			// aapt resource value: 0x7f0900a0
+			public const int mr_title_bar = 2131296416;
 			
-			// aapt resource value: 0x7f0a00a9
-			public const int mr_volume_control = 2131361961;
+			// aapt resource value: 0x7f0900a9
+			public const int mr_volume_control = 2131296425;
 			
-			// aapt resource value: 0x7f0a00aa
-			public const int mr_volume_group_list = 2131361962;
+			// aapt resource value: 0x7f0900aa
+			public const int mr_volume_group_list = 2131296426;
 			
-			// aapt resource value: 0x7f0a00ac
-			public const int mr_volume_item_icon = 2131361964;
+			// aapt resource value: 0x7f0900ac
+			public const int mr_volume_item_icon = 2131296428;
 			
-			// aapt resource value: 0x7f0a00ad
-			public const int mr_volume_slider = 2131361965;
+			// aapt resource value: 0x7f0900ad
+			public const int mr_volume_slider = 2131296429;
 			
-			// aapt resource value: 0x7f0a0028
-			public const int multiply = 2131361832;
+			// aapt resource value: 0x7f090028
+			public const int multiply = 2131296296;
 			
-			// aapt resource value: 0x7f0a0093
-			public const int navigation_header_container = 2131361939;
+			// aapt resource value: 0x7f090093
+			public const int navigation_header_container = 2131296403;
 			
-			// aapt resource value: 0x7f0a003b
-			public const int never = 2131361851;
+			// aapt resource value: 0x7f09003b
+			public const int never = 2131296315;
 			
-			// aapt resource value: 0x7f0a0022
-			public const int none = 2131361826;
+			// aapt resource value: 0x7f090022
+			public const int none = 2131296290;
 			
-			// aapt resource value: 0x7f0a001e
-			public const int normal = 2131361822;
+			// aapt resource value: 0x7f09001e
+			public const int normal = 2131296286;
 			
-			// aapt resource value: 0x7f0a00c2
-			public const int notification_background = 2131361986;
+			// aapt resource value: 0x7f0900c2
+			public const int notification_background = 2131296450;
 			
-			// aapt resource value: 0x7f0a00bc
-			public const int notification_main_column = 2131361980;
+			// aapt resource value: 0x7f0900bc
+			public const int notification_main_column = 2131296444;
 			
-			// aapt resource value: 0x7f0a00bb
-			public const int notification_main_column_container = 2131361979;
+			// aapt resource value: 0x7f0900bb
+			public const int notification_main_column_container = 2131296443;
 			
-			// aapt resource value: 0x7f0a004c
-			public const int parallax = 2131361868;
+			// aapt resource value: 0x7f09004c
+			public const int parallax = 2131296332;
 			
-			// aapt resource value: 0x7f0a0065
-			public const int parentPanel = 2131361893;
+			// aapt resource value: 0x7f090065
+			public const int parentPanel = 2131296357;
 			
-			// aapt resource value: 0x7f0a000b
-			public const int parent_matrix = 2131361803;
+			// aapt resource value: 0x7f09000b
+			public const int parent_matrix = 2131296267;
 			
-			// aapt resource value: 0x7f0a004d
-			public const int pin = 2131361869;
+			// aapt resource value: 0x7f09004d
+			public const int pin = 2131296333;
 			
-			// aapt resource value: 0x7f0a0006
-			public const int progress_circular = 2131361798;
+			// aapt resource value: 0x7f090006
+			public const int progress_circular = 2131296262;
 			
-			// aapt resource value: 0x7f0a0007
-			public const int progress_horizontal = 2131361799;
+			// aapt resource value: 0x7f090007
+			public const int progress_horizontal = 2131296263;
 			
-			// aapt resource value: 0x7f0a0075
-			public const int radio = 2131361909;
+			// aapt resource value: 0x7f090075
+			public const int radio = 2131296373;
 			
-			// aapt resource value: 0x7f0a004a
-			public const int right = 2131361866;
+			// aapt resource value: 0x7f09004a
+			public const int right = 2131296330;
 			
-			// aapt resource value: 0x7f0a00c1
-			public const int right_icon = 2131361985;
+			// aapt resource value: 0x7f0900c1
+			public const int right_icon = 2131296449;
 			
-			// aapt resource value: 0x7f0a00bd
-			public const int right_side = 2131361981;
+			// aapt resource value: 0x7f0900bd
+			public const int right_side = 2131296445;
 			
-			// aapt resource value: 0x7f0a000c
-			public const int save_image_matrix = 2131361804;
+			// aapt resource value: 0x7f09000c
+			public const int save_image_matrix = 2131296268;
 			
-			// aapt resource value: 0x7f0a000d
-			public const int save_non_transition_alpha = 2131361805;
+			// aapt resource value: 0x7f09000d
+			public const int save_non_transition_alpha = 2131296269;
 			
-			// aapt resource value: 0x7f0a000e
-			public const int save_scale_type = 2131361806;
+			// aapt resource value: 0x7f09000e
+			public const int save_scale_type = 2131296270;
 			
-			// aapt resource value: 0x7f0a0029
-			public const int screen = 2131361833;
+			// aapt resource value: 0x7f090029
+			public const int screen = 2131296297;
 			
-			// aapt resource value: 0x7f0a0042
-			public const int scroll = 2131361858;
+			// aapt resource value: 0x7f090042
+			public const int scroll = 2131296322;
 			
-			// aapt resource value: 0x7f0a006b
-			public const int scrollIndicatorDown = 2131361899;
+			// aapt resource value: 0x7f09006b
+			public const int scrollIndicatorDown = 2131296363;
 			
-			// aapt resource value: 0x7f0a0067
-			public const int scrollIndicatorUp = 2131361895;
+			// aapt resource value: 0x7f090067
+			public const int scrollIndicatorUp = 2131296359;
 			
-			// aapt resource value: 0x7f0a0068
-			public const int scrollView = 2131361896;
+			// aapt resource value: 0x7f090068
+			public const int scrollView = 2131296360;
 			
-			// aapt resource value: 0x7f0a0055
-			public const int scrollable = 2131361877;
+			// aapt resource value: 0x7f090055
+			public const int scrollable = 2131296341;
 			
-			// aapt resource value: 0x7f0a0080
-			public const int search_badge = 2131361920;
+			// aapt resource value: 0x7f090080
+			public const int search_badge = 2131296384;
 			
-			// aapt resource value: 0x7f0a007f
-			public const int search_bar = 2131361919;
+			// aapt resource value: 0x7f09007f
+			public const int search_bar = 2131296383;
 			
-			// aapt resource value: 0x7f0a0081
-			public const int search_button = 2131361921;
+			// aapt resource value: 0x7f090081
+			public const int search_button = 2131296385;
 			
-			// aapt resource value: 0x7f0a0086
-			public const int search_close_btn = 2131361926;
+			// aapt resource value: 0x7f090086
+			public const int search_close_btn = 2131296390;
 			
-			// aapt resource value: 0x7f0a0082
-			public const int search_edit_frame = 2131361922;
+			// aapt resource value: 0x7f090082
+			public const int search_edit_frame = 2131296386;
 			
-			// aapt resource value: 0x7f0a0088
-			public const int search_go_btn = 2131361928;
+			// aapt resource value: 0x7f090088
+			public const int search_go_btn = 2131296392;
 			
-			// aapt resource value: 0x7f0a0083
-			public const int search_mag_icon = 2131361923;
+			// aapt resource value: 0x7f090083
+			public const int search_mag_icon = 2131296387;
 			
-			// aapt resource value: 0x7f0a0084
-			public const int search_plate = 2131361924;
+			// aapt resource value: 0x7f090084
+			public const int search_plate = 2131296388;
 			
-			// aapt resource value: 0x7f0a0085
-			public const int search_src_text = 2131361925;
+			// aapt resource value: 0x7f090085
+			public const int search_src_text = 2131296389;
 			
-			// aapt resource value: 0x7f0a0089
-			public const int search_voice_btn = 2131361929;
+			// aapt resource value: 0x7f090089
+			public const int search_voice_btn = 2131296393;
 			
-			// aapt resource value: 0x7f0a008a
-			public const int select_dialog_listview = 2131361930;
+			// aapt resource value: 0x7f09008a
+			public const int select_dialog_listview = 2131296394;
 			
-			// aapt resource value: 0x7f0a0074
-			public const int shortcut = 2131361908;
+			// aapt resource value: 0x7f090074
+			public const int shortcut = 2131296372;
 			
-			// aapt resource value: 0x7f0a0023
-			public const int showCustom = 2131361827;
+			// aapt resource value: 0x7f090023
+			public const int showCustom = 2131296291;
 			
-			// aapt resource value: 0x7f0a0024
-			public const int showHome = 2131361828;
+			// aapt resource value: 0x7f090024
+			public const int showHome = 2131296292;
 			
-			// aapt resource value: 0x7f0a0025
-			public const int showTitle = 2131361829;
+			// aapt resource value: 0x7f090025
+			public const int showTitle = 2131296293;
 			
-			// aapt resource value: 0x7f0a00c6
-			public const int sliding_tabs = 2131361990;
+			// aapt resource value: 0x7f0900c6
+			public const int sliding_tabs = 2131296454;
 			
-			// aapt resource value: 0x7f0a008b
-			public const int smallLabel = 2131361931;
+			// aapt resource value: 0x7f09008b
+			public const int smallLabel = 2131296395;
 			
-			// aapt resource value: 0x7f0a0092
-			public const int snackbar_action = 2131361938;
+			// aapt resource value: 0x7f090092
+			public const int snackbar_action = 2131296402;
 			
-			// aapt resource value: 0x7f0a0091
-			public const int snackbar_text = 2131361937;
+			// aapt resource value: 0x7f090091
+			public const int snackbar_text = 2131296401;
 			
-			// aapt resource value: 0x7f0a0043
-			public const int snap = 2131361859;
+			// aapt resource value: 0x7f090043
+			public const int snap = 2131296323;
 			
-			// aapt resource value: 0x7f0a0064
-			public const int spacer = 2131361892;
+			// aapt resource value: 0x7f090064
+			public const int spacer = 2131296356;
 			
-			// aapt resource value: 0x7f0a0008
-			public const int split_action_bar = 2131361800;
+			// aapt resource value: 0x7f090008
+			public const int split_action_bar = 2131296264;
 			
-			// aapt resource value: 0x7f0a002a
-			public const int src_atop = 2131361834;
+			// aapt resource value: 0x7f09002a
+			public const int src_atop = 2131296298;
 			
-			// aapt resource value: 0x7f0a002b
-			public const int src_in = 2131361835;
+			// aapt resource value: 0x7f09002b
+			public const int src_in = 2131296299;
 			
-			// aapt resource value: 0x7f0a002c
-			public const int src_over = 2131361836;
+			// aapt resource value: 0x7f09002c
+			public const int src_over = 2131296300;
 			
-			// aapt resource value: 0x7f0a004b
-			public const int start = 2131361867;
+			// aapt resource value: 0x7f09004b
+			public const int start = 2131296331;
 			
-			// aapt resource value: 0x7f0a00b8
-			public const int status_bar_latest_event_content = 2131361976;
+			// aapt resource value: 0x7f0900b8
+			public const int status_bar_latest_event_content = 2131296440;
 			
-			// aapt resource value: 0x7f0a0076
-			public const int submenuarrow = 2131361910;
+			// aapt resource value: 0x7f090076
+			public const int submenuarrow = 2131296374;
 			
-			// aapt resource value: 0x7f0a0087
-			public const int submit_area = 2131361927;
+			// aapt resource value: 0x7f090087
+			public const int submit_area = 2131296391;
 			
-			// aapt resource value: 0x7f0a001f
-			public const int tabMode = 2131361823;
+			// aapt resource value: 0x7f09001f
+			public const int tabMode = 2131296287;
 			
-			// aapt resource value: 0x7f0a0019
-			public const int tag_transition_group = 2131361817;
+			// aapt resource value: 0x7f090019
+			public const int tag_transition_group = 2131296281;
 			
-			// aapt resource value: 0x7f0a001a
-			public const int text = 2131361818;
+			// aapt resource value: 0x7f09001a
+			public const int text = 2131296282;
 			
-			// aapt resource value: 0x7f0a001b
-			public const int text2 = 2131361819;
+			// aapt resource value: 0x7f09001b
+			public const int text2 = 2131296283;
 			
-			// aapt resource value: 0x7f0a006a
-			public const int textSpacerNoButtons = 2131361898;
+			// aapt resource value: 0x7f09006a
+			public const int textSpacerNoButtons = 2131296362;
 			
-			// aapt resource value: 0x7f0a0069
-			public const int textSpacerNoTitle = 2131361897;
+			// aapt resource value: 0x7f090069
+			public const int textSpacerNoTitle = 2131296361;
 			
-			// aapt resource value: 0x7f0a0098
-			public const int text_input_password_toggle = 2131361944;
+			// aapt resource value: 0x7f090098
+			public const int text_input_password_toggle = 2131296408;
 			
-			// aapt resource value: 0x7f0a0014
-			public const int textinput_counter = 2131361812;
+			// aapt resource value: 0x7f090014
+			public const int textinput_counter = 2131296276;
 			
-			// aapt resource value: 0x7f0a0015
-			public const int textinput_error = 2131361813;
+			// aapt resource value: 0x7f090015
+			public const int textinput_error = 2131296277;
 			
-			// aapt resource value: 0x7f0a00be
-			public const int time = 2131361982;
+			// aapt resource value: 0x7f0900be
+			public const int time = 2131296446;
 			
-			// aapt resource value: 0x7f0a001c
-			public const int title = 2131361820;
+			// aapt resource value: 0x7f09001c
+			public const int title = 2131296284;
 			
-			// aapt resource value: 0x7f0a0071
-			public const int titleDividerNoCustom = 2131361905;
+			// aapt resource value: 0x7f090071
+			public const int titleDividerNoCustom = 2131296369;
 			
-			// aapt resource value: 0x7f0a006f
-			public const int title_template = 2131361903;
+			// aapt resource value: 0x7f09006f
+			public const int title_template = 2131296367;
 			
-			// aapt resource value: 0x7f0a00c7
-			public const int toolbar = 2131361991;
+			// aapt resource value: 0x7f0900c7
+			public const int toolbar = 2131296455;
 			
-			// aapt resource value: 0x7f0a003e
-			public const int top = 2131361854;
+			// aapt resource value: 0x7f09003e
+			public const int top = 2131296318;
 			
-			// aapt resource value: 0x7f0a006e
-			public const int topPanel = 2131361902;
+			// aapt resource value: 0x7f09006e
+			public const int topPanel = 2131296366;
 			
-			// aapt resource value: 0x7f0a008f
-			public const int touch_outside = 2131361935;
+			// aapt resource value: 0x7f09008f
+			public const int touch_outside = 2131296399;
 			
-			// aapt resource value: 0x7f0a000f
-			public const int transition_current_scene = 2131361807;
+			// aapt resource value: 0x7f09000f
+			public const int transition_current_scene = 2131296271;
 			
-			// aapt resource value: 0x7f0a0010
-			public const int transition_layout_save = 2131361808;
+			// aapt resource value: 0x7f090010
+			public const int transition_layout_save = 2131296272;
 			
-			// aapt resource value: 0x7f0a0011
-			public const int transition_position = 2131361809;
+			// aapt resource value: 0x7f090011
+			public const int transition_position = 2131296273;
 			
-			// aapt resource value: 0x7f0a0012
-			public const int transition_scene_layoutid_cache = 2131361810;
+			// aapt resource value: 0x7f090012
+			public const int transition_scene_layoutid_cache = 2131296274;
 			
-			// aapt resource value: 0x7f0a0013
-			public const int transition_transform = 2131361811;
+			// aapt resource value: 0x7f090013
+			public const int transition_transform = 2131296275;
 			
-			// aapt resource value: 0x7f0a002d
-			public const int uniform = 2131361837;
+			// aapt resource value: 0x7f09002d
+			public const int uniform = 2131296301;
 			
-			// aapt resource value: 0x7f0a0009
-			public const int up = 2131361801;
+			// aapt resource value: 0x7f090009
+			public const int up = 2131296265;
 			
-			// aapt resource value: 0x7f0a0026
-			public const int useLogo = 2131361830;
+			// aapt resource value: 0x7f090026
+			public const int useLogo = 2131296294;
 			
-			// aapt resource value: 0x7f0a0016
-			public const int view_offset_helper = 2131361814;
+			// aapt resource value: 0x7f090016
+			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0a00c9
-			public const int visible = 2131361993;
+			// aapt resource value: 0x7f0900c9
+			public const int visible = 2131296457;
 			
-			// aapt resource value: 0x7f0a00ab
-			public const int volume_item_container = 2131361963;
+			// aapt resource value: 0x7f0900ab
+			public const int volume_item_container = 2131296427;
 			
-			// aapt resource value: 0x7f0a003c
-			public const int withText = 2131361852;
+			// aapt resource value: 0x7f09003c
+			public const int withText = 2131296316;
 			
-			// aapt resource value: 0x7f0a002e
-			public const int wrap_content = 2131361838;
+			// aapt resource value: 0x7f09002e
+			public const int wrap_content = 2131296302;
 			
 			static Id()
 			{
@@ -6057,191 +3962,185 @@ namespace Sample.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f080017
-			public const int abc_action_bar_home_description = 2131230743;
+			// aapt resource value: 0x7f0a0015
+			public const int abc_action_bar_home_description = 2131361813;
 			
-			// aapt resource value: 0x7f080018
-			public const int abc_action_bar_up_description = 2131230744;
+			// aapt resource value: 0x7f0a0016
+			public const int abc_action_bar_up_description = 2131361814;
 			
-			// aapt resource value: 0x7f080019
-			public const int abc_action_menu_overflow_description = 2131230745;
+			// aapt resource value: 0x7f0a0017
+			public const int abc_action_menu_overflow_description = 2131361815;
 			
-			// aapt resource value: 0x7f08001a
-			public const int abc_action_mode_done = 2131230746;
+			// aapt resource value: 0x7f0a0018
+			public const int abc_action_mode_done = 2131361816;
 			
-			// aapt resource value: 0x7f08001b
-			public const int abc_activity_chooser_view_see_all = 2131230747;
+			// aapt resource value: 0x7f0a0019
+			public const int abc_activity_chooser_view_see_all = 2131361817;
 			
-			// aapt resource value: 0x7f08001c
-			public const int abc_activitychooserview_choose_application = 2131230748;
+			// aapt resource value: 0x7f0a001a
+			public const int abc_activitychooserview_choose_application = 2131361818;
 			
-			// aapt resource value: 0x7f08001d
-			public const int abc_capital_off = 2131230749;
+			// aapt resource value: 0x7f0a001b
+			public const int abc_capital_off = 2131361819;
 			
-			// aapt resource value: 0x7f08001e
-			public const int abc_capital_on = 2131230750;
+			// aapt resource value: 0x7f0a001c
+			public const int abc_capital_on = 2131361820;
 			
-			// aapt resource value: 0x7f080029
-			public const int abc_font_family_body_1_material = 2131230761;
+			// aapt resource value: 0x7f0a0027
+			public const int abc_font_family_body_1_material = 2131361831;
 			
-			// aapt resource value: 0x7f08002a
-			public const int abc_font_family_body_2_material = 2131230762;
+			// aapt resource value: 0x7f0a0028
+			public const int abc_font_family_body_2_material = 2131361832;
 			
-			// aapt resource value: 0x7f08002b
-			public const int abc_font_family_button_material = 2131230763;
+			// aapt resource value: 0x7f0a0029
+			public const int abc_font_family_button_material = 2131361833;
 			
-			// aapt resource value: 0x7f08002c
-			public const int abc_font_family_caption_material = 2131230764;
+			// aapt resource value: 0x7f0a002a
+			public const int abc_font_family_caption_material = 2131361834;
 			
-			// aapt resource value: 0x7f08002d
-			public const int abc_font_family_display_1_material = 2131230765;
+			// aapt resource value: 0x7f0a002b
+			public const int abc_font_family_display_1_material = 2131361835;
 			
-			// aapt resource value: 0x7f08002e
-			public const int abc_font_family_display_2_material = 2131230766;
+			// aapt resource value: 0x7f0a002c
+			public const int abc_font_family_display_2_material = 2131361836;
 			
-			// aapt resource value: 0x7f08002f
-			public const int abc_font_family_display_3_material = 2131230767;
+			// aapt resource value: 0x7f0a002d
+			public const int abc_font_family_display_3_material = 2131361837;
 			
-			// aapt resource value: 0x7f080030
-			public const int abc_font_family_display_4_material = 2131230768;
+			// aapt resource value: 0x7f0a002e
+			public const int abc_font_family_display_4_material = 2131361838;
 			
-			// aapt resource value: 0x7f080031
-			public const int abc_font_family_headline_material = 2131230769;
+			// aapt resource value: 0x7f0a002f
+			public const int abc_font_family_headline_material = 2131361839;
 			
-			// aapt resource value: 0x7f080032
-			public const int abc_font_family_menu_material = 2131230770;
+			// aapt resource value: 0x7f0a0030
+			public const int abc_font_family_menu_material = 2131361840;
 			
-			// aapt resource value: 0x7f080033
-			public const int abc_font_family_subhead_material = 2131230771;
+			// aapt resource value: 0x7f0a0031
+			public const int abc_font_family_subhead_material = 2131361841;
 			
-			// aapt resource value: 0x7f080034
-			public const int abc_font_family_title_material = 2131230772;
+			// aapt resource value: 0x7f0a0032
+			public const int abc_font_family_title_material = 2131361842;
 			
-			// aapt resource value: 0x7f08001f
-			public const int abc_search_hint = 2131230751;
+			// aapt resource value: 0x7f0a001d
+			public const int abc_search_hint = 2131361821;
 			
-			// aapt resource value: 0x7f080020
-			public const int abc_searchview_description_clear = 2131230752;
+			// aapt resource value: 0x7f0a001e
+			public const int abc_searchview_description_clear = 2131361822;
 			
-			// aapt resource value: 0x7f080021
-			public const int abc_searchview_description_query = 2131230753;
+			// aapt resource value: 0x7f0a001f
+			public const int abc_searchview_description_query = 2131361823;
 			
-			// aapt resource value: 0x7f080022
-			public const int abc_searchview_description_search = 2131230754;
+			// aapt resource value: 0x7f0a0020
+			public const int abc_searchview_description_search = 2131361824;
 			
-			// aapt resource value: 0x7f080023
-			public const int abc_searchview_description_submit = 2131230755;
+			// aapt resource value: 0x7f0a0021
+			public const int abc_searchview_description_submit = 2131361825;
 			
-			// aapt resource value: 0x7f080024
-			public const int abc_searchview_description_voice = 2131230756;
+			// aapt resource value: 0x7f0a0022
+			public const int abc_searchview_description_voice = 2131361826;
 			
-			// aapt resource value: 0x7f080025
-			public const int abc_shareactionprovider_share_with = 2131230757;
+			// aapt resource value: 0x7f0a0023
+			public const int abc_shareactionprovider_share_with = 2131361827;
 			
-			// aapt resource value: 0x7f080026
-			public const int abc_shareactionprovider_share_with_application = 2131230758;
+			// aapt resource value: 0x7f0a0024
+			public const int abc_shareactionprovider_share_with_application = 2131361828;
 			
-			// aapt resource value: 0x7f080027
-			public const int abc_toolbar_collapse_description = 2131230759;
+			// aapt resource value: 0x7f0a0025
+			public const int abc_toolbar_collapse_description = 2131361829;
 			
-			// aapt resource value: 0x7f080001
-			public const int app_name = 2131230721;
+			// aapt resource value: 0x7f0a0033
+			public const int appbar_scrolling_view_behavior = 2131361843;
 			
-			// aapt resource value: 0x7f080035
-			public const int appbar_scrolling_view_behavior = 2131230773;
+			// aapt resource value: 0x7f0a0034
+			public const int bottom_sheet_behavior = 2131361844;
 			
-			// aapt resource value: 0x7f080036
-			public const int bottom_sheet_behavior = 2131230774;
+			// aapt resource value: 0x7f0a0035
+			public const int character_counter_pattern = 2131361845;
 			
-			// aapt resource value: 0x7f080037
-			public const int character_counter_pattern = 2131230775;
+			// aapt resource value: 0x7f0a0000
+			public const int mr_button_content_description = 2131361792;
 			
-			// aapt resource value: 0x7f080000
-			public const int hello = 2131230720;
+			// aapt resource value: 0x7f0a0001
+			public const int mr_cast_button_connected = 2131361793;
 			
-			// aapt resource value: 0x7f080002
-			public const int mr_button_content_description = 2131230722;
+			// aapt resource value: 0x7f0a0002
+			public const int mr_cast_button_connecting = 2131361794;
 			
-			// aapt resource value: 0x7f080003
-			public const int mr_cast_button_connected = 2131230723;
+			// aapt resource value: 0x7f0a0003
+			public const int mr_cast_button_disconnected = 2131361795;
 			
-			// aapt resource value: 0x7f080004
-			public const int mr_cast_button_connecting = 2131230724;
+			// aapt resource value: 0x7f0a0004
+			public const int mr_chooser_searching = 2131361796;
 			
-			// aapt resource value: 0x7f080005
-			public const int mr_cast_button_disconnected = 2131230725;
+			// aapt resource value: 0x7f0a0005
+			public const int mr_chooser_title = 2131361797;
 			
-			// aapt resource value: 0x7f080006
-			public const int mr_chooser_searching = 2131230726;
+			// aapt resource value: 0x7f0a0006
+			public const int mr_controller_album_art = 2131361798;
 			
-			// aapt resource value: 0x7f080007
-			public const int mr_chooser_title = 2131230727;
+			// aapt resource value: 0x7f0a0007
+			public const int mr_controller_casting_screen = 2131361799;
 			
-			// aapt resource value: 0x7f080008
-			public const int mr_controller_album_art = 2131230728;
+			// aapt resource value: 0x7f0a0008
+			public const int mr_controller_close_description = 2131361800;
 			
-			// aapt resource value: 0x7f080009
-			public const int mr_controller_casting_screen = 2131230729;
+			// aapt resource value: 0x7f0a0009
+			public const int mr_controller_collapse_group = 2131361801;
 			
-			// aapt resource value: 0x7f08000a
-			public const int mr_controller_close_description = 2131230730;
+			// aapt resource value: 0x7f0a000a
+			public const int mr_controller_disconnect = 2131361802;
 			
-			// aapt resource value: 0x7f08000b
-			public const int mr_controller_collapse_group = 2131230731;
+			// aapt resource value: 0x7f0a000b
+			public const int mr_controller_expand_group = 2131361803;
 			
-			// aapt resource value: 0x7f08000c
-			public const int mr_controller_disconnect = 2131230732;
+			// aapt resource value: 0x7f0a000c
+			public const int mr_controller_no_info_available = 2131361804;
 			
-			// aapt resource value: 0x7f08000d
-			public const int mr_controller_expand_group = 2131230733;
+			// aapt resource value: 0x7f0a000d
+			public const int mr_controller_no_media_selected = 2131361805;
 			
-			// aapt resource value: 0x7f08000e
-			public const int mr_controller_no_info_available = 2131230734;
+			// aapt resource value: 0x7f0a000e
+			public const int mr_controller_pause = 2131361806;
 			
-			// aapt resource value: 0x7f08000f
-			public const int mr_controller_no_media_selected = 2131230735;
+			// aapt resource value: 0x7f0a000f
+			public const int mr_controller_play = 2131361807;
 			
-			// aapt resource value: 0x7f080010
-			public const int mr_controller_pause = 2131230736;
+			// aapt resource value: 0x7f0a0010
+			public const int mr_controller_stop = 2131361808;
 			
-			// aapt resource value: 0x7f080011
-			public const int mr_controller_play = 2131230737;
+			// aapt resource value: 0x7f0a0011
+			public const int mr_controller_stop_casting = 2131361809;
 			
-			// aapt resource value: 0x7f080012
-			public const int mr_controller_stop = 2131230738;
+			// aapt resource value: 0x7f0a0012
+			public const int mr_controller_volume_slider = 2131361810;
 			
-			// aapt resource value: 0x7f080013
-			public const int mr_controller_stop_casting = 2131230739;
+			// aapt resource value: 0x7f0a0013
+			public const int mr_system_route_name = 2131361811;
 			
-			// aapt resource value: 0x7f080014
-			public const int mr_controller_volume_slider = 2131230740;
+			// aapt resource value: 0x7f0a0014
+			public const int mr_user_route_category_name = 2131361812;
 			
-			// aapt resource value: 0x7f080015
-			public const int mr_system_route_name = 2131230741;
+			// aapt resource value: 0x7f0a0036
+			public const int password_toggle_content_description = 2131361846;
 			
-			// aapt resource value: 0x7f080016
-			public const int mr_user_route_category_name = 2131230742;
+			// aapt resource value: 0x7f0a0037
+			public const int path_password_eye = 2131361847;
 			
-			// aapt resource value: 0x7f080038
-			public const int password_toggle_content_description = 2131230776;
+			// aapt resource value: 0x7f0a0038
+			public const int path_password_eye_mask_strike_through = 2131361848;
 			
-			// aapt resource value: 0x7f080039
-			public const int path_password_eye = 2131230777;
+			// aapt resource value: 0x7f0a0039
+			public const int path_password_eye_mask_visible = 2131361849;
 			
-			// aapt resource value: 0x7f08003a
-			public const int path_password_eye_mask_strike_through = 2131230778;
+			// aapt resource value: 0x7f0a003a
+			public const int path_password_strike_through = 2131361850;
 			
-			// aapt resource value: 0x7f08003b
-			public const int path_password_eye_mask_visible = 2131230779;
+			// aapt resource value: 0x7f0a0026
+			public const int search_menu_title = 2131361830;
 			
-			// aapt resource value: 0x7f08003c
-			public const int path_password_strike_through = 2131230780;
-			
-			// aapt resource value: 0x7f080028
-			public const int search_menu_title = 2131230760;
-			
-			// aapt resource value: 0x7f08003d
-			public const int status_bar_notification_info_overflow = 2131230781;
+			// aapt resource value: 0x7f0a003b
+			public const int status_bar_notification_info_overflow = 2131361851;
 			
 			static String()
 			{

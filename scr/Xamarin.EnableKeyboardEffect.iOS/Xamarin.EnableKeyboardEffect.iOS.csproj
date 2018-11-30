@@ -43,9 +43,7 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.0.0.446417" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Resources\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Compile Include="Initialize.cs" />
     <Compile Include="KeyboardEnableEffect.cs" />
