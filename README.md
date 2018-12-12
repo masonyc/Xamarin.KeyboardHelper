@@ -23,6 +23,21 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 |Xamarin.iOS|Yes|iOS 8+| |
 |Xamarin.Android|Yes|API 16+|Project should [target Android framework 8.1+](https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/android-api-levels?tabs=vswin#framework)|    
 
+## For Android
+
+```csharp
+        protected override void OnCreate(Bundle savedInstanceState)
+        {
+            TabLayoutResource = Resource.Layout.Tabbar;
+            ToolbarResource = Resource.Layout.Toolbar;
+
+            base.OnCreate(savedInstanceState);
+            global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            Xamarin.EnableKeyboardEffect.Droid.Effects.Init(this);//need this line to init effect in android
+            LoadApplication(new App());
+        }
+```
+
 ## For iOS
 
 ```csharp
