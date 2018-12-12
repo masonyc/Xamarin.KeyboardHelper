@@ -15,13 +15,6 @@ namespace Xamarin.EnableKeyboardEffect.Droid
 {
     public class KeyboardEnableEffect : PlatformEffect
     {
-        private static Activity _activity;
-
-        public static void Init(Activity activity)
-        {
-            _activity = activity;
-        }
-
         protected override void OnAttached()
         {
             try
@@ -68,7 +61,7 @@ namespace Xamarin.EnableKeyboardEffect.Droid
                 editText.ShowSoftInputOnFocus = EnableKeyboardEffect.GetEnableKeyboard(Element);
 
                 editText.FocusChange -= HideMethod;
-                var imm = (InputMethodManager)_activity?.GetSystemService(Context.InputMethodService);
+                var imm = (InputMethodManager)Effects.Activity?.GetSystemService(Context.InputMethodService);
                 //Comment out as it is using an obsolete method
                 //imm?.ShowSoftInputFromInputMethod(Control.WindowToken, ShowFlags.Implicit);
 
@@ -86,7 +79,7 @@ namespace Xamarin.EnableKeyboardEffect.Droid
             try
             {
                 //hide keyboard for current focused control.
-                var imm = (InputMethodManager)_activity?.GetSystemService(Context.InputMethodService);
+                var imm = (InputMethodManager)Effects.Activity?.GetSystemService(Context.InputMethodService);
                 imm?.HideSoftInputFromWindow(Control.WindowToken, HideSoftInputFlags.None);
             }
             catch (Exception ex)

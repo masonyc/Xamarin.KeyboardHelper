@@ -19,6 +19,7 @@ namespace Sample.Droid
 
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            Xamarin.EnableKeyboardEffect.Droid.Effects.Init(this);
             LoadApplication(new App());
         }
     }

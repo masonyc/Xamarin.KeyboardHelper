@@ -6,12 +6,14 @@
              x:Class="Sample.MainPage">
 
     <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
-        <Entry Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False">
+        <Button Clicked="button1_clicked" Text="Fofucs Button 1"></Button>
+        <Button Clicked="button2_clicked" Text="Fofucs Button 2"></Button>
+        <Entry x:Name="Entry1" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
         </Entry>
-        <Entry Text="Show Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True">
+        <Entry x:Name="Entry2" Text="Show Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
