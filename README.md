@@ -99,7 +99,7 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 
 Only support Android and iOS for the moment. 
 
-Note: Entry that get focused by calling .Focus() method may still cause keyboard not hiding properly.
+Android note: Entry that get focused by calling .Focus() method may still cause keyboard not hiding properly.
 
 # Contributing
 
