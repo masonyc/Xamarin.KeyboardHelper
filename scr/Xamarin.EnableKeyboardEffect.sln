@@ -5,10 +5,6 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.EnableKeyboardEffect", "Xamarin.EnableKeyboardEffect\Xamarin.EnableKeyboardEffect.csproj", "{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.EnableKeyboardEffect.Droid", "Xamarin.EnableKeyboardEffect.Droid\Xamarin.EnableKeyboardEffect.Droid.csproj", "{F315E090-09C9-4054-851A-234B9F97B47C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.EnableKeyboardEffect.iOS", "Xamarin.EnableKeyboardEffect.iOS\Xamarin.EnableKeyboardEffect.iOS.csproj", "{E71F3053-056C-4381-9638-048ED73BDFF6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F315E090-09C9-4054-851A-234B9F97B47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F315E090-09C9-4054-851A-234B9F97B47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F315E090-09C9-4054-851A-234B9F97B47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F315E090-09C9-4054-851A-234B9F97B47C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E71F3053-056C-4381-9638-048ED73BDFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E71F3053-056C-4381-9638-048ED73BDFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E71F3053-056C-4381-9638-048ED73BDFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E71F3053-056C-4381-9638-048ED73BDFF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Xamarin.EnableKeyboardEffect.Droid
+namespace Xamarin.EnableKeyboardEffect.Platform.Droid
 {
     [Preserve(AllMembers = true)]
     public static class Effects

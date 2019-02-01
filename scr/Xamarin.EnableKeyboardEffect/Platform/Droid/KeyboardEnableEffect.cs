@@ -1,17 +1,17 @@
 ﻿using System;
 using System.Linq;
-using Android.App;
 using Android.Content;
 using Android.Views.InputMethods;
 using Android.Widget;
+using Xamarin.EnableKeyboardEffect.Platform.Droid;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 using View = Android.Views.View;
 
 [assembly: ResolutionGroupName("Xamarin.EnableKeyboardEffect")]
-[assembly: ExportEffect(typeof(Xamarin.EnableKeyboardEffect.Droid.KeyboardEnableEffect), nameof(Xamarin.EnableKeyboardEffect.Droid.KeyboardEnableEffect))]
+[assembly: ExportEffect(typeof(KeyboardEnableEffect), nameof(KeyboardEnableEffect))]
 
-namespace Xamarin.EnableKeyboardEffect.Droid
+namespace Xamarin.EnableKeyboardEffect.Platform.Droid
 {
     public class KeyboardEnableEffect : PlatformEffect
     {

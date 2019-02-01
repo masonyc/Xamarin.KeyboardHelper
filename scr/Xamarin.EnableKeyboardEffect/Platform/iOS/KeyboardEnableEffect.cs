@@ -1,13 +1,13 @@
 ﻿using System;
 using UIKit;
-using Xamarin.EnableKeyboardEffect.iOS;
+using Xamarin.EnableKeyboardEffect.Platform.iOS;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
 [assembly: ResolutionGroupName("Xamarin.EnableKeyboardEffect")]
 [assembly: ExportEffect(typeof(KeyboardEnableEffect), nameof(KeyboardEnableEffect))]
 
-namespace Xamarin.EnableKeyboardEffect.iOS
+namespace Xamarin.EnableKeyboardEffect.Platform.iOS
 {
     public class KeyboardEnableEffect : PlatformEffect
     {
