@@ -31,7 +31,8 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             
-            Xamarin.EnableKeyboardEffect.Droid.Effects.Init(this);//need this line to init effect in android
+            //need this line to init effect in android
+            Xamarin.EnableKeyboardEffect.Platform.Droid.Effects.Init(this);
             
             LoadApplication(new App());
         }
@@ -43,9 +44,10 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-
-            Xamarin.EnableKeyboardEffect.iOS.Effects.Init();//need this line to init effect in iOS
-
+            
+            //need this line to init effect in iOS
+            Xamarin.EnableKeyboardEffect.Platform.iOS.Effects.Init();
+            
             LoadApplication(new App());
             return base.FinishedLaunching(app, options);
         }
@@ -96,6 +98,8 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 # Limitations
 
 Only support Android and iOS for the moment. 
+
+Android note: Entry that get focused by calling .Focus() method may still cause keyboard not hiding properly.
 
 # Contributing
 
