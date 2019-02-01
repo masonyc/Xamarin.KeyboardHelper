@@ -6,8 +6,8 @@
              x:Class="Sample.MainPage">
 
     <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
-        <Button Clicked="button1_clicked" Text="Fofucs Button 1"></Button>
-        <Button Clicked="button2_clicked" Text="Fofucs Button 2"></Button>
+        <Button Clicked="button1_clicked" Text="Focus Button 1"></Button>
+        <Button Clicked="button2_clicked" Text="Focus Button 2"></Button>
         <Entry x:Name="Entry1" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>

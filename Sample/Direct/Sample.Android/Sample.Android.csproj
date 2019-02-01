@@ -106,10 +106,6 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\scr\Xamarin.EnableKeyboardEffect.Droid\Xamarin.EnableKeyboardEffect.Droid.csproj">
-      <Project>{f315e090-09c9-4054-851a-234b9f97b47c}</Project>
-      <Name>Xamarin.EnableKeyboardEffect.Droid</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\..\scr\Xamarin.EnableKeyboardEffect\Xamarin.EnableKeyboardEffect.csproj">
       <Project>{3cb40fe3-e940-4e16-87cf-61cdc8f4aead}</Project>
       <Name>Xamarin.EnableKeyboardEffect</Name>
