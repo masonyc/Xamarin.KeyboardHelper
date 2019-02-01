@@ -7,32 +7,12 @@
     <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
         <Button Clicked="button1_clicked" Text="Focus Button 1"></Button>
         <Button Clicked="button2_clicked" Text="Focus Button 2"></Button>
-        <Entry x:Name="Entry1" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False" Completed="Entry1_OnCompleted">
+        <Entry x:Name="Entry1" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
         </Entry>
-        <Entry x:Name="Entry2" Text="Show Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True" Completed="Entry2_OnCompleted">
-                <Entry.Effects>
-                <effects:KeyboardEnableEffect/>
-            </Entry.Effects>
-        </Entry>
-        <Entry x:Name="Entry3" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False" Completed="Entry3_OnCompleted">
-            <Entry.Effects>
-                <effects:KeyboardEnableEffect/>
-            </Entry.Effects>
-        </Entry>
-        <Entry x:Name="Entry4" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False" Completed="Entry4_OnCompleted">
-            <Entry.Effects>
-                <effects:KeyboardEnableEffect/>
-            </Entry.Effects>
-        </Entry>
-        <Entry x:Name="Entry5" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False" Completed="Entry5_OnCompleted">
-            <Entry.Effects>
-                <effects:KeyboardEnableEffect/>
-            </Entry.Effects>
-        </Entry>
-        <Entry x:Name="Entry6" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False" Completed="Entry6_OnCompleted">
+        <Entry x:Name="Entry2" Text="Show Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
