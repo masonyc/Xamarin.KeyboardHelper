@@ -1,5 +1,6 @@
 ﻿using Foundation;
 using UIKit;
+using Xamarin.Forms;
 
 namespace Sample.iOS
 {
@@ -19,6 +20,7 @@ namespace Sample.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            FormsMaterial.Init();
             Xamarin.EnableKeyboardEffect.Platform.iOS.Effects.Init();
             LoadApplication(new App());
 
