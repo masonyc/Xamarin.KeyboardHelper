@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>Xamarin.EnableKeyboardEffect</id>
-    <version>1.0.8</version>
+    <version>1.0.7.1</version>
     <authors>Yun Chen</authors>
     <owners>Yun Chen</owners>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -12,16 +12,9 @@
     <description>Toggle softkeyboard display for Anroid / iOS in Xamarin.Forms</description>
     <copyright>Copyright © Yun Chen</copyright>
     <tags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</tags>
-    <repository type="git" url="https://github.com/masonyc/Xamarin.EnableKeyboardEffect.git" commit="63ac2ebe6c1faade15fb3e33463690c87ff81897" />
-    <dependencies>
-      <group targetFramework="MonoAndroid9.0">
-        <dependency id="Xamarin.Forms" version="3.6.0.293080" exclude="Build,Analyzers" />
-      </group>
-      <group targetFramework="Xamarin.iOS1.0" />
-      <group targetFramework=".NETStandard2.0" />
-    </dependencies>
+    <repository type="git" url="https://github.com/masonyc/Xamarin.EnableKeyboardEffect.git" commit="56062c1745123e2118c33c095aed9e80b6989737" />
   </metadata>
   <files>
-	  <file src="lib\**" target="lib" />
+    <file src="lib\**" target="lib" />
   </files>
 </package>
