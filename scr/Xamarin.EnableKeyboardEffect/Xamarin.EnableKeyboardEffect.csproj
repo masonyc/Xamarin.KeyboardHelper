@@ -15,7 +15,7 @@
     <PackageTags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</PackageTags>
     <PackageProjectUrl>https://github.com/masonyc/Xamarin.EnableKeyboardEffect</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageLicenseUrl>https://github.com/masonyc/Xamarin.EnableKeyboardEffect/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
     <Description>Toggle softkeyboard display for Anroid / iOS in Xamarin.Forms</Description>
     <PackageIconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.EnableKeyboardEffect/master/Screenshots/icon.png</PackageIconUrl>
     <Copyright>Copyright © Yun Chen</Copyright>
@@ -28,6 +28,7 @@
     <!-- Optional: Include the PDB in the built .nupkg -->
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
     <Company>Yun Chen</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
