@@ -1,38 +1,41 @@
-﻿using System;
-using System.Linq;
-using Android.App;
-using Android.Content;
+﻿using Android.Content;
+using Android.Support.Design.Widget;
 using Android.Views.InputMethods;
 using Android.Widget;
+using System;
+using System.Linq;
+using Xamarin.EnableKeyboardEffect.Platform.Droid;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 using View = Android.Views.View;
 
 [assembly: ResolutionGroupName("Xamarin.EnableKeyboardEffect")]
-[assembly: ExportEffect(typeof(Xamarin.EnableKeyboardEffect.Droid.KeyboardEnableEffect), nameof(Xamarin.EnableKeyboardEffect.Droid.KeyboardEnableEffect))]
-
-namespace Xamarin.EnableKeyboardEffect.Droid
+[assembly: ExportEffect(typeof(KeyboardEnableEffect), nameof(KeyboardEnableEffect))]
+namespace Xamarin.EnableKeyboardEffect.Platform.Droid
 {
     public class KeyboardEnableEffect : PlatformEffect
     {
-        private static Activity _activity;
-
-        public static void Init(Activity activity)
-        {
-            _activity = activity;
-        }
-
         protected override void OnAttached()
         {
             try
             {
-                if (!(Control is EditText editText))
+                EditText editText;
+                # region Material Design
+                if (Control is TextInputLayout inputLayout)
+                {
+                    editText = inputLayout.EditText;
+                }
+                #endregion
+                else if (Control is EditText)
+                {
+                    editText = (EditText)Control;
+                }
+                else
                 {
                     return;
                 }
-
                 editText.ShowSoftInputOnFocus = EnableKeyboardEffect.GetEnableKeyboard(Element);
-
+               
                 if (!editText.ShowSoftInputOnFocus)
                 {
                     editText.FocusChange += HideMethod;
@@ -54,7 +57,19 @@ namespace Xamarin.EnableKeyboardEffect.Droid
                     return;
                 }
 
-                if (!(Control is EditText editText))
+                EditText editText;
+
+                #region Material Design
+                if (Control is TextInputLayout inputLayout)
+                {
+                    editText = inputLayout.EditText;
+                }
+                #endregion
+                else if (Control is EditText)
+                {
+                    editText = (EditText)Control;
+                }
+                else
                 {
                     return;
                 }
@@ -68,7 +83,8 @@ namespace Xamarin.EnableKeyboardEffect.Droid
                 editText.ShowSoftInputOnFocus = EnableKeyboardEffect.GetEnableKeyboard(Element);
 
                 editText.FocusChange -= HideMethod;
-                var imm = (InputMethodManager)_activity?.GetSystemService(Context.InputMethodService);
+
+                var imm = (InputMethodManager)Effects.Activity?.GetSystemService(Context.InputMethodService);
                 //Comment out as it is using an obsolete method
                 //imm?.ShowSoftInputFromInputMethod(Control.WindowToken, ShowFlags.Implicit);
 
@@ -86,7 +102,7 @@ namespace Xamarin.EnableKeyboardEffect.Droid
             try
             {
                 //hide keyboard for current focused control.
-                var imm = (InputMethodManager)_activity?.GetSystemService(Context.InputMethodService);
+                var imm = (InputMethodManager)Effects.Activity?.GetSystemService(Context.InputMethodService);
                 imm?.HideSoftInputFromWindow(Control.WindowToken, HideSoftInputFlags.None);
             }
             catch (Exception ex)

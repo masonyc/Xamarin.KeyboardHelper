@@ -1,0 +1,14 @@
+version: 1.0.4.{build}
+pull_requests:
+  do_not_increment_build_number: true
+image: Visual Studio 2017
+before_build:
+- cmd: >-
+    msbuild /t:Restore scr/Xamarin.EnableKeyboardEffect.sln
+
+    msbuild /t:Clean scr/Xamarin.EnableKeyboardEffect.sln
+
+    msbuild scr/Xamarin.EnableKeyboardEffect.sln
+build:
+  project: scr/Xamarin.EnableKeyboardEffect.sln
+  verbosity: minimal

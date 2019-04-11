@@ -16,7 +16,7 @@
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -50,25 +50,28 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Android.Support.Annotations">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Compat">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Core.UI">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Core.Utils">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Fragment">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Media.Compat">
-      <Version>27.0.2.1</Version>
+      <Version>28.0.0.1</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="3.2.0.871581" />
-    <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="27.0.2.1" />
+    <PackageReference Include="Xamarin.Forms" Version="3.6.0.293080" />
+    <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="28.0.0.1" />
+    <PackageReference Include="Xamarin.Forms.Visual.Material">
+      <Version>3.6.0.293080</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
@@ -106,10 +109,6 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\scr\Xamarin.EnableKeyboardEffect.Droid\Xamarin.EnableKeyboardEffect.Droid.csproj">
-      <Project>{f315e090-09c9-4054-851a-234b9f97b47c}</Project>
-      <Name>Xamarin.EnableKeyboardEffect.Droid</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\..\scr\Xamarin.EnableKeyboardEffect\Xamarin.EnableKeyboardEffect.csproj">
       <Project>{3cb40fe3-e940-4e16-87cf-61cdc8f4aead}</Project>
       <Name>Xamarin.EnableKeyboardEffect</Name>
