@@ -294,7 +294,7 @@ __pycache__/
 
 ../[Bb]in/
 ../[Oo]bj/
-../Temp/
+**/Temp/
 /scr/.vs/
 /sample/.vs/
 /scr/Xamarin.EnableKeyboardEffect.Droid/Resources/Resource.designer.cs
