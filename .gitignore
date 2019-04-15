@@ -292,8 +292,7 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
-../[Bb]in/
-../[Oo]bj/
+**/Copylibs.ps1
 **/Temp/
 /scr/.vs/
 /sample/.vs/
