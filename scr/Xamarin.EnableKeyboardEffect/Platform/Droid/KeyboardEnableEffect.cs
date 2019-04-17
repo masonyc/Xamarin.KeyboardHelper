@@ -26,9 +26,9 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
                     editText = inputLayout.EditText;
                 }
                 #endregion
-                else if (Control is EditText)
+                else if (Control is EditText text)
                 {
-                    editText = (EditText)Control;
+                    editText = text;
                 }
                 else
                 {
@@ -65,9 +65,9 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
                     editText = inputLayout.EditText;
                 }
                 #endregion
-                else if (Control is EditText)
+                else if (Control is EditText text)
                 {
-                    editText = (EditText)Control;
+                    editText = text;
                 }
                 else
                 {
@@ -85,8 +85,6 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
                 editText.FocusChange -= HideMethod;
 
                 var imm = (InputMethodManager)Effects.Activity?.GetSystemService(Context.InputMethodService);
-                //Comment out as it is using an obsolete method
-                //imm?.ShowSoftInputFromInputMethod(Control.WindowToken, ShowFlags.Implicit);
 
                 imm?.ShowSoftInput(Control, ShowFlags.Implicit);
                 editText.RequestFocus();
