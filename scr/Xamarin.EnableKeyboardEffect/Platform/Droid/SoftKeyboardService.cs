@@ -11,7 +11,7 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
         private static InputMethodManager _inputManager;
 
         private static bool _wasAcceptingText;
-        
+
         public void OnGlobalLayout()
         {
             try
@@ -19,6 +19,15 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
                 if (_inputManager is null || _inputManager.Handle == IntPtr.Zero)
                 {
                     _inputManager = (InputMethodManager)Effects.Activity.GetSystemService(Context.InputMethodService);
+                }
+
+                // Set visibility to false when focus on background view.
+                var currentFocus = Effects.Activity.CurrentFocus;
+                if (currentFocus.AccessibilityClassName == "android.view.ViewGroup")
+                {
+                    SoftKeyboard.Current.InvokeVisibilityChanged(false);
+                    _wasAcceptingText = _inputManager.IsAcceptingText;
+                    return;
                 }
 
                 if (_wasAcceptingText == _inputManager.IsAcceptingText)
