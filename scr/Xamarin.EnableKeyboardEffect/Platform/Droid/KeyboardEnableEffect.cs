@@ -102,6 +102,7 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
                 //hide keyboard for current focused control.
                 var imm = (InputMethodManager)Effects.Activity?.GetSystemService(Context.InputMethodService);
                 imm?.HideSoftInputFromWindow(Control.WindowToken, HideSoftInputFlags.None);
+                SoftKeyboard.Current.InvokeVisibilityChanged(!e.HasFocus);
             }
             catch (Exception ex)
             {
