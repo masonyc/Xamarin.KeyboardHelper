@@ -85,7 +85,7 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
         </Entry>
 ```
 
-### Checking soft keyboard status
+### Check entry is waiting for text input
 ```csharp
         public MainPage()
         {
@@ -105,8 +105,7 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 
         private void Current_VisibilityChanged(SoftKeyboardEventArgs e)
         {
-            // Do your things here when keyboard is shown or hide
-            if (e.IsVisible){
+            if (e.IsAcceptingText){
             // Your code here
             }else{
             // Your code here
