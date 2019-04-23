@@ -10,7 +10,7 @@
 
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>Yun Chen</Authors>
-    <owners>masonyc</owners>
+    <owners>Yun Chen</owners>
     <PackageTags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</PackageTags>
     <PackageProjectUrl>https://github.com/masonyc/Xamarin.EnableKeyboardEffect</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
