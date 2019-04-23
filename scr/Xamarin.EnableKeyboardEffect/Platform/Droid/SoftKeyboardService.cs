@@ -11,19 +11,7 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
         private static InputMethodManager _inputManager;
 
         private static bool _wasAcceptingText;
-
-        public static void Init(Activity activity)
-        {
-            try
-            {
-                activity.Window.DecorView.ViewTreeObserver.AddOnGlobalLayoutListener(new SoftKeyboardService());
-            }
-            catch (Exception ex)
-            {
-                System.Diagnostics.Debug.WriteLine(ex);
-            }
-        }
-
+        
         public void OnGlobalLayout()
         {
             try
