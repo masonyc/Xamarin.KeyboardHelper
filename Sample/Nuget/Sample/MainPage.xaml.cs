@@ -1,5 +1,5 @@
 ﻿using System;
-using Xamarin.EnableKeyboardEffect;
+using Xamarin.KeyboardHelper;
 using Xamarin.Forms;
 
 namespace Sample
