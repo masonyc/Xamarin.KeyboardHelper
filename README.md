@@ -13,7 +13,7 @@ This plugin includes:
 # Setup
 
 - Need Xamarin.Forms version 3 or above
-- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper
+- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper/2.0.0
 - Install into your platform-specific projects (iOS/Android), and any .NET Standard 2.0 projects required for your app.
 - Add ```
         xmlns:effects="clr-namespace:Xamarin.KeyboardHelper;assembly=Xamarin.KeyboardHelper"  ```at the top of the xaml file 
@@ -36,7 +36,7 @@ This plugin includes:
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             
             //need this line to init effect in android
-            Xamarin.EnableKeyboardEffect.Platform.Droid.Effects.Init(this);
+            Xamarin.KeyboardHelper.Platform.Droid.Effects.Init(this);
             
             LoadApplication(new App());
         }
@@ -50,7 +50,7 @@ This plugin includes:
             global::Xamarin.Forms.Forms.Init();
             
             //need this line to init effect in iOS
-            Xamarin.EnableKeyboardEffect.Platform.iOS.Effects.Init();
+            Xamarin.KeyboardHelper.Platform.iOS.Effects.Init();
             
             LoadApplication(new App());
             return base.FinishedLaunching(app, options);
@@ -62,7 +62,7 @@ This plugin includes:
 ### Show soft keyboard
 
 ```csharp
-        <Entry Text="Show Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True">
+        <Entry Text="Show Keyboard" effects:KeyboardEffect.EnableKeyboard="True">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
@@ -72,7 +72,7 @@ This plugin includes:
 ### Hide soft keyboard
 
 ```csharp
-        <Entry Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False">
+        <Entry Text="Hide Keyboard" effects:KeyboardEffect.EnableKeyboard="False">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
@@ -82,7 +82,7 @@ This plugin includes:
 ### Bind boolean property to effect
 
 ```csharp
-        <Entry Text="Toggle Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="{Binding BooleanBinding}">
+        <Entry Text="Toggle Keyboard" effects:KeyboardEffect.EnableKeyboard="{Binding BooleanBinding}">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
