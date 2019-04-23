@@ -11,6 +11,7 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
         public static void Init(Activity activity)
         {
             Activity = activity;
+            Activity.Window.DecorView.ViewTreeObserver.AddOnGlobalLayoutListener(new SoftKeyboardService());
         }
     }
 }
