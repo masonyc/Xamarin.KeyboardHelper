@@ -17,7 +17,7 @@
     <Description>Toggle softkeyboard display for Anroid / iOS in Xamarin.Forms</Description>
     <PackageIconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.EnableKeyboardEffect/master/Screenshots/icon.png</PackageIconUrl>
     <Copyright>Copyright © Yun Chen</Copyright>
-    <Version>1.1</Version>
+    <Version>1.1.1</Version>
 
     <!-- Optional: Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
