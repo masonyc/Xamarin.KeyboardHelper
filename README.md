@@ -3,20 +3,20 @@
 # Xamarin.KeyboardHelper
 
 This plugin includes:
-- Xamarin.EnableKeyboardEffect -- allows user to show/hide softkeyboard on Android/iOS platform in Xamarin.Forms
+- KeyboardEnableEffect -- allows user to show/hide softkeyboard on Android/iOS platform in Xamarin.Forms
 - SoftKeyboardService -- check entry's IsAcceptingText status
 
 # Building Status
 
-<img src="https://ci.appveyor.com/api/projects/status/github/masonyc/Xamarin.EnableKeyboardEffect?svg=true" width="100">
+<img src="https://ci.appveyor.com/api/projects/status/github/masonyc/Xamarin.KeyboardHelper?svg=true" width="100">
 
 # Setup
 
 - Need Xamarin.Forms version 3 or above
-- `Xamarin.EnableKeyboardEffect` Available on NuGet: https://www.nuget.org/packages/Xamarin.EnableKeyboardEffect
+- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper
 - Install into your platform-specific projects (iOS/Android), and any .NET Standard 2.0 projects required for your app.
 - Add ```
-        xmlns:effects="clr-namespace:Xamarin.EnableKeyboardEffect;assembly=Xamarin.EnableKeyboardEffect"  ```at the top of the xaml file 
+        xmlns:effects="clr-namespace:Xamarin.KeyboardHelper;assembly=Xamarin.KeyboardHelper"  ```at the top of the xaml file 
   
 ## Platform Support
 
@@ -24,6 +24,8 @@ This plugin includes:
 | ------------------- | :-----------: | :------------------: | :------------------: |
 |Xamarin.iOS|Yes|iOS 8+| |
 |Xamarin.Android|Yes|API 16+|Project should [target Android framework 9.0+](https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/android-api-levels?tabs=vswin#framework)|    
+
+# KeyboardEnableEffect
 
 ## For Android
 
@@ -55,7 +57,7 @@ This plugin includes:
         }
 ```
 
-# Usage
+## Usage
 
 ### Show soft keyboard
 
