@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Xamarin.EnableKeyboardEffect
+namespace Xamarin.KeyboardHelper
 {
     public class SoftKeyboard
     {

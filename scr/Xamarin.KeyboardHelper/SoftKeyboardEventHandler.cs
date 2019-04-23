@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Xamarin.EnableKeyboardEffect
+namespace Xamarin.KeyboardHelper
 {
     public delegate void SoftKeyboardEventHandler(SoftKeyboardEventArgs e);
 

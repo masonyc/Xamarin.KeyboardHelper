@@ -4,14 +4,14 @@ using Android.Views.InputMethods;
 using Android.Widget;
 using System;
 using System.Linq;
-using Xamarin.EnableKeyboardEffect.Platform.Droid;
+using Xamarin.KeyboardHelper.Platform.Droid;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 using View = Android.Views.View;
 
-[assembly: ResolutionGroupName("Xamarin.EnableKeyboardEffect")]
+[assembly: ResolutionGroupName("Xamarin.KeyboardHelper")]
 [assembly: ExportEffect(typeof(KeyboardEnableEffect), nameof(KeyboardEnableEffect))]
-namespace Xamarin.EnableKeyboardEffect.Platform.Droid
+namespace Xamarin.KeyboardHelper.Platform.Droid
 {
     public class KeyboardEnableEffect : PlatformEffect
     {
@@ -74,7 +74,7 @@ namespace Xamarin.EnableKeyboardEffect.Platform.Droid
                     return;
                 }
 
-                var visibilityEffect = Element.Effects.OfType<Xamarin.EnableKeyboardEffect.KeyboardEnableEffect>().FirstOrDefault();
+                var visibilityEffect = Element.Effects.OfType<Xamarin.KeyboardHelper.KeyboardEnableEffect>().FirstOrDefault();
                 if (visibilityEffect != null)
                 {
                     return;

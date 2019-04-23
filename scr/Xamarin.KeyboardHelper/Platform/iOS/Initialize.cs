@@ -1,4 +1,4 @@
-﻿namespace Xamarin.EnableKeyboardEffect.Platform.iOS
+﻿namespace Xamarin.KeyboardHelper.Platform.iOS
 {
     [Foundation.Preserve(AllMembers = true)]
     public static class Effects

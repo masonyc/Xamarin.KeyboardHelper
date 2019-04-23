@@ -1,7 +1,7 @@
 ﻿using System;
 using UIKit;
 
-namespace Xamarin.EnableKeyboardEffect.Platform.iOS
+namespace Xamarin.KeyboardHelper.Platform.iOS
 {
     public class SoftKeyboardService
     {

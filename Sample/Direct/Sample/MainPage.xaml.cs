@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xamarin.EnableKeyboardEffect;
+using Xamarin.KeyboardHelper;
 using Xamarin.Forms;
 
 namespace Sample

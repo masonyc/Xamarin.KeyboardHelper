@@ -67,8 +67,10 @@
     <PackageReference Include="Xamarin.Android.Support.Media.Compat">
       <Version>28.0.0.1</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="3.6.0.293080" />
     <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="28.0.0.1" />
+    <PackageReference Include="Xamarin.Forms">
+      <Version>3.6.0.344457</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Forms.Visual.Material">
       <Version>3.6.0.293080</Version>
     </PackageReference>
@@ -109,9 +111,9 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\scr\Xamarin.EnableKeyboardEffect\Xamarin.EnableKeyboardEffect.csproj">
-      <Project>{3cb40fe3-e940-4e16-87cf-61cdc8f4aead}</Project>
-      <Name>Xamarin.EnableKeyboardEffect</Name>
+    <ProjectReference Include="..\..\..\scr\Xamarin.KeyboardHelper\Xamarin.KeyboardHelper.csproj">
+      <Project>{c8dfaad2-3f61-4555-97c2-7c0c1a131bf1}</Project>
+      <Name>Xamarin.KeyboardHelper</Name>
     </ProjectReference>
     <ProjectReference Include="..\Sample\Sample.csproj">
       <Project>{501AB48F-43CA-4AFB-9BE2-ECAA76FF9B8B}</Project>

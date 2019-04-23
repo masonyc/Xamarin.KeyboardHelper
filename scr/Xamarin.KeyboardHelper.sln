@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.EnableKeyboardEffect", "Xamarin.EnableKeyboardEffect\Xamarin.EnableKeyboardEffect.csproj", "{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.KeyboardHelper", "Xamarin.KeyboardHelper\Xamarin.KeyboardHelper.csproj", "{DCFB7D1E-4421-43A5-85C1-EFD7230F0C8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6B1A5D3-C8B0-4B5E-AB5C-AA052498E13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFB7D1E-4421-43A5-85C1-EFD7230F0C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFB7D1E-4421-43A5-85C1-EFD7230F0C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFB7D1E-4421-43A5-85C1-EFD7230F0C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFB7D1E-4421-43A5-85C1-EFD7230F0C8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

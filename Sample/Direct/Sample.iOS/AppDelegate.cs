@@ -21,7 +21,7 @@ namespace Sample.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             FormsMaterial.Init();
-            Xamarin.EnableKeyboardEffect.Platform.iOS.Effects.Init();
+            Xamarin.KeyboardHelper.Platform.iOS.Effects.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

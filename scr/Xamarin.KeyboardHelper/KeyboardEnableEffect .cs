@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using Xamarin.Forms;
 
-namespace Xamarin.EnableKeyboardEffect
+namespace Xamarin.KeyboardHelper
 {
     /// <summary>
     /// Enable Keyboard Effect
@@ -9,7 +9,7 @@ namespace Xamarin.EnableKeyboardEffect
     public class KeyboardEnableEffect : RoutingEffect
     {
         /// <inheritdoc />
-        public KeyboardEnableEffect() : base("Xamarin.EnableKeyboardEffect.KeyboardEnableEffect")
+        public KeyboardEnableEffect() : base("Xamarin.KeyboardHelper.KeyboardEnableEffect")
         {
         }
     }

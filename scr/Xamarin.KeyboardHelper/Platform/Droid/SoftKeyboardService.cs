@@ -4,7 +4,7 @@ using Android.Views;
 using Android.Views.InputMethods;
 using System;
 
-namespace Xamarin.EnableKeyboardEffect.Platform.Droid
+namespace Xamarin.KeyboardHelper.Platform.Droid
 {
     public class SoftKeyboardService : Java.Lang.Object, ViewTreeObserver.IOnGlobalLayoutListener
     {
