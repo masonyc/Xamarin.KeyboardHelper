@@ -12,12 +12,16 @@
     <Authors>Yun Chen, Elvin (Tharindu) Thudugala</Authors>
     <owners>Yun Chen</owners>
     <PackageTags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</PackageTags>
-    <PackageProjectUrl>https://github.com/masonyc/Xamarin.EnableKeyboardEffect</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/masonyc/Xamarin.KeyboardHelper</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
-    <Description>Toggle softkeyboard display for Anroid / iOS in Xamarin.Forms</Description>
-    <PackageIconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.EnableKeyboardEffect/master/Screenshots/icon.png</PackageIconUrl>
+    <Description>This plugin includes:
+
+Xamarin.EnableKeyboardEffect -- allows user to show/hide softkeyboard on Android/iOS platform in Xamarin.Forms
+
+SoftKeyboardService -- check entry's IsAcceptingText status</Description>
+    <PackageIconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.KeyboardHelper/master/Screenshots/icon.png</PackageIconUrl>
     <Copyright>Copyright © Yun Chen</Copyright>
-    <Version>1.1.1</Version>
+    <Version>2.0.0</Version>
 
     <!-- Optional: Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
     <PublishRepositoryUrl>true</PublishRepositoryUrl>

@@ -4,7 +4,7 @@ using Xamarin.KeyboardHelper.Platform.iOS;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
-[assembly: ResolutionGroupName("Xamarin.EnableKeyboardEffect")]
+[assembly: ResolutionGroupName("Xamarin.KeyboardHelper")]
 [assembly: ExportEffect(typeof(KeyboardEnableEffect), nameof(KeyboardEnableEffect))]
 
 namespace Xamarin.KeyboardHelper.Platform.iOS
@@ -15,7 +15,7 @@ namespace Xamarin.KeyboardHelper.Platform.iOS
         {
             try
             {
-                if (!(Control is UITextField nativeTextField) || EnableKeyboardEffect.GetEnableKeyboard(Element))
+                if (!(Control is UITextField nativeTextField) || KeyboardEffect.GetEnableKeyboard(Element))
                 {
                     return;
                 }

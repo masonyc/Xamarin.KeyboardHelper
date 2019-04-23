@@ -34,7 +34,7 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
                 {
                     return;
                 }
-                editText.ShowSoftInputOnFocus = EnableKeyboardEffect.GetEnableKeyboard(Element);
+                editText.ShowSoftInputOnFocus = KeyboardEffect.GetEnableKeyboard(Element);
 
                 if (!editText.ShowSoftInputOnFocus)
                 {
@@ -80,7 +80,7 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
                     return;
                 }
 
-                editText.ShowSoftInputOnFocus = EnableKeyboardEffect.GetEnableKeyboard(Element);
+                editText.ShowSoftInputOnFocus = KeyboardEffect.GetEnableKeyboard(Element);
 
                 editText.FocusChange -= HideMethod;
 

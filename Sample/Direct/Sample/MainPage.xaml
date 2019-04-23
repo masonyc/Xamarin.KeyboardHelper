@@ -10,12 +10,12 @@
 
         <Button Clicked="button1_clicked" Text="Focus Button 1"></Button>
         <Button Clicked="button2_clicked" Text="Focus Button 2"></Button>
-        <Entry x:Name="Entry1" Text="Hide Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="False">
+        <Entry x:Name="Entry1" Text="Hide Keyboard" effects:KeyboardEffect.EnableKeyboard="False">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>
         </Entry>
-        <Entry x:Name="Entry2" Text="Show Keyboard" effects:EnableKeyboardEffect.EnableKeyboard="True">
+        <Entry x:Name="Entry2" Text="Show Keyboard" effects:KeyboardEffect.EnableKeyboard="True">
             <Entry.Effects>
                 <effects:KeyboardEnableEffect/>
             </Entry.Effects>

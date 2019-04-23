@@ -17,13 +17,13 @@ namespace Xamarin.KeyboardHelper
     /// <summary>
     /// Set up Bindable Properties for KeyboardEnableEffect
     /// </summary>
-    public static class EnableKeyboardEffect
+    public static class KeyboardEffect 
     {
         /// <summary>
         /// Bindable property to Enable keyboard
         /// </summary>
         public static readonly BindableProperty EnableKeyboardProperty =
-            BindableProperty.Create("EnableKeyboard", typeof(bool), typeof(EnableKeyboardEffect), false, propertyChanged: OnEnableKeyboardChanged);
+            BindableProperty.Create("EnableKeyboard", typeof(bool), typeof(KeyboardEffect), false, propertyChanged: OnEnableKeyboardChanged);
 
         /// <summary>
         /// Get EnableKeyboard value
