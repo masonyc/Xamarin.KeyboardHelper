@@ -89,6 +89,39 @@ This plugin includes:
         </Entry>
 ```
 
+# SoftKeyboardService
+
+## Under Page.xaml.cs or view model 
+```csharp
+        public MainPage()
+        {
+            InitializeComponent();
+
+            this.Appearing += MainPage_Appearing;
+            this.Disappearing += MainPage_Disappearing;
+        }
+
+        private void MainPage_Disappearing(object sender, EventArgs e)
+        {
+            SoftKeyboard.Current.VisibilityChanged -= Current_VisibilityChanged;
+        }
+        
+        private void MainPage_Appearing(object sender, EventArgs e)
+        {
+            SoftKeyboard.Current.VisibilityChanged += Current_VisibilityChanged;
+        }
+
+        private void Current_VisibilityChanged(SoftKeyboardEventArgs e)
+        {
+            if(e.IsVisible){
+                // do your things
+            }
+            else{
+                // do your things
+            }
+        }
+```
+
 # Demo
 
 ### Android
