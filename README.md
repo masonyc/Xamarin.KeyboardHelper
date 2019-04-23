@@ -105,7 +105,7 @@ This effect allows user to show/hide softkeyboard on Android/iOS platform in Xam
 
         private void Current_VisibilityChanged(SoftKeyboardEventArgs e)
         {
-            //Do your things at here when keyboard is shown or hide
+            // Do your things here when keyboard is shown or hide
             if (e.IsVisible){
             // Your code here
             }else{
