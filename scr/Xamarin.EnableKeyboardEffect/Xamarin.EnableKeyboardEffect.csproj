@@ -9,7 +9,7 @@
     <LangVersion>latest</LangVersion>
 
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <Authors>Yun Chen</Authors>
+    <Authors>Yun Chen, Elvin (Tharindu) Thudugala</Authors>
     <owners>Yun Chen</owners>
     <PackageTags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</PackageTags>
     <PackageProjectUrl>https://github.com/masonyc/Xamarin.EnableKeyboardEffect</PackageProjectUrl>
@@ -17,7 +17,7 @@
     <Description>Toggle softkeyboard display for Anroid / iOS in Xamarin.Forms</Description>
     <PackageIconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.EnableKeyboardEffect/master/Screenshots/icon.png</PackageIconUrl>
     <Copyright>Copyright © Yun Chen</Copyright>
-    <Version>1.0.8</Version>
+    <Version>1.1</Version>
 
     <!-- Optional: Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
