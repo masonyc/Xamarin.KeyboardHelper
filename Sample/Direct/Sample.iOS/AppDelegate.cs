@@ -1,6 +1,7 @@
 ﻿using Foundation;
 using UIKit;
 using Xamarin.Forms;
+using Xamarin.KeyboardHelper.Platform.iOS;
 
 namespace Sample.iOS
 {
@@ -21,7 +22,7 @@ namespace Sample.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             FormsMaterial.Init();
-            Xamarin.KeyboardHelper.Platform.iOS.Effects.Init();
+            Effects.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
