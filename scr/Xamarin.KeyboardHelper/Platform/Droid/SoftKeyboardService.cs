@@ -1,8 +1,9 @@
-﻿using Android.App;
-using Android.Content;
+﻿using Android.Support.Design.Widget;
 using Android.Views;
 using Android.Views.InputMethods;
+using Android.Widget;
 using System;
+using Context = Android.Content.Context;
 
 namespace Xamarin.KeyboardHelper.Platform.Droid
 {
@@ -23,6 +24,7 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
 
                 // Set visibility to false when focus on background view.
                 var currentFocus = Effects.Activity.CurrentFocus;
+
                 if (currentFocus.AccessibilityClassName == "android.view.ViewGroup")
                 {
                     SoftKeyboard.Current.InvokeVisibilityChanged(false);
@@ -32,7 +34,28 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
 
                 if (_wasAcceptingText == _inputManager.IsAcceptingText)
                 {
-                    return;
+                    // Fixed entry get focused by code pop up keyboard
+                    EditText editText;
+
+                    if (currentFocus is TextInputLayout inputLayout)
+                    {
+                        editText = inputLayout.EditText;
+                    }
+                    else if (currentFocus is EditText text)
+                    {
+                        editText = text;
+                    }
+                    else
+                    {
+                        return;
+                    }
+
+                    if (!editText.ShowSoftInputOnFocus)
+                    {
+                        _inputManager?.HideSoftInputFromWindow(currentFocus.WindowToken, HideSoftInputFlags.None);
+                        SoftKeyboard.Current.InvokeVisibilityChanged(false);
+                        return;
+                    }
                 }
 
                 SoftKeyboard.Current.InvokeVisibilityChanged(_inputManager.IsAcceptingText);

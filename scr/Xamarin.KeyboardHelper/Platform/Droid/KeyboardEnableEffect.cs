@@ -34,12 +34,14 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
                 {
                     return;
                 }
+
                 editText.ShowSoftInputOnFocus = KeyboardEffect.GetEnableKeyboard(Element);
 
                 if (!editText.ShowSoftInputOnFocus)
                 {
                     editText.FocusChange += HideMethod;
                 }
+
                 editText.RequestFocus();
             }
             catch (Exception ex)
@@ -75,17 +77,16 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
                 }
 
                 var visibilityEffect = Element.Effects.OfType<Xamarin.KeyboardHelper.KeyboardEnableEffect>().FirstOrDefault();
+
                 if (visibilityEffect != null)
                 {
                     return;
                 }
 
                 editText.ShowSoftInputOnFocus = KeyboardEffect.GetEnableKeyboard(Element);
-
                 editText.FocusChange -= HideMethod;
 
                 var imm = (InputMethodManager)Effects.Activity?.GetSystemService(Context.InputMethodService);
-
                 imm?.ShowSoftInput(Control, ShowFlags.Implicit);
                 editText.RequestFocus();
             }

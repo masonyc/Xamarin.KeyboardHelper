@@ -19,6 +19,7 @@ namespace Xamarin.KeyboardHelper.Platform.iOS
                 {
                     return;
                 }
+
                 nativeTextField.InputView = new UIView();
 
                 nativeTextField.InputAssistantItem.LeadingBarButtonGroups = null;
@@ -39,6 +40,7 @@ namespace Xamarin.KeyboardHelper.Platform.iOS
                 {
                     return;
                 }
+
                 nativeTextField.InputView = null;
                 nativeTextField.BecomeFirstResponder();
             }

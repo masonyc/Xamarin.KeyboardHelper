@@ -17,7 +17,7 @@ namespace Xamarin.KeyboardHelper
     /// <summary>
     /// Set up Bindable Properties for KeyboardEnableEffect
     /// </summary>
-    public static class KeyboardEffect 
+    public static class KeyboardEffect
     {
         /// <summary>
         /// Bindable property to Enable keyboard
@@ -53,6 +53,7 @@ namespace Xamarin.KeyboardHelper
             }
 
             var enableKeyboard = (bool)newValue;
+
             if (enableKeyboard)
             {
                 var toRemove = view.Effects.FirstOrDefault(e => e is KeyboardEnableEffect);
