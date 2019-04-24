@@ -11,6 +11,6 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.6.0.344457" />
-    <PackageReference Include="Xamarin.KeyboardHelper" Version="2.0.0" />
+    <PackageReference Include="Xamarin.KeyboardHelper" Version="2.0.1" />
   </ItemGroup>
 </Project>

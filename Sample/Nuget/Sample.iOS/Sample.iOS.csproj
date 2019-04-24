@@ -156,7 +156,7 @@
       <Version>3.6.0.293080</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.KeyboardHelper">
-      <Version>2.0.0</Version>
+      <Version>2.0.1</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
