@@ -1,5 +1,9 @@
 <img src="Screenshots/icon.png" width="64px" >
 
+## V2.03 Release Note
+
+Fixed android focus by code keyboard pop up issue
+
 # Xamarin.KeyboardHelper
 
 This plugin includes:
