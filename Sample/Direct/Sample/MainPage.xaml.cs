@@ -22,7 +22,7 @@ namespace Sample
         {
             SoftKeyboard.Current.VisibilityChanged -= Current_VisibilityChanged;
         }
-        
+
         private void MainPage_Appearing(object sender, EventArgs e)
         {
             SoftKeyboard.Current.VisibilityChanged += Current_VisibilityChanged;

@@ -56,7 +56,7 @@
     <PackageReference Include="Xamarin.Android.Support.v7.CardView" Version="28.0.0.1" />
     <PackageReference Include="Xamarin.Android.Support.v7.MediaRouter" Version="28.0.0.1" />
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>3.6.0.293080</Version>
+      <Version>3.6.0.344457</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.KeyboardHelper">
       <Version>2.0.1</Version>

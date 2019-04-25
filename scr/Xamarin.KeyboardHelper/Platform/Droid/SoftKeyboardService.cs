@@ -32,30 +32,34 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
                     return;
                 }
 
-                if (_wasAcceptingText == _inputManager.IsAcceptingText)
+                EditText editText;
+
+                if (currentFocus is TextInputLayout inputLayout)
+                {
+                    editText = inputLayout.EditText;
+                }
+                else if (currentFocus is EditText text)
+                {
+                    editText = text;
+                }
+                else
+                {
+                    return;
+                }
+
+                if (!editText.ShowSoftInputOnFocus)
+                {
+                    _inputManager?.HideSoftInputFromWindow(currentFocus.WindowToken, HideSoftInputFlags.None);
+                }
+
+                if (_wasAcceptingText == _inputManager?.IsAcceptingText)
                 {
                     // Fixed entry get focused by code pop up keyboard
-                    EditText editText;
-
-                    if (currentFocus is TextInputLayout inputLayout)
-                    {
-                        editText = inputLayout.EditText;
-                    }
-                    else if (currentFocus is EditText text)
-                    {
-                        editText = text;
-                    }
-                    else
-                    {
-                        return;
-                    }
-
                     if (!editText.ShowSoftInputOnFocus)
                     {
-                        _inputManager?.HideSoftInputFromWindow(currentFocus.WindowToken, HideSoftInputFlags.None);
                         SoftKeyboard.Current.InvokeVisibilityChanged(false);
-                        return;
                     }
+                    return;
                 }
 
                 SoftKeyboard.Current.InvokeVisibilityChanged(_inputManager.IsAcceptingText);
