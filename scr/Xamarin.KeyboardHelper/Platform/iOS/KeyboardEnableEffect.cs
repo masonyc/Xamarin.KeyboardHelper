@@ -24,7 +24,6 @@ namespace Xamarin.KeyboardHelper.Platform.iOS
 
                 nativeTextField.InputAssistantItem.LeadingBarButtonGroups = null;
                 nativeTextField.InputAssistantItem.TrailingBarButtonGroups = null;
-                nativeTextField.BecomeFirstResponder();
             }
             catch (Exception ex)
             {
@@ -42,7 +41,6 @@ namespace Xamarin.KeyboardHelper.Platform.iOS
                 }
 
                 nativeTextField.InputView = null;
-                nativeTextField.BecomeFirstResponder();
             }
             catch (Exception ex)
             {
