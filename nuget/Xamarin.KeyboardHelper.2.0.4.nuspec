@@ -13,7 +13,7 @@
     </description>
     <copyright>Copyright © Yun Chen</copyright>
     <tags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</tags>
-    <repository type="git" url="https://github.com/masonyc/Xamarin.EnableKeyboardEffect.git" commit="961affba41a70681fdfc3fd80c941a28f5461152" />
+    <repository type="git" url="https://github.com/masonyc/Xamarin.EnableKeyboardEffect.git" commit="ac9256ee15a2dd9b7f04d3a0d0abe4a88303e2df" />
   </metadata>
   <files>
     <file src="lib\**" target="lib" />
