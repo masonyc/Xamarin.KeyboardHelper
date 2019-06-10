@@ -91,6 +91,15 @@ Note: This repo had a name change from Xamarin.EnableKeyboardEffect to Xamarin.K
         </Entry>
 ```
 
+### Request focus on control
+```csharp
+         <Entry effects:KeyboardEffect.EnableKeyboard="False" effects:KeyboardEffect.RequestFocus="True">
+                <Entry.Effects>
+                    <effects:KeyboardEnableEffect />
+                </Entry.Effects>
+         </Entry>
+```
+
 # SoftKeyboardService
 
 ## Under Page.xaml.cs or view model 
