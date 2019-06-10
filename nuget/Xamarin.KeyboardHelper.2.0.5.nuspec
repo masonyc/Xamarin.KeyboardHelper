@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Xamarin.KeyboardHelper</id>
+    <version>2.0.5</version>
+    <authors>Yun Chen, Elvin (Tharindu) Thudugala</authors>
+    <owners>Yun Chen, Elvin (Tharindu) Thudugala</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/masonyc/Xamarin.KeyboardHelper</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.KeyboardHelper/master/Screenshots/icon.png</iconUrl>
+    <description>This plugin includes:
+Xamarin.EnableKeyboardEffect and SoftKeyboardService. More details see github https://github.com/masonyc/Xamarin.KeyboardHelper</description>
+    <copyright>Copyright © Yun Chen</copyright>
+    <tags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</tags>
+    <repository type="git" url="https://github.com/masonyc/Xamarin.EnableKeyboardEffect.git" commit="720430fe99d9bfbf11262304276d6911b9076e15" />
+  </metadata>
+
+  <files>
+    <file src="lib\**" target="lib" />
+  </files>
+</package>

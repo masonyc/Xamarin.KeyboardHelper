@@ -41,6 +41,12 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
                 {
                     editText.FocusChange += HideMethod;
                 }
+
+                var requestFocus = KeyboardEffect.GetRequestFocus(Element);
+                if (requestFocus)
+                {
+                    editText.RequestFocus();
+                }
             }
             catch (Exception ex)
             {
@@ -86,6 +92,11 @@ namespace Xamarin.KeyboardHelper.Platform.Droid
 
                 var imm = (InputMethodManager)Effects.Activity?.GetSystemService(Context.InputMethodService);
                 imm?.ShowSoftInput(Control, ShowFlags.Implicit);
+                var requestFocus = KeyboardEffect.GetRequestFocus(Element);
+                if (requestFocus)
+                {
+                    editText.RequestFocus();
+                }
             }
             catch (Exception ex)
             {

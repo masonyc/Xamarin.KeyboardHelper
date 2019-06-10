@@ -4,17 +4,6 @@ using Xamarin.Forms;
 namespace Xamarin.KeyboardHelper
 {
     /// <summary>
-    /// Enable Keyboard Effect
-    /// </summary>
-    public class KeyboardEnableEffect : RoutingEffect
-    {
-        /// <inheritdoc />
-        public KeyboardEnableEffect() : base("Xamarin.KeyboardHelper.KeyboardEnableEffect")
-        {
-        }
-    }
-
-    /// <summary>
     /// Set up Bindable Properties for KeyboardEnableEffect
     /// </summary>
     public static class KeyboardEffect
@@ -24,6 +13,12 @@ namespace Xamarin.KeyboardHelper
         /// </summary>
         public static readonly BindableProperty EnableKeyboardProperty =
             BindableProperty.Create("EnableKeyboard", typeof(bool), typeof(KeyboardEffect), false, propertyChanged: OnEnableKeyboardChanged);
+
+        /// <summary>
+        /// Bindable property to focus control
+        /// </summary>
+        public static readonly BindableProperty RequestFocusProperty =
+            BindableProperty.Create("RequestFocus", typeof(bool), typeof(KeyboardEffect), false);
 
         /// <summary>
         /// Get EnableKeyboard value
@@ -36,6 +31,16 @@ namespace Xamarin.KeyboardHelper
         }
 
         /// <summary>
+        /// Get RequestFocus value
+        /// </summary>
+        /// <param name="view"></param>
+        /// <returns></returns>
+        public static bool GetRequestFocus(BindableObject view)
+        {
+            return (bool)view.GetValue(RequestFocusProperty);
+        }
+
+        /// <summary>
         /// Set EnableKeyboard Value
         /// </summary>
         /// <param name="view"></param>
@@ -43,6 +48,16 @@ namespace Xamarin.KeyboardHelper
         public static void SetEnableKeyboard(BindableObject view, bool value)
         {
             view.SetValue(EnableKeyboardProperty, value);
+        }
+
+        /// <summary>
+        /// Set RequestFocus Value
+        /// </summary>
+        /// <param name="view"></param>
+        /// <param name="value"></param>
+        public static void SetRequestFocus(BindableObject view, bool value)
+        {
+            view.SetValue(RequestFocusProperty, value);
         }
 
         private static void OnEnableKeyboardChanged(BindableObject bindable, object oldValue, object newValue)
@@ -66,6 +81,17 @@ namespace Xamarin.KeyboardHelper
             {
                 view.Effects.Add(new KeyboardEnableEffect());
             }
+        }
+    }
+
+    /// <summary>
+    /// Enable Keyboard Effect
+    /// </summary>
+    public class KeyboardEnableEffect : RoutingEffect
+    {
+        /// <inheritdoc />
+        public KeyboardEnableEffect() : base("Xamarin.KeyboardHelper.KeyboardEnableEffect")
+        {
         }
     }
 }

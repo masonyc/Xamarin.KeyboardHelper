@@ -24,6 +24,12 @@ namespace Xamarin.KeyboardHelper.Platform.iOS
 
                 nativeTextField.InputAssistantItem.LeadingBarButtonGroups = null;
                 nativeTextField.InputAssistantItem.TrailingBarButtonGroups = null;
+
+                var requestFocus = KeyboardEffect.GetRequestFocus(Element);
+                if (requestFocus)
+                {
+                    nativeTextField.BecomeFirstResponder();
+                }
             }
             catch (Exception ex)
             {
@@ -41,6 +47,11 @@ namespace Xamarin.KeyboardHelper.Platform.iOS
                 }
 
                 nativeTextField.InputView = null;
+                var requestFocus = KeyboardEffect.GetRequestFocus(Element);
+                if (requestFocus)
+                {
+                    nativeTextField.BecomeFirstResponder();
+                }
             }
             catch (Exception ex)
             {
