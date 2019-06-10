@@ -1,22 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:effects="clr-namespace:Xamarin.KeyboardHelper;assembly=Xamarin.KeyboardHelper"
-             Visual="Material"
-             x:Class="Sample.MainPage">
+<ContentPage
+    x:Class="Sample.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:effects="clr-namespace:Xamarin.KeyboardHelper;assembly=Xamarin.KeyboardHelper"
+    Visual="Material">
 
-    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
         <Label x:Name="LabelMessage" />
-        <Button Clicked="button1_clicked" Text="Focus Button 1"></Button>
-        <Button Clicked="button2_clicked" Text="Focus Button 2"></Button>
-        <Entry x:Name="Entry1" Text="Hide Keyboard" effects:KeyboardEffect.EnableKeyboard="False">
+        <Button Clicked="button1_clicked" Text="Focus Button 1" />
+        <Button Clicked="button2_clicked" Text="Focus Button 2" />
+        <Entry
+            x:Name="Entry1"
+            effects:KeyboardEffect.EnableKeyboard="False"
+            effects:KeyboardEffect.RequestFocus="True"
+            Text="Hide Keyboard">
             <Entry.Effects>
-                <effects:KeyboardEnableEffect/>
+                <effects:KeyboardEnableEffect />
             </Entry.Effects>
         </Entry>
-        <Entry x:Name="Entry2" Text="Show Keyboard" effects:KeyboardEffect.EnableKeyboard="True">
+        <Entry
+            x:Name="Entry2"
+            effects:KeyboardEffect.EnableKeyboard="True"
+            Text="Show Keyboard">
             <Entry.Effects>
-                <effects:KeyboardEnableEffect/>
+                <effects:KeyboardEnableEffect />
             </Entry.Effects>
         </Entry>
     </StackLayout>
