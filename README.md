@@ -103,6 +103,14 @@ In the previous version of the plugin, control that uses the effect will automat
          </Entry>
 ```
 
+- `RequestFocus="True"` will not show the keyboard if `EnableKeyboard="False"`
+- `Entry.Focus()` will shows the keyboard even if `EnableKeyboard="False"`. but it will be hidden immediately after it is shown.
+- if you do not call Entry.Focus() by code, keyboard will not show up.
+
+##### Then what does `RequestFocus="True"` do ?
+
+Calling `Entry.Focus()` in page ViewIsAppearing will not focus on the entry. `RequestFocus="True"` will do that for you.
+
 # SoftKeyboardService
 
 ## Under Page.xaml.cs or view model 
