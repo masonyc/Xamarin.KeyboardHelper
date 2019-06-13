@@ -92,6 +92,9 @@ Note: This repo had a name change from Xamarin.EnableKeyboardEffect to Xamarin.K
 ```
 
 ### Request focus on control
+
+In the previous version of the plugin, control that uses the effect will automatically get the focus when view get rendered. In version 2.0.5 and above, control will not automatically get focus anymore, instead if you want to get focus, you have to call the RequestFocus = true in your XAML file.
+
 ```csharp
          <Entry effects:KeyboardEffect.EnableKeyboard="False" effects:KeyboardEffect.RequestFocus="True">
                 <Entry.Effects>
