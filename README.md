@@ -15,7 +15,7 @@ Note: This repo had a name change from Xamarin.EnableKeyboardEffect to Xamarin.K
 # Setup
 
 - Need Xamarin.Forms version 3 or above
-- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper/2.0.3
+- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper/2.0.5
 - Install into your platform-specific projects (iOS/Android), and any .NET Standard 2.0 projects required for your app.
 - Add ```
         xmlns:effects="clr-namespace:Xamarin.KeyboardHelper;assembly=Xamarin.KeyboardHelper"  ```at the top of the xaml file 
@@ -92,6 +92,9 @@ Note: This repo had a name change from Xamarin.EnableKeyboardEffect to Xamarin.K
 ```
 
 ### Request focus on control
+
+In the previous version of the plugin, control that uses the effect will automatically get the focus when view get rendered. In version 2.0.5 and above, control will not automatically get focus anymore, instead if you want to get focus, you have to call the RequestFocus = true in your XAML file.
+
 ```csharp
          <Entry effects:KeyboardEffect.EnableKeyboard="False" effects:KeyboardEffect.RequestFocus="True">
                 <Entry.Effects>
@@ -99,6 +102,14 @@ Note: This repo had a name change from Xamarin.EnableKeyboardEffect to Xamarin.K
                 </Entry.Effects>
          </Entry>
 ```
+
+- `RequestFocus="True"` will not show the keyboard if `EnableKeyboard="False"`
+- `Entry.Focus()` will shows the keyboard even if `EnableKeyboard="False"`. but it will be hidden immediately after it is shown.
+- if you do not call Entry.Focus() by code, keyboard will not show up.
+
+##### Then what does `RequestFocus="True"` do ?
+
+Calling `Entry.Focus()` in page ViewIsAppearing will not focus on the entry. `RequestFocus="True"` will do that for you.
 
 # SoftKeyboardService
 
