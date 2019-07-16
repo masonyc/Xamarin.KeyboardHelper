@@ -7,7 +7,6 @@
     <owners>Yun Chen, Elvin (Tharindu) Thudugala</owners>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <projectUrl>https://github.com/masonyc/Xamarin.KeyboardHelper</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.KeyboardHelper/master/Screenshots/icon.png</iconUrl>
     <description>This plugin includes: Xamarin.EnableKeyboardEffect and SoftKeyboardService. More details see github https://github.com/masonyc/Xamarin.KeyboardHelper</description>

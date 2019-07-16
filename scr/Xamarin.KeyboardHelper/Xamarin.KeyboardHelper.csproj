@@ -15,10 +15,10 @@
     <PackageProjectUrl>https://github.com/masonyc/Xamarin.KeyboardHelper</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
     <Description>This plugin includes:
-Xamarin.EnableKeyboardEffect and SoftKeyboardService. More details see github https://github.com/masonyc/Xamarin.KeyboardHelper</Description>
+Xamarin.EnableKeyboardEffect and SoftKeyboardService. More details see github: https://github.com/masonyc/Xamarin.KeyboardHelper</Description>
     <PackageIconUrl>https://raw.githubusercontent.com/masonyc/Xamarin.KeyboardHelper/master/Screenshots/icon.png</PackageIconUrl>
     <Copyright>Copyright © Yun Chen</Copyright>
-    <Version>2.0.4</Version>
+    <Version>2.0.6</Version>
 
     <!-- Optional: Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
