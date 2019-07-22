@@ -8,11 +8,13 @@ using Xamarin.KeyboardHelper.Platform.Droid;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 using View = Android.Views.View;
+using Android.Runtime;
 
 [assembly: ResolutionGroupName("Xamarin.KeyboardHelper")]
 [assembly: ExportEffect(typeof(KeyboardEnableEffect), nameof(KeyboardEnableEffect))]
 namespace Xamarin.KeyboardHelper.Platform.Droid
 {
+    [Preserve(AllMembers = true)]
     public class KeyboardEnableEffect : PlatformEffect
     {
         protected override void OnAttached()

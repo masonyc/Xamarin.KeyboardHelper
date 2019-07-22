@@ -6,9 +6,9 @@ using Xamarin.Forms.Platform.iOS;
 
 [assembly: ResolutionGroupName("Xamarin.KeyboardHelper")]
 [assembly: ExportEffect(typeof(KeyboardEnableEffect), nameof(KeyboardEnableEffect))]
-
 namespace Xamarin.KeyboardHelper.Platform.iOS
 {
+    [Foundation.Preserve(AllMembers = true)]
     public class KeyboardEnableEffect : PlatformEffect
     {
         protected override void OnAttached()

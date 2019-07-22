@@ -1,4 +1,5 @@
-﻿using Android.Support.Design.Widget;
+﻿using Android.Runtime;
+using Android.Support.Design.Widget;
 using Android.Views;
 using Android.Views.InputMethods;
 using Android.Widget;
@@ -7,6 +8,7 @@ using Context = Android.Content.Context;
 
 namespace Xamarin.KeyboardHelper.Platform.Droid
 {
+    [Preserve(AllMembers = true)]
     public class SoftKeyboardService : Java.Lang.Object, ViewTreeObserver.IOnGlobalLayoutListener
     {
         private static InputMethodManager _inputManager;
