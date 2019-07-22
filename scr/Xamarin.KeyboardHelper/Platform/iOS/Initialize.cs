@@ -1,8 +1,6 @@
-﻿using Foundation;
-using System;
+﻿using System;
 using UIKit;
 
-[assembly: LinkerSafe]
 namespace Xamarin.KeyboardHelper.Platform.iOS
 {
     [Foundation.Preserve(AllMembers = true)]
