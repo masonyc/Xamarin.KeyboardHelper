@@ -4,7 +4,6 @@ using Xamarin.Forms.Internals;
 
 namespace Xamarin.KeyboardHelper
 {
-    [Preserve(AllMembers = true)]
     public class SoftKeyboard
     {
         private static readonly Lazy<SoftKeyboard> MySingleton =

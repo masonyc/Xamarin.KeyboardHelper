@@ -8,7 +8,6 @@ namespace Xamarin.KeyboardHelper
     /// Set up Bindable Properties for KeyboardEnableEffect
     /// </summary>
 
-    [Preserve(AllMembers = true)]
     public static class KeyboardEffect
     {
         /// <summary>
