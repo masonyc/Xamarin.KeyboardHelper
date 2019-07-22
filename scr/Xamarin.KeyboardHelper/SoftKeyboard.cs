@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Threading;
+using Xamarin.Forms.Internals;
 
 namespace Xamarin.KeyboardHelper
 {
+    [Preserve(AllMembers = true)]
     public class SoftKeyboard
     {
         private static readonly Lazy<SoftKeyboard> MySingleton =
             new Lazy<SoftKeyboard>(() => new SoftKeyboard(), LazyThreadSafetyMode.PublicationOnly);
 
-        public static SoftKeyboard Current => MySingleton.Value;
-
         public event SoftKeyboardEventHandler VisibilityChanged;
+
+        public static SoftKeyboard Current => MySingleton.Value;
 
         public void InvokeVisibilityChanged(bool isAcceptingText)
         {

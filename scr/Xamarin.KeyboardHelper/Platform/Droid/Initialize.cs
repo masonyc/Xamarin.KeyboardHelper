@@ -1,6 +1,8 @@
-﻿using Android.App;
+﻿using Android;
+using Android.App;
 using Android.Runtime;
 
+[assembly: LinkerSafe]
 namespace Xamarin.KeyboardHelper.Platform.Droid
 {
     [Preserve(AllMembers = true)]

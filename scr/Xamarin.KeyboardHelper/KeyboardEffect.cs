@@ -1,11 +1,14 @@
 ﻿using System.Linq;
 using Xamarin.Forms;
+using Xamarin.Forms.Internals;
 
 namespace Xamarin.KeyboardHelper
 {
     /// <summary>
     /// Set up Bindable Properties for KeyboardEnableEffect
     /// </summary>
+
+    [Preserve(AllMembers = true)]
     public static class KeyboardEffect
     {
         /// <summary>
