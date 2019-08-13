@@ -10,7 +10,7 @@ Note: This repo had a name change from Xamarin.EnableKeyboardEffect to Xamarin.K
 
 # Building Status
 
-<img src="https://ci.appveyor.com/api/projects/status/github/masonyc/Xamarin.KeyboardHelper?svg=true" width="100">
+[![Build status](https://ci.appveyor.com/api/projects/status/xejai03ue4u20q6r/branch/master?svg=true)](https://ci.appveyor.com/project/masonyc/xamarin-enablekeyboardeffect/branch/master)
 
 # Setup
 
