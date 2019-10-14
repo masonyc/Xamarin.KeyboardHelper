@@ -6,8 +6,6 @@ This plugin includes:
 - KeyboardEnableEffect -- allows user to show/hide softkeyboard on Android/iOS platform in Xamarin.Forms
 - SoftKeyboardService -- check softkeyboard display status
 
-Note: This repo had a name change from Xamarin.EnableKeyboardEffect to Xamarin.KeyboardHelper. Please download a new version of nuget below.
-
 # Building Status
 
 [![Build status](https://ci.appveyor.com/api/projects/status/xejai03ue4u20q6r/branch/master?svg=true)](https://ci.appveyor.com/project/masonyc/xamarin-enablekeyboardeffect/branch/master)
