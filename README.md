@@ -8,13 +8,14 @@ This plugin includes:
 
 # Building Status
 
-[![Build status](https://ci.appveyor.com/api/projects/status/xejai03ue4u20q6r/branch/master?svg=true)](https://ci.appveyor.com/project/masonyc/xamarin-enablekeyboardeffect/branch/master)
+
+![CI](https://github.com/masonyc/Xamarin.KeyboardHelper/workflows/CI/badge.svg?branch=master)
 
 # Setup
 
 - Need Xamarin.Forms version 3 or above
-- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper/2.0.7
-- Install into your platform-specific projects (iOS/Android), and any .NET Standard 2.0 projects required for your app.
+- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper/2.0.8
+- Install into your platform-specific projects (iOS/Android), and any .NET Standard 2.1 projects required for your app.
 - Add ```
         xmlns:effects="clr-namespace:Xamarin.KeyboardHelper;assembly=Xamarin.KeyboardHelper"  ```at the top of the xaml file 
   
