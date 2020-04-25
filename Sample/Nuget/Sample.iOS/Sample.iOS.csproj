@@ -151,9 +151,9 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.5.0.495" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.657" />
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>4.5.0.495</Version>
+      <Version>4.5.0.657</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.KeyboardHelper">
       <Version>3.0.0</Version>
