@@ -1,8 +1,8 @@
 ﻿using Android.Runtime;
-using Android.Support.Design.Widget;
 using Android.Views;
 using Android.Views.InputMethods;
 using Android.Widget;
+using Google.Android.Material.TextField;
 using System;
 using Context = Android.Content.Context;
 

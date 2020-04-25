@@ -1,5 +1,4 @@
 ﻿using Android.Content;
-using Android.Support.Design.Widget;
 using Android.Views.InputMethods;
 using Android.Widget;
 using System;
@@ -9,6 +8,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 using View = Android.Views.View;
 using Android.Runtime;
+using Google.Android.Material.TextField;
 
 [assembly: ResolutionGroupName("Xamarin.KeyboardHelper")]
 [assembly: ExportEffect(typeof(KeyboardEnableEffect), nameof(KeyboardEnableEffect))]
