@@ -23,12 +23,15 @@ jobs:
     - name: build Sample.Android.csproj
       run: msbuild Sample/Direct/Sample.Android/Sample.Android.csproj /verbosity:normal /t:Rebuild /p:Configuration=Debug
 
-  iOS:
+  iOS: 
 
     runs-on: macos-latest
     
     steps:
-
+    - name: setup-xamarin
+      uses: maxim-lobanov/setup-xamarin@v1.1
+      with:
+        xcode-version: 11.x # set the latest available Xcode 11:
     - uses: actions/checkout@v1
     
     - name: Setup NuGet
