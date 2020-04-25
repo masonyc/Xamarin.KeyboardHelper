@@ -1,0 +1,42 @@
+name: CI
+
+on: [push]
+
+jobs:
+  Android:
+
+    runs-on: windows-latest
+    
+    steps:
+
+    - uses: actions/checkout@v1
+    
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v1.0.2
+          
+    - name: Setup MSBuild.exe
+      uses: warrenbuckley/Setup-MSBuild@v1
+      
+    - name : restore Sample.sln
+      run: nuget restore Sample/Direct/Sample.sln
+      
+    - name: build Sample.Android.csproj
+      run: msbuild Sample/Direct/Sample.Android.csproj /verbosity:normal /t:Rebuild /p:Configuration=Debug
+
+  iOS:
+
+    runs-on: macos-latest
+    
+    steps:
+
+    - uses: actions/checkout@v1
+    
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v1.0.2
+          
+    - name : restore Sample.sln
+      run: nuget restore Sample/Direct/Sample.sln
+
+    - name: build Sample.iOS.csproj
+      run: msbuild Sample/Direct/Sample.iOS.csproj /verbosity:normal /t:Rebuild /p:Platform=iPhoneSimulator /p:Configuration=Debug
+ 
