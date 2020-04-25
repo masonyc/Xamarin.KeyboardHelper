@@ -13,6 +13,7 @@
     <owners>Yun Chen</owners>
     <PackageTags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</PackageTags>
     <PackageProjectUrl>https://github.com/masonyc/Xamarin.KeyboardHelper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/masonyc/Xamarin.KeyboardHelper</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Description>
       This plugin includes:
