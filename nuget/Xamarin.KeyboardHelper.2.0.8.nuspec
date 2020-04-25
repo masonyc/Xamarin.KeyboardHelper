@@ -12,7 +12,7 @@
     <description>This plugin includes: Xamarin.EnableKeyboardEffect and SoftKeyboardService. More details see github https://github.com/masonyc/Xamarin.KeyboardHelper</description>
     <copyright>Copyright © Yun Chen</copyright>
     <tags>Xamarin.Forms, Xamarin.Anroid, Xamarin.iOS</tags>
-    <repository type="git" url="https://github.com/masonyc/Xamarin.EnableKeyboardEffect.git" commit="d7ededdbc3982c69e19fc7b4fa9f6b7bce5a9d48"/>
+    <repository type="git" url="https://github.com/masonyc/Xamarin.EnableKeyboardEffect.git" commit="62615c6c188f3d26300e802aec49ea1f2d61bcf0"/>
   </metadata>
 
   <files>
