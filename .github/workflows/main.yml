@@ -21,7 +21,7 @@ jobs:
       run: nuget restore Sample/Direct/Sample.sln
       
     - name: build Sample.Android.csproj
-      run: msbuild Sample/Direct/Sample.Android.csproj /verbosity:normal /t:Rebuild /p:Configuration=Debug
+      run: msbuild Sample/Direct/Sample.Android/Sample.Android.csproj /verbosity:normal /t:Rebuild /p:Configuration=Debug
 
   iOS:
 
@@ -38,5 +38,5 @@ jobs:
       run: nuget restore Sample/Direct/Sample.sln
 
     - name: build Sample.iOS.csproj
-      run: msbuild Sample/Direct/Sample.iOS.csproj /verbosity:normal /t:Rebuild /p:Platform=iPhoneSimulator /p:Configuration=Debug
+      run: msbuild Sample/Direct/Sample.iOS/Sample.iOS.csproj /verbosity:normal /t:Rebuild /p:Platform=iPhoneSimulator /p:Configuration=Debug
  
