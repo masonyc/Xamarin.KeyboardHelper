@@ -14,7 +14,7 @@ This plugin includes:
 # Setup
 
 - Need Xamarin.Forms version 3 or above
-- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper/2.0.8
+- `Xamarin.KeyboardHelper` Available on NuGet: https://www.nuget.org/packages/Xamarin.KeyboardHelper
 - Install into your platform-specific projects (iOS/Android), and any .NET Standard 2.1 projects required for your app.
 - Add ```
         xmlns:effects="clr-namespace:Xamarin.KeyboardHelper;assembly=Xamarin.KeyboardHelper"  ```at the top of the xaml file 
@@ -23,8 +23,8 @@ This plugin includes:
 
 |Platform|Supported|Version|Notes|
 | ------------------- | :-----------: | :------------------: | :------------------: |
-|Xamarin.iOS|Yes|iOS 8+| |
-|Xamarin.Android|Yes|API 16+|Project should [target Android framework 9.0+](https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/android-api-levels?tabs=vswin#framework)|    
+|Xamarin.iOS|Yes|iOS 10+| |
+|Xamarin.Android|Yes|API 19+|Project should [target Android framework 9.0+](https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/android-api-levels?tabs=vswin#framework)|    
 
 # KeyboardEnableEffect
 
@@ -155,7 +155,8 @@ Calling `Entry.Focus()` in page ViewIsAppearing will not focus on the entry. `Re
 
 # Limitations
 
-Only support Android and iOS for the moment. 
+# v3.0
+- requires android X support
 
 # Contributing
 
