@@ -167,10 +167,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms">
-      <Version>4.5.0.657</Version>
+      <Version>4.5.0.495</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>4.5.0.657</Version>
+      <Version>4.5.0.495</Version>
     </PackageReference>
   </ItemGroup>
 </Project>
