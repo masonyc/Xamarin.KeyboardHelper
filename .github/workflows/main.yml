@@ -69,4 +69,4 @@ jobs:
           path: scr/Xamarin.KeyboardHelper/bin/Debug/ 
 
       - name: Push generated package to GitHub registry
-        run: nuget push scr/Xamarin.KeyboardHelper/bin/Debug/*.nupkg -Source "GitHub" -SkipDuplicate
+        run: nuget push scr/Xamarin.KeyboardHelper/bin/Debug/*.nupkg -Source "GitHub" -SkipDuplicate -NoSymbols
