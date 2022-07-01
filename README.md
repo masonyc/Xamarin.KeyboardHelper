@@ -1,3 +1,4 @@
+# No longer maintained, feel free to fork it.
 <img src="Screenshots/icon.png" width="64px" >
 
 # Xamarin.KeyboardHelper
